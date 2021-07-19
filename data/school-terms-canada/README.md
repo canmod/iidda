@@ -9,21 +9,21 @@ Canadian School Term Data
 
 # Source Data
 
-[2018-2019](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/EdCanNet_2018-2019-School-Calendar_v1.pdf)
+[2018-2019](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/EdCanNet_2018-2019-School-Calendar_v1.pdf)
 
-[2017-2018](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/2017-2018-School-Calendar_v8.pdf)
+[2017-2018](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/2017-2018-School-Calendar_v8.pdf)
 
-[2016-2017](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2016-2017-school-calendar_v7.pdf)
+[2016-2017](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2016-2017-school-calendar_v7.pdf)
 
-[2015-2016](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2015-2016-school-calendar_rev6.pdf)
+[2015-2016](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2015-2016-school-calendar_rev6.pdf)
 
-[2014-2015](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2014-2015-school-calendar_rev4.pdf)
+[2014-2015](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2014-2015-school-calendar_rev4.pdf)
 
-[2013-2014](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2013-2014-school-calendar-rev3.pdf)
+[2013-2014](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2013-2014-school-calendar-rev3.pdf)
 
-[2012-2013](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2012-2013-school-calendar.pdf)
+[2012-2013](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2012-2013-school-calendar.pdf)
 
-[2011-2012](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2011-2012-school-calendar.pdf)
+[2011-2012](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/source-data/cea-2011-2012-school-calendar.pdf)
 
 # Data Derivation Process
 
