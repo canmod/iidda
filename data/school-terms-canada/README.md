@@ -5,7 +5,7 @@ Canadian School Term Data
 
 # Derived Data
 
-[OCR digitized Canadian school term data from 2011-2019](raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/derived-data/ocr-extracts.csv)
+[OCR digitized Canadian school term data from 2011-2019](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/derived-data/ocr-extracts.csv)
 
 # Source Data
 
