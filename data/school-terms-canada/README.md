@@ -27,7 +27,7 @@ Canadian School Term Data
 
 # Data Derivation Process
 
-[This R script](https://github.com/davidearn/iidda/data/school-terms-canada/conversion-scripts/school-term-ocr.R) is executed within a docker container produced from a docker image created by [this dockerfile](https://github.com/davidearn/iidda/data/school-terms-canada/dockerfile). The dependencies for the R script can be found [here](https://github.com/stevencarlislewalker/iidda-tools/tree/main/R/iidda/R).
+[This R script](https://github.com/davidearn/iidda/blob/main/data/school-terms-canada/conversion-scripts/school_term_ocr.R) is executed within a docker container produced from a docker image created by [this dockerfile](https://github.com/davidearn/iidda/blob/main/data/school-terms-canada/dockerfile). The dependencies for the R script can be found [here](https://github.com/stevencarlislewalker/iidda-tools/tree/main/R/iidda/R).
 
 # Data Access Method
 
