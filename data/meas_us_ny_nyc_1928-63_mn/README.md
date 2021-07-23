@@ -2,6 +2,7 @@
 # meas_us_ny_nyc_1928-63_mn
 
 [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+[![Classic IIDDA](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://davidearn.mcmaster.ca/iidda)
 
 # Derived Data
 
