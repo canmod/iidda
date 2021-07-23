@@ -1,0 +1,54 @@
+# Baltimore annual population size; interpolated from sparser data,
+# This data file is available online from the International Infectious Disease Data Archive (IIDDA) at http://iidda.mcmaster.ca,
+# Please acknowledge IIDDA in any publication or presentation in which data downloaded from IIDDA are used.,
+# The first publication that made use of this data file was: D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) 'A simple model for complex dynamical transitions in epidemics' Science 287(5453): 667-670,
+# See the IIDDA website for a list of all papers that have used this data file.,
+year,pop.size
+1916,589621
+1917,594637
+1918,641033.333
+1919,687429.667
+1920,733826
+1921,750864
+1922,762222
+1923,773580
+1924,784938
+1925,796000
+1926,807700
+1927,819000
+1928,809338
+1929,799676
+1930,804874
+1931,813500
+1932,813400
+1933,817100
+1934,822350
+1935,827600
+1936,832850
+1937,838100
+1938,843350
+1939,848600
+1940,853850
+1941,859100
+1942,869167.556
+1943,879235.111
+1944,889302.667
+1945,899370.222
+1946,909437.778
+1947,919505.333
+1948,929572.889
+1949,939640.444
+1950,949708
+1951,948639.6
+1952,947571.2
+1953,946502.8
+1954,945434.4
+1955,944366
+1956,943297.6
+1957,942229.2
+1958,941160.8
+1959,940092.4
+1960,939024
+1961,939024
+1962,939024
+1963,939024
