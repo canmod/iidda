@@ -1,0 +1,13 @@
+# Population size in New York city by decade,
+# This data file is available online from the International Infectious Disease Data Archive (IIDDA) at http://iidda.mcmaster.ca,
+# Please acknowledge IIDDA in any publication or presentation in which data downloaded from IIDDA are used.,
+# The first publication that made use of this data file was: D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) 'A simple model for complex dynamical transitions in epidemics' Science 287(5453): 667-670,
+# See the IIDDA website for a list of all papers that have used this data file.,
+year,population
+1900,3437202
+1910,4766883
+1920,5620048
+1930,6930446
+1940,7454995
+1950,7891957
+1960,7781984
