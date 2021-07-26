@@ -3,7 +3,7 @@ Canadian School Term Data
 
 [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
 
-# Derived Data
+# Derived Data (INCOMPLETE WORK IN PROGRESS)
 
 [OCR digitized Canadian school term data from 2011-2019](https://raw.githubusercontent.com/davidearn/iidda/master/data/school-terms-canada/derived-data/ocr-extracts.csv)
 
