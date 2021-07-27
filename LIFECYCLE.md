@@ -1,24 +1,34 @@
 # Dataset Lifecycle States
 
+Inspiration from https://lifecycle.r-lib.org/articles/stages.html.
+
 ## State Transitions
 
-TODO: Draw a state transition graph
+![Life Cycle Diagram](lifecycle.svg)
 
 ## State Descriptions
 
-### Initial States
-
-The following state represent different ways that a dataset can begin its life on IIDDA, either as a `Submission` or as a `Classic-IIDDA` file.
-
-#### Submission
+### Submission
 
 Someone has submitted a new dataset that needs to be reviewed by the IIDDA core team (i.e. by someone with push-privileges). When someone from outside of the core team, `Submission`s will be created via a pull request (TODO: should _everyone_ have to submit a pull request to create a `Submission`?).
 
-#### Classic-IIDDA
+### Static
+
+Static datasets have matured in that they have been determined to comply with all IIDDA standards, and will only be changed if errors are detected.
+
+### Dynamic
+
+Dynamic datasets are mature and have a stable structure, but will change regularly as new data get added to the sources.
+
+### Classic-IIDDA
 
 This is an initial state for a dataset with source that is uploaded directly as an csv/xlsx file that used to be on the classic IIDDA website https://davidearn.mcmaster.ca/iidda.
 
 Any file that begins in the `Classic-IIDDA` state can programmatically be pulled together.
+
+### Superseded
+
+The data in a Superseded dataset has been added to another dataset because it has been determined that this is a more natural home for the data.
 
 ## Dataset Versioning
 
