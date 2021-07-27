@@ -23,7 +23,7 @@ The week-of-year style is being considered (https://en.wikipedia.org/wiki/ISO_we
 
 ##### Disease names/codes
 
-We will be building a list of IIDDA-standard disease names, which should be used in every case when this standard is in place.
+We will be building a list of IIDDA-standard disease names, which should be used in every case when this standard is in place. Current status of this feature is here https://github.com/davidearn/iidda/issues/7.
 
 # Tasks
 
