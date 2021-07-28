@@ -4,7 +4,7 @@ Inspiration from https://lifecycle.r-lib.org/articles/stages.html.
 
 ## State Transitions
 
-![Life Cycle Diagram](lifecycle.svg)
+![Life Cycle Diagram](assets/lifecycle.svg)
 
 ## State Descriptions
 
