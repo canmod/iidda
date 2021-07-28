@@ -37,3 +37,15 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# MacOS
+.DS_Store
+
+# Draw.io
+*.drawio
+
+# Maybe a bad idea to ignore zips
+*.zip
+
+# Excel temp files
+~$*.xlsx
