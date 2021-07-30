@@ -4,7 +4,7 @@ TODO: I feel like derived data need to figure into this picture somehow. Maybe t
 
 ## State Transitions
 
-![Life Cycle Diagram](assets/lifecycle.svg)
+![Life Cycle Diagram](../assets/lifecycle.svg)
 
 ## State Descriptions
 
