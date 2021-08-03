@@ -1,8 +1,7 @@
 
 # pop_us_ny_nyc_1900-60_dc
 
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
-[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Classic&message=IIDDA&color=blue)](https://davidearn.mcmaster.ca/iidda)
+[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Classic-IIDDA&color=blue)](https://github.com/davidearn/iidda/blob/main/LIFECYCLE.md)
 
 # Derived Data
 
