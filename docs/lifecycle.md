@@ -1,14 +1,16 @@
 # Dataset Lifecycle
 
-## State Transitions
+## Life Cycle States
 
 ![Life Cycle Diagram](../assets/lifecycle.svg)
 
-## State Descriptions
-
 ### Unreleased
 
-Derived data 
+All datasets begin their life in an `Unreleased` state. To be in this state the only requirements are
+1. At least one source data file is located in the `source-data` folder of the dataset project
+2. A `README.md` file is located in the top-level of the dataset project with a Lifecycle badge in `Unreleased` state
+
+To get out of this state the dataset must comply with all of the requirements given in the [guidelines for contributors](https://github.com/davidearn/iidda/blob/main/CONTRIBUTING.md) (note: this is currently in draft. todo: add checklist for requirements to leave `Unreleased` state). Once these requirements are satisfied, a pull request should be made with only a single change -- the lifecycle badge gets modified. A member of the IIDDA core team will review the pull request and merge it as either a `Static` or `Dynamic` dataset.
 
 ### Static
 
@@ -23,6 +25,8 @@ Dynamic datasets are mature and have a stable structure, but will change regular
 The data in a Superseded dataset has been added to another dataset because it has been determined that this is a more natural home for the data.
 
 ## Dataset Versioning
+
+Datasets in the `Unreleased` state do not have versions, apart from their `git` commit hash. Datasets in `Static` and `Dynamic` state ...
 
 `major.minor`
 
