@@ -1,7 +1,5 @@
 # Dataset Lifecycle
 
-TODO: I feel like derived data need to figure into this picture somehow. Maybe this fits into the definition of major/minor versions? Could be a gap with the current system.
-
 ## State Transitions
 
 ![Life Cycle Diagram](../assets/lifecycle.svg)
@@ -9,6 +7,8 @@ TODO: I feel like derived data need to figure into this picture somehow. Maybe t
 ## State Descriptions
 
 ### Unreleased
+
+Derived data 
 
 ### Static
 

@@ -1,7 +1,6 @@
-
 # cp_ca_sk__1924-58_wk__sc
 
-[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Classic-IIDDA&color=blue)](https://github.com/davidearn/iidda/blob/main/LIFECYCLE.md)
+[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://davidearn.mcmaster.ca/iidda)
 
 # Derived Data
 
