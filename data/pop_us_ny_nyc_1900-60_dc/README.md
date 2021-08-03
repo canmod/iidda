@@ -1,6 +1,6 @@
 # pop_us_ny_nyc_1900-60_dc
 
-[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://davidearn.mcmaster.ca/iidda)
+[![Dataset Lifecycle Badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://github.com/davidearn/iidda/blob/main/docs/lifecycle.md)
 
 # Derived Data
 

@@ -1,6 +1,6 @@
 # bth_uk__lon_1944-94_yr
 
-[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://davidearn.mcmaster.ca/iidda)
+[![Dataset Lifecycle Badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://github.com/davidearn/iidda/blob/main/docs/lifecycle.md)
 
 # Derived Data
 

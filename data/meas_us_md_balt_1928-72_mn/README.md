@@ -1,6 +1,6 @@
 # meas_us_md_balt_1928-72_mn
 
-[![Classic IIDDA badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://davidearn.mcmaster.ca/iidda)
+[![Dataset Lifecycle Badge](https://img.shields.io/static/v1.svg?label=Lifecycle&message=Unreleased&color=blue)](https://github.com/davidearn/iidda/blob/main/docs/lifecycle.md)
 
 # Derived Data
 
