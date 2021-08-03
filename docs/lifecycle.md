@@ -8,9 +8,7 @@ TODO: I feel like derived data need to figure into this picture somehow. Maybe t
 
 ## State Descriptions
 
-### Submission
-
-Someone has submitted a new dataset that needs to be reviewed by the IIDDA core team (i.e. by someone with push-privileges). When someone from outside of the core team, `Submission`s will be created via a pull request (TODO: should _everyone_ have to submit a pull request to create a `Submission`?).
+### Unreleased
 
 ### Static
 
@@ -19,12 +17,6 @@ Static datasets have matured in that they have been determined to comply with al
 ### Dynamic
 
 Dynamic datasets are mature and have a stable structure, but will change regularly as new data get added to the sources.
-
-### Classic-IIDDA
-
-This is an initial state for a dataset with source that is uploaded directly as an csv/xlsx file that used to be on the classic IIDDA website https://davidearn.mcmaster.ca/iidda.
-
-Any file that begins in the `Classic-IIDDA` state can programmatically be pulled together.
 
 ### Superseded
 
@@ -56,6 +48,10 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 3. PATCH version when you make ...
 
 What are the ...'s?
+
+
+
+
 
 ## Dataset State History
 
