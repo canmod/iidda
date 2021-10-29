@@ -1,0 +1,122 @@
+[
+  {
+    "name": "location",
+    "title": "Location",
+    "type": "string",
+    "format": "default",
+    "description": "Location descriptor as reported in the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "iso_3166",
+    "title": "ISO-3166",
+    "type": "string",
+    "format": "default",
+    "description": "ISO-3166 codes for locations corresponding to countries.",
+    "pattern": ""
+  },
+  {
+    "name": "iso_3166_2",
+    "title": "ISO-3166-2",
+    "type": "string",
+    "format": "default",
+    "description": "ISO-3166-2 codes for locations corresponding to sub-national jurisdictions.",
+    "pattern": ""
+  },
+  {
+    "name": "period_start_date",
+    "title": "Period Start Date",
+    "type": "date",
+    "format": "ISO8601",
+    "description": "Start date of time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "pattern": ""
+  },
+  {
+    "name": "period_end_date",
+    "title": "Period End Date",
+    "type": "date",
+    "format": "ISO8601",
+    "description": "End date of time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "pattern": ""
+  },
+  {
+    "name": "disease",
+    "title": "Disease",
+    "type": "string",
+    "format": "default",
+    "description": "Disease name as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "icd_7",
+    "title": "ICD 7 Code",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": "([A-z]*[0-9]+\\.*[A-z]*[0-9]*[,\\- ]*)+"
+  },
+  {
+    "name": "disease_subclass",
+    "title": "Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease subclass as reported by the original source -- cf. Disease",
+    "pattern": ""
+  },
+  {
+    "name": "icd_7_subclass",
+    "title": "ICD 7 Code for Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_report_week",
+    "title": "Weekly Reported Case Numbers",
+    "type": "integer",
+    "format": "default",
+    "description": "Number of weekly cases reported at the end of the week.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_prev_week",
+    "title": "Weekly Case Numbers for Previous Week",
+    "type": "integer",
+    "format": "default",
+    "description": "Number of weekly cases reported one week later.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_cum_report_year",
+    "title": "Cumulative Case Numbers for the Report Year",
+    "type": "integer",
+    "format": "default",
+    "description": "Total number of cases up until the report week, in the current year.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_cum_prev_year",
+    "title": "Cumulative Case Numbers for the Previous Year",
+    "type": "integer",
+    "format": "default",
+    "description": "Total number of cases up until the report week, in the previous year.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_median_prev_5_years",
+    "title": "Median Weekly Case Numbers Over the Previous Five Years",
+    "type": "integer",
+    "format": "default",
+    "description": "Median number of weekly cases in the report week, with the median taken over the previous five years.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_cum_median_prev_5_years",
+    "title": "Median Cumulative Case Numbers Over the Previous Five Years",
+    "type": "integer",
+    "format": "default",
+    "description": "Median number of cumulative cases by the report week, with the median taken over the previous five years.",
+    "pattern": ""
+  }
+]
