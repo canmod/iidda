@@ -1,5 +1,7 @@
 # Data Folder Organization
 
+![Status:Draft](https://img.shields.io/static/v1.svg?label=Status&message=Draft&color=yellow)
+
 At the top-level of the `data` directory we have a set of folders -- one for every data source. Within each data source there are the following items.
 
 * `README.md` file
