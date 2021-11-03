@@ -2,11 +2,11 @@
 
 ![Status:Draft](https://img.shields.io/static/v1.svg?label=Status&message=Draft&color=yellow)
 
-Data sources may optionally provide a `derived-data` folder containing one or more cleaned data files. These cleaned files provide some or all of the information in the `source-data` folder. The purpose of these `derived-data` files is to be as faithful as possible to the information in the original sources, but formatted in a manner that is more convenient for programmatic use. This document provides the requirements for `derived-data` folders.
+Data sources may optionally provide a `derived-data` folder containing one or more cleaned data files. These cleaned files provide some or all of the information in the `source-data` folder. The purpose of these `derived-data` files is to be as faithful as possible to the information in the original sources, but formatted in a manner that is more convenient for programmatic use. This document provides specifications for `derived-data` folders.
 
 ## Directory Structure
 
-The `derived-data` folder is organized into a series of one or more _products_ that represent a single cleaned data file. Each of these products is itself a folder containing the cleaned data file itself, as well as associated metadata and scripts.
+The `derived-data` folder is organized into a series of one or more data _products_ that represent a single cleaned data file. Each of these products is itself a folder containing the cleaned data file itself, as well as associated metadata and scripts.
 
 For example, the `derived-data` folder of a particular data source in IIDDA contains the following four products.
 
@@ -80,9 +80,7 @@ But at a minimum these metadata should be present.
 
 Assume we have a plain `data.frame` object (i.e. not a `data.table`, `tibble`) called `data` and are writing it to a file called `data.csv`.
 
-#### Python
-
-### Rationale for not using Existing Tools and Standards
+#### Rationale for not using Existing Tools and Standards
 
 Decided not to use CSV lint to figure this out -- https://csvlint.io/about -- they have badges, which is great, but I'm not comfortable using a web-service like this and don't have a good sense for how stable it is.
 
@@ -90,25 +88,25 @@ Decided not to use `tableschema.r` because it was too buggy -- https://github.co
 
 Decided not to use `csvy` format, because although I like the idea it is not widely-enough adopted and `read.csv` doesn't read it out-of-the-box (you need to set `comment.char = "#"`).
 
-## Fields
+#### Fields
 
-### Case
+##### Case
 
 All field names _must_ use `snake_case` (https://en.wikipedia.org/wiki/Snake_case, https://github.com/Tazinho/snakecase)
 
-### Disease Identifiers
+##### Disease Identifiers
 
 Fields named `disease` _must_ be used to contain the names of diseases as they were given in the `source-data`. Fields named `disease_subclass`  _must_ be used to contain the names of any sub-categories of diseases, again as they were given in the `source-data`. If it is necessary to identify the natural language used to describe the diseases, use field names that concatenate the word `disease` or `disease_subclass` with the ISO-639-1 language code (e.g. `disease_fr`).
 
 If ICD codes are reported in the `source-data` these _must_ be placed in fields with names of the form `icd_{version}` and `icd_{version}_subclass`, where `{version}` should be replaced with the ICD version number that was reported in the `source-data`.  The data in these ICD fields _must_ have been reported in the `source-data` and _must not_ have been inferred from the reported disease names.
 
-### Dates
+##### Dates
 
 ISO-8601
 
-### Counts
+##### Counts
 
-### Rates
+##### Rates
 
 * Morbidity -- Cases per population
 * Mortality -- Deaths per population
@@ -123,7 +121,7 @@ Need to be specific about what the denominator is (e.g. per 100000 people)
 
 Different definitions exist -- https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section2.html
 
-### Sex and Gender Identifiers
+##### Sex and Gender Identifiers
 
 Fields named `sex` and `gender` must be used to represent sex and gender information as it was reported in the `source-data`. (TODO: how to choose between `sex` and `gender`). If the field name `sex` is used, valid values include (tentative list to be updated iff we find more cases):
 * Male
@@ -131,7 +129,7 @@ Fields named `sex` and `gender` must be used to represent sex and gender informa
 * Undifferentiated
 (inspired by https://www.cdisc.org/kb/articles/sex-and-gender)
 
-## Records
+##### Records
 
 The meaning of each record in the dataset depends on the kind of data being represented.
 
