@@ -57,7 +57,7 @@ Project Tycho publishes a single format for all of their derived datasets -- htt
 
 CSV files in `derived-data` folders must be RFC-4180 compliant (https://datatracker.ietf.org/doc/html/rfc4180).
 
-We recommend the following [CSV dialect](https://specs.frictionlessdata.io/)
+We recommend the following [CSV dialect](https://specs.frictionlessdata.io/csv-dialect/)
 ```
 {
    "dialect":  {
