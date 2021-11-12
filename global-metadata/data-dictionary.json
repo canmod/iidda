@@ -40,6 +40,14 @@
     "pattern": ""
   },
   {
+    "name": "disease_family",
+    "title": "Disease Family",
+    "type": "string",
+    "format": "default",
+    "description": "Disease family as reported by the original source",
+    "pattern": ""
+  },
+  {
     "name": "disease",
     "title": "Disease",
     "type": "string",
