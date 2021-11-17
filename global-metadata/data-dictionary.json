@@ -56,6 +56,14 @@
     "pattern": ""
   },
   {
+    "name": "icd_9",
+    "title": "ICD 9 Code",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": ""
+  },
+  {
     "name": "icd_7",
     "title": "ICD 7 Code",
     "type": "string",
@@ -69,6 +77,14 @@
     "type": "string",
     "format": "default",
     "description": "Disease subclass as reported by the original source -- cf. Disease",
+    "pattern": ""
+  },
+  {
+    "name": "icd_9_subclass",
+    "title": "ICD 9 Code for Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
     "pattern": ""
   },
   {
