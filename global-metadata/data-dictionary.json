@@ -100,7 +100,7 @@
     "title": "Case Numbers Reported for this Period",
     "type": "integer",
     "format": "default",
-    "description": "Number of cases reported for this period, at the end of this period.",
+    "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source",
     "pattern": ""
   },
   {
@@ -108,7 +108,7 @@
     "title": "Case Numbers Reported for the Previous Period",
     "type": "integer",
     "format": "default",
-    "description": "Number of cases reported for the previous period, at the end of the current period.",
+    "description": "Number of cases reported for the previous period, at the end of this current period -- as reported by the original source",
     "pattern": ""
   },
   {
@@ -116,7 +116,7 @@
     "title": "Cumulative Case Numbers for the Report Year",
     "type": "integer",
     "format": "default",
-    "description": "Total number of cases up until the report period, in the current year.",
+    "description": "Total number of cases up until this current period, in the current year -- as reported by the original source",
     "pattern": ""
   },
   {
@@ -124,7 +124,7 @@
     "title": "Cumulative Case Numbers for the Previous Year",
     "type": "integer",
     "format": "default",
-    "description": "Total number of cases up until the report period, in the previous year.",
+    "description": "Total number of cases up until this current period, in the previous year -- as reported by the original source",
     "pattern": ""
   },
   {
@@ -132,7 +132,7 @@
     "title": "Median Weekly Case Numbers Over the Previous Five Years",
     "type": "integer",
     "format": "default",
-    "description": "Median number of weekly cases in the report period, with the median taken over the previous five years.",
+    "description": "Median number of weekly cases in this current period, with the median taken over the previous five years -- as reported by the original source",
     "pattern": ""
   },
   {
@@ -140,7 +140,7 @@
     "title": "Median Cumulative Case Numbers Over the Previous Five Years",
     "type": "integer",
     "format": "default",
-    "description": "Median number of cumulative cases by the report period, with the median taken over the previous five years.",
+    "description": "Median number of cumulative cases by this current period, with the median taken over the previous five years -- as reported by the original source",
     "pattern": ""
   }
 ]
