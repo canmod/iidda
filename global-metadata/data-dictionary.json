@@ -98,49 +98,49 @@
   {
     "name": "cases_this_period",
     "title": "Case Numbers Reported for this Period",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source",
+    "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
   {
     "name": "cases_prev_period",
     "title": "Case Numbers Reported for the Previous Period",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Number of cases reported for the previous period, at the end of this current period -- as reported by the original source",
+    "description": "Number of cases reported for the previous period, at the end of this current period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
   {
     "name": "cases_cum_report_year",
     "title": "Cumulative Case Numbers for the Report Year",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Total number of cases up until this current period, in the current year -- as reported by the original source",
+    "description": "Total number of cases up until this current period, in the current year -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
   {
     "name": "cases_cum_prev_year",
     "title": "Cumulative Case Numbers for the Previous Year",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Total number of cases up until this current period, in the previous year -- as reported by the original source",
+    "description": "Total number of cases up until this current period, in the previous year -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
   {
     "name": "cases_median_prev_5_years",
     "title": "Median Weekly Case Numbers Over the Previous Five Years",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Median number of weekly cases in this current period, with the median taken over the previous five years -- as reported by the original source",
+    "description": "Median number of weekly cases in this current period, with the median taken over the previous five years -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
   {
     "name": "cases_cum_median_prev_5_years",
     "title": "Median Cumulative Case Numbers Over the Previous Five Years",
-    "type": "integer",
+    "type": "string",
     "format": "default",
-    "description": "Median number of cumulative cases by this current period, with the median taken over the previous five years -- as reported by the original source",
+    "description": "Median number of cumulative cases by this current period, with the median taken over the previous five years -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   }
 ]
