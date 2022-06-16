@@ -100,7 +100,7 @@
     "title": "Lower Age Bound",
     "type": "string",
     "format": "default",
-    "description": "Lower age bound in years of all individuals associated with a particular record",
+    "description": "Lower age bound in years of all individuals associated with a particular record.",
     "pattern": ""
   },
   {
@@ -108,7 +108,15 @@
     "title": "Upper Age Bound",
     "type": "string",
     "format": "default",
-    "description": "Upper age bound in years of all individuals associated with a particular record",
+    "description": "Upper age bound in years of all individuals associated with a particular record.",
+    "pattern": ""
+  },
+  {
+    "name": "sex",
+    "title": "Sex",
+    "type": "string",
+    "format": "default",
+    "description": "Sex of all individuals associated with a particular record as reported by the original source.",
     "pattern": ""
   },
   {
@@ -164,7 +172,7 @@
     "title": "Population",
     "type": "string",
     "format": "default",
-    "description": "Estimated total number of individuals associated with a particular record",
+    "description": "Estimated total number of individuals associated with a particular record.",
     "pattern": ""
   }
 ]
