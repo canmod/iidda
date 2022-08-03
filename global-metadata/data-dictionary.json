@@ -44,7 +44,7 @@
     "title": "Disease Family",
     "type": "string",
     "format": "default",
-    "description": "Disease family as reported by the original source",
+    "description": "Disease family as reported by the original source.",
     "pattern": ""
   },
   {
@@ -99,7 +99,7 @@
     "name": "lower_age",
     "title": "Lower Age Bound",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Lower age bound in years of all individuals associated with a particular record.",
     "pattern": ""
   },
@@ -107,7 +107,7 @@
     "name": "upper_age",
     "title": "Upper Age Bound",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Upper age bound in years of all individuals associated with a particular record.",
     "pattern": ""
   },
@@ -123,7 +123,7 @@
     "name": "cases_this_period",
     "title": "Case Numbers Reported for this Period",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -131,7 +131,7 @@
     "name": "cases_prev_period",
     "title": "Case Numbers Reported for the Previous Period",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Number of cases reported for the previous period, at the end of this current period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -139,7 +139,7 @@
     "name": "cases_cum_report_year",
     "title": "Cumulative Case Numbers for the Report Year",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Total number of cases up until this current period, in the current year -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -147,7 +147,7 @@
     "name": "cases_cum_prev_year",
     "title": "Cumulative Case Numbers for the Previous Year",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Total number of cases up until this current period, in the previous year -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -155,7 +155,7 @@
     "name": "cases_median_prev_5_years",
     "title": "Median Weekly Case Numbers Over the Previous Five Years",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Median number of weekly cases in this current period, with the median taken over the previous five years -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -163,7 +163,7 @@
     "name": "cases_cum_median_prev_5_years",
     "title": "Median Cumulative Case Numbers Over the Previous Five Years",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Median number of cumulative cases by this current period, with the median taken over the previous five years -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
     "pattern": ""
   },
@@ -171,8 +171,16 @@
     "name": "population",
     "title": "Population",
     "type": "string",
-    "format": "default",
+    "format": "num_missing",
     "description": "Estimated total number of individuals associated with a particular record.",
+    "pattern": ""
+  },
+  {
+    "name": "cause",
+    "title": "Cause",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Cause of mortality as reported by the original source.",
     "pattern": ""
   }
 ]
