@@ -1,0 +1,44 @@
+location,iso_3166,iso_3166_2
+CANADA,CA,
+NFLD.,CA,CA-NL
+P.E.I.,CA,CA-PE
+N.S,CA,CA-NS
+N.B.,CA,CA-NB
+QUE.,CA,CA-QC
+ONT.,CA,CA-ON
+MAN.,CA,CA-MB
+SASK.,CA,CA-SK
+ALTA.,CA,CA-AB
+B.C.,CA,CA-BC
+Quebec,CA,CA-QC
+Ontario,CA,CA-ON
+Alberta,CA,CA-AB
+Prince Edward Island,CA,CA-PE
+Manitoba,CA,CA-MB
+Saskatchewan,CA,CA-SK
+British Columbia,CA,CA-BC
+Newfoundland,CA,CA-NL
+Northwest Territories,CA,CA-NT
+Nova Scotia,CA,CA-NS
+New Brunswick,CA,CA-NB
+Yukon,CA,CA-YT
+Canada,CA,
+QUEBEC,CA,CA-QC
+ONTARIO,CA,CA-ON
+SASKATCHEWAN,CA,CA-SK
+ALBERTA,CA,CA-AB
+B.C. - C.B.,CA,CA-BC
+NFLD. - T.-N. ,CA,CA-NL
+N.S. - N.E.,CA,CA-NS
+MANITOBA,CA,CA-MB
+P.E.I. - I.P.E.,CA,CA-PE
+YUKON,CA,CA-YT
+N.W.T. - T.N.O.,CA,CA-NT
+N.S.,CA,CA-NS
+N.W.T.,CA,CA-NT
+Ontatio,CA,CA-ON
+North west Territories,CA,CA-NT
+Nunavut,CA,CA-NU
+Newfoundland and Labrador,CA,CA-NL
+Northwest Territories including Nunavut,CA,CA-NT
+P.E.I,CA,CA-PE
