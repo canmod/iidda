@@ -182,5 +182,21 @@
     "format": "num_missing",
     "description": "Cause of mortality as reported by the original source.",
     "pattern": ""
+  },
+  {
+    "name": "location_scale",
+    "title": "Location Scale",
+    "type": "string",
+    "format": "default",
+    "description": "Location of recorded data (prov, can) for a given case count",
+    "pattern": ""
+  },
+  {
+    "name": "time_scale",
+    "title": "Time Scale",
+    "type": "string",
+    "format": "default",
+    "description": "Time scale of recorded data (wk, mt, qrtr, yr) for a given case count",
+    "pattern": ""
   }
 ]
