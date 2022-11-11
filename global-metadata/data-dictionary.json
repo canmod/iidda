@@ -179,7 +179,7 @@
     "name": "cause",
     "title": "Cause",
     "type": "string",
-    "format": "num_missing",
+    "format": "default",
     "description": "Cause of mortality as reported by the original source.",
     "pattern": ""
   },
@@ -188,7 +188,7 @@
     "title": "Location Scale",
     "type": "string",
     "format": "default",
-    "description": "Location of recorded data (prov, can) for a given case count",
+    "description": "Location of recorded data (prov, can) for a given case count.",
     "pattern": ""
   },
   {
@@ -196,7 +196,87 @@
     "title": "Time Scale",
     "type": "string",
     "format": "default",
-    "description": "Time scale of recorded data (wk, mt, qrtr, yr) for a given case count",
+    "description": "Time scale of recorded data (wk, mt, qrtr, yr) for a given record.",
+    "pattern": ""
+  },
+  {
+    "name": "location_type",
+    "title": "Location Type",
+    "type": "string",
+    "format": "default",
+    "description": "Location type of recorded data (continents, countries, canadian-provinces, canadian-cities, ontario-cities, uk-cities, london-parishes) for a given record.",
+    "pattern": ""
+  },
+  {
+    "name": "comment",
+    "title": "Comment",
+    "type": "string",
+    "format": "default",
+    "description": "Comments associated with a particular record.",
+    "pattern": ""
+  },
+  {
+    "name": "comment_by",
+    "title": "Comment By",
+    "type": "string",
+    "format": "default",
+    "description": "The individual, data processor role, or organization responsible for the comment.",
+    "pattern": ""
+  },
+  {
+    "name": "cause_family",
+    "title": "Cause Family",
+    "type": "string",
+    "format": "default",
+    "description": "Cause family as reported by the original source. ",
+    "pattern": ""
+  },
+  {
+    "name": "births",
+    "title": "Births",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of births reported for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "christened",
+    "title": "Christened",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of christened individuals reported for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "deaths",
+    "title": "Deaths",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of deaths reported for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "burials",
+    "title": "Burials",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of burials reported for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "infected_parishes",
+    "title": "Infected Parishes",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of parishes infected with the plague for this period as reported by the original source. ",
+    "pattern": ""
+  },
+  {
+    "name": "not_infected_parishes",
+    "title": "Not Infected Parishes",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of parishes not infected with the plague for this period as reported by the original source. \t",
     "pattern": ""
   }
 ]
