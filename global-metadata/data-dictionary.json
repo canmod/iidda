@@ -24,6 +24,14 @@
     "pattern": ""
   },
   {
+    "name": "date",
+    "title": "Date",
+    "type": "date",
+    "format": "ISO8601",
+    "description": "Date of time point at which a value is reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "pattern": ""
+  },
+  {
     "name": "period_start_date",
     "title": "Period Start Date",
     "type": "date",
@@ -181,14 +189,6 @@
     "type": "string",
     "format": "default",
     "description": "Cause of mortality as reported by the original source.",
-    "pattern": ""
-  },
-  {
-    "name": "location_scale",
-    "title": "Location Scale",
-    "type": "string",
-    "format": "default",
-    "description": "Location of recorded data (prov, can) for a given case count.",
     "pattern": ""
   },
   {
