@@ -104,6 +104,14 @@
     "pattern": ""
   },
   {
+    "name": "age_group",
+    "title": "Age Group",
+    "type": "string",
+    "format": "default",
+    "description": "Age group descriptor as reported in the original source.",
+    "pattern": ""
+  },
+  {
     "name": "lower_age",
     "title": "Lower Age Bound",
     "type": "string",
@@ -277,6 +285,14 @@
     "type": "string",
     "format": "num_missing",
     "description": "Number of parishes not infected with the plague for this period as reported by the original source. \t",
+    "pattern": ""
+  },
+  {
+    "name": "iidda_source_id",
+    "title": "IIDDA Source ID",
+    "type": "string",
+    "format": "default",
+    "description": "Identifier of the data source in the International Infectious Disease Data Archive (IIDDA) on which each record is based.",
     "pattern": ""
   }
 ]
