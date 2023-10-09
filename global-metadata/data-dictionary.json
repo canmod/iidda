@@ -48,16 +48,16 @@
     "pattern": ""
   },
   {
-    "name": "disease_family",
-    "title": "Disease Family",
+    "name": "historical_disease_family",
+    "title": "Historical Disease Family",
     "type": "string",
     "format": "default",
     "description": "Disease family as reported by the original source.",
     "pattern": ""
   },
   {
-    "name": "disease",
-    "title": "Disease",
+    "name": "historical_disease",
+    "title": "Historical Disease",
     "type": "string",
     "format": "default",
     "description": "Disease name as reported by the original source.",
@@ -80,8 +80,8 @@
     "pattern": "([A-z]*[0-9]+\\.*[A-z]*[0-9]*[,\\- ]*)+"
   },
   {
-    "name": "disease_subclass",
-    "title": "Disease Subclass",
+    "name": "historical_disease_subclass",
+    "title": "Historical Disease Subclass",
     "type": "string",
     "format": "default",
     "description": "Disease subclass as reported by the original source -- cf. Disease",
@@ -168,6 +168,14 @@
     "pattern": ""
   },
   {
+    "name": "nesting_sex",
+    "title": "Nesting Sex",
+    "type": "string",
+    "format": "default",
+    "description": "Sex decriptor for a sex categorization that contains this sex.",
+    "pattern": ""
+  },
+  {
     "name": "cases_this_period",
     "title": "Case Numbers Reported for this Period",
     "type": "string",
@@ -232,6 +240,14 @@
     "pattern": ""
   },
   {
+    "name": "nesting_cause",
+    "title": "Nesting Cause",
+    "type": "string",
+    "format": "default",
+    "description": "Cause descriptor for a group of causes of mortality that includes this cause.",
+    "pattern": ""
+  },
+  {
     "name": "time_scale",
     "title": "Time Scale",
     "type": "string",
@@ -245,6 +261,14 @@
     "type": "string",
     "format": "default",
     "description": "Location type of recorded data (continents, countries, canadian-provinces, canadian-cities, ontario-cities, uk-cities, london-parishes) for a given record.",
+    "pattern": ""
+  },
+  {
+    "name": "nesting_location",
+    "title": "Nesting Location",
+    "type": "string",
+    "format": "default",
+    "description": "Location descriptor for a location that geographically encapsulates this location.",
     "pattern": ""
   },
   {
