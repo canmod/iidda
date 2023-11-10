@@ -64,6 +64,22 @@
     "pattern": ""
   },
   {
+    "name": "disease",
+    "title": "Disease",
+    "type": "string",
+    "format": "default",
+    "description": "Disease name harmonized over data sources.",
+    "pattern": ""
+  },
+  {
+    "name": "nesting_disease",
+    "title": "Nesting Disease",
+    "type": "string",
+    "format": "default",
+    "description": "Disease name that encapsulates this disease in a hierarchy of diseases.",
+    "pattern": ""
+  },
+  {
     "name": "icd_9",
     "title": "ICD 9 Code",
     "type": "string",
@@ -292,7 +308,7 @@
     "title": "Cause Family",
     "type": "string",
     "format": "default",
-    "description": "Cause family as reported by the original source. ",
+    "description": "Cause family as reported by the original source.",
     "pattern": ""
   },
   {
@@ -332,7 +348,7 @@
     "title": "Infected Parishes",
     "type": "string",
     "format": "num_missing",
-    "description": "Number of parishes infected with the plague for this period as reported by the original source. ",
+    "description": "Number of parishes infected with the plague for this period as reported by the original source.",
     "pattern": ""
   },
   {
@@ -340,7 +356,7 @@
     "title": "Not Infected Parishes",
     "type": "string",
     "format": "num_missing",
-    "description": "Number of parishes not infected with the plague for this period as reported by the original source. \t",
+    "description": "Number of parishes not infected with the plague for this period as reported by the original source.",
     "pattern": ""
   },
   {
