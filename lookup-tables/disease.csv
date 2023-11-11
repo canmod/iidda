@@ -1,4 +1,4 @@
-historical_disease_family,historical_disease,historical_disease_subclass,icd_7,icd_9,icd_7_subclass,icd_9_subclass,icd_10_family,icd_10,icd_10_subclass,disease,disease_category,nesting_disease,infection_type,infectious_agent,body_system_primarily_affected,organ_primarily_affected,additional_info,missing_info,pattern_family,pattern,pattern_subclass,exact_family,exact,exact_subclass,link_family,link,link_subclass,notes
+historical_disease_family,historical_disease,historical_disease_subclass,icd_7,icd_9,icd_7_subclass,icd_9_subclass,icd_10_family,icd_10,icd_10_subclass,disease,cleaned_category,nesting_disease,infection_type,infectious_agent,body_system_primarily_affected,organ_primarily_affected,additional_info,missing_info,pattern_family,pattern,pattern_subclass,exact_family,exact,exact_subclass,link_family,link,link_subclass,notes
 Intestinal infectious diseases,Bacillary dysentery,,004,,,,,A03,,bacillary-dysentery,intestinal-infectious-disease,dysentery,bacterial,Shigella,GI,,,,,shig,,,shig,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,https://en.wikipedia.org/wiki/Bacillary_dysentery,,
 Intestinal infectious diseases,"Diarrhoea of the newborn, epidemic.",,009.1,,,,,,,newborn-diarrhoea,intestinal-infectious-disease,diarrhoea,unspecified,unspecified,GI,,,,,diarrhea,,,neonatal diarrhea,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,,,duplicate
 Intestinal infectious diseases,Food poisoning (bacterial) (excludes Salmonella food poisoning),Botulism,,,005.1,,,,,botulism_ex-salmonella,intestinal-infectious-disease,botulism,bacterial,Clostridium-botulinum,GI,,food-borne,,,food,,,,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,,,
@@ -76,7 +76,7 @@ Virus diseases of central nervous system,Western equine encephalitis,,062.1,,,,,
 ,"Encephalitis, infections",,082.0,,,,,,,encephalitis,,,unspecified,unspecified,CNS,,infectious,,,,,,,,,,,probable typo / misspelling of next entry
 ,"Encephalitis, infectious",,,,,,,A86,,encephalitis,,,unspecified,unspecified,CNS,,infectious,,,encephalitis,,,^unspec.*encephalitis$,,,,,
 ,"Encephalitis, infectious",,082.0,,,,,A86,,encephalitis,,,unspecified,unspecified,CNS,,infectious,,,encephalitis,,,^unspec.*encephalitis$,,,,,
-,Epidemic Hepatitis,,,,,,,,,hepatitis-A-B,,hepatitis,unspecified,unspecified,digestive,liver,,"\\\\\\\\\\is this all- unspecified- or other? Is this definitely \\\\\viral?\\\\\\\\\\\\\\\\"","",hepatitis""",,,,,,https://en.wikipedia.org/wiki/Hepatitis,,,,
+,Epidemic Hepatitis,,,,,,,,,hepatitis-A-B,,hepatitis,unspecified,unspecified,digestive,liver,,"\\\is this all- unspecified- or other? Is this definitely \\\viral?\\\\\\\"","",hepatitis""",,,,,,https://en.wikipedia.org/wiki/Hepatitis,,,,
 ,Erysipelas,,,,,,,A46,,erysipelas,,,bacterial,unspecified,skin,,,,,erysipelas,,,erysipelas,,,https://en.wikipedia.org/wiki/Erysipelas,,
 ,Food Poisoning (bacterial),Botulism,,,005.1,,,,,botulism,intestinal-infectious-disease,,bacterial,Clostridium-botulinum,GI,,food-borne,,,food,,,,,,,,
 ,Food Poisoning (bacterial),Staphylococcal,,,005.0,,,,,staphylococcal-food-poisoning,intestinal-infectious-disease,food-poisoning,bacterial,Staphylococcus,GI,,food-borne,,,food,,,,,,,,
@@ -186,7 +186,7 @@ Virus diseases of central nervous system,Western equine encephalitis,,062.1,,,,,
 ,"Other 
 Chacroid, Granuloma inguinale, Lymhpogranuloma venereum",,"099.0
 099.1
-099.2",,,,,,,STI-chancroid-granuloma-inguinale-lymhpogranuloma-venereum,STI,,unspecified,unspecified,urogenital,,,,,,,,,,,,,
+099.2",,,,,,,,,,,,,,,,,,,,,,,,,
 ,Other Salmonella vehicle,Food,,,003.0,,,,,salmonellosis-food-borne,intestinal-infectious-disease,salmonellosis,bacterial,Salmonella_ex-typhi_ex-paratyphi,GI,,,,,salmonella,food,,,,,https://en.wikipedia.org/wiki/Salmonella,,
 ,Other Salmonella vehicle,Other,,,003.9,,,,,salmonellosis_ex-typhi_ex-paratyphi,intestinal-infectious-disease,salmonellosis,bacterial,Salmonella_ex-typhi_ex-paratyphi,GI,,,,,salmonella,,,,,,https://en.wikipedia.org/wiki/Salmonella,,
 ,Other Syphilis,,,"090, 092-097",,,,,,syphilis_ex-syphilis-early,STI,syphilis,bacterial,Treponema-pallidum,urogenital,,,,,syphilis,,,,,,https://en.wikipedia.org/wiki/Syphilis,,
@@ -315,7 +315,7 @@ Chacroid, Granuloma inguinale, Lymhpogranuloma venereum",,"099.0
 ,Verotoxigenic E. coli,,,008.01,,,,,,verotoxigenic-Escherichia-coli,,,bacterial,verotoxigenic-E-coli,GI,,,,,esch.*coli,,,,,,https://en.wikipedia.org/wiki/Shigatoxigenic_and_verotoxigenic_Escherichia_coli,,
 ,Viral Haemorrhagic Fever (excluding Lassa Fever 078.8),,,"065, 078",,,,,,viral-hemorrhagic-fever_ex-lassa-fever,,,viral,unspecified,unspecified,,,,,,,,,,,,,
 ,Viral meningitis,,,,,,,A87,,meningitis_ex-measles_ex-poliomyelitis_ex-rubella_ex-yellow-fever,,meningitis,viral,unspecified,unspecified,,,,,meningitis,,,viral meningitis,,,https://en.wikipedia.org/wiki/Viral_meningitis,,
-,Western Equine Encephalitis,,062.1,,,,,,,western-equine-encephalitis,,encephalitis,viral,Western-equine-encephalitis-virus,CNS,,,,,encephalitis,,,,,,https://en.wikipedia.org/wiki/Western_equine_encephalitis_virus,,
+,Western Equine Encephalitis,,062.1,,,,,,,Western-Equine-encephalitis,,encephalitis,viral,Western-equine-encephalitis-virus,CNS,,,,,encephalitis,,,,,,https://en.wikipedia.org/wiki/Western_equine_encephalitis_virus,,
 ,Whooping Cough,,,,,,,A370,,whooping-cough,,,bacterial,Bordatella-pertussis,respiratory,,,,,pertussis,,,whoop.*la.pertussis$,,,https://en.wikipedia.org/wiki/Whooping_cough,,
 ,Whooping cough,,,,,,,A370,,whooping-cough,,,bacterial,Bordatella-pertussis,respiratory,,,,,pertussis,,,whoop.*la.pertussis$,,,https://en.wikipedia.org/wiki/Whooping_cough,,
 ,Whooping cough,,033,,,,,A370,,whooping-cough,,,bacterial,Bordatella-pertussis,respiratory,,,,,pertussis,,,whoop.*la.pertussis$,,,https://en.wikipedia.org/wiki/Whooping_cough,,
