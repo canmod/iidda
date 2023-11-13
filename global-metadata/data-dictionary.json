@@ -1,13 +1,5 @@
 [
   {
-    "name": "location",
-    "title": "Location",
-    "type": "string",
-    "format": "default",
-    "description": "Location descriptor as reported in the original source.",
-    "pattern": ""
-  },
-  {
     "name": "iso_3166",
     "title": "ISO-3166",
     "type": "string",
@@ -48,38 +40,6 @@
     "pattern": ""
   },
   {
-    "name": "period_mid_date",
-    "title": "Period Mid Date",
-    "type": "date",
-    "format": "ISO8601",
-    "description": "Date in the (rounded down) middle of a time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
-    "pattern": ""
-  },
-  {
-    "name": "days_this_period",
-    "title": "Days this Period",
-    "type": "string",
-    "format": "num_missing",
-    "description": "Number of days in a time interval for which a count was reported.",
-    "pattern": ""
-  },
-  {
-    "name": "historical_disease_family",
-    "title": "Historical Disease Family",
-    "type": "string",
-    "format": "default",
-    "description": "Disease family as reported by the original source.",
-    "pattern": ""
-  },
-  {
-    "name": "historical_disease",
-    "title": "Historical Disease",
-    "type": "string",
-    "format": "default",
-    "description": "Disease name as reported by the original source.",
-    "pattern": ""
-  },
-  {
     "name": "disease",
     "title": "Disease",
     "type": "string",
@@ -96,83 +56,19 @@
     "pattern": ""
   },
   {
-    "name": "icd_9",
-    "title": "ICD 9 Code",
+    "name": "cause",
+    "title": "Cause",
     "type": "string",
     "format": "default",
-    "description": "Disease codes for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "description": "Cause of mortality as reported by the original source.",
     "pattern": ""
   },
   {
-    "name": "icd_7",
-    "title": "ICD 7 Code",
+    "name": "nesting_cause",
+    "title": "Nesting Cause",
     "type": "string",
     "format": "default",
-    "description": "Disease codes for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
-    "pattern": "([A-z]*[0-9]+\\.*[A-z]*[0-9]*[,\\- ]*)+"
-  },
-  {
-    "name": "historical_disease_subclass",
-    "title": "Historical Disease Subclass",
-    "type": "string",
-    "format": "default",
-    "description": "Disease subclass as reported by the original source -- cf. Disease",
-    "pattern": ""
-  },
-  {
-    "name": "icd_9_subclass",
-    "title": "ICD 9 Code for Disease Subclass",
-    "type": "string",
-    "format": "default",
-    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
-    "pattern": ""
-  },
-  {
-    "name": "icd_7_subclass",
-    "title": "ICD 7 Code for Disease Subclass",
-    "type": "string",
-    "format": "default",
-    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
-    "pattern": ""
-  },
-  {
-    "name": "age_group",
-    "title": "Age Group",
-    "type": "string",
-    "format": "default",
-    "description": "Age group descriptor as reported or implied in the original source. If an age group represents all ages then one will typically find the string -- All ages. When combining datasets with and without age groupings, one should filter on this string and a blank string to obtain all reported totals that are not broken down by age. The blank string indicates that there are no available age breakdowns of this total whereas the -- All ages -- string indicates that there are reported breakdowns of this total.",
-    "pattern": ""
-  },
-  {
-    "name": "nesting_age_group",
-    "title": "Nesting Age Group",
-    "type": "string",
-    "format": "default",
-    "description": "Age descriptor of an age group that contains all of the ages in this group. If multiple groups contain this group, then a group of minimum bin-width is chosen. Not all age groups have a nesting age group.",
-    "pattern": ""
-  },
-  {
-    "name": "default_grouping_scheme",
-    "title": "Default Grouping Scheme",
-    "type": "string",
-    "format": "default",
-    "description": "An indicator that equals Default if this age group is part of the default age grouping scheme, and is blank otherwise. This is useful if multiple age grouping schemes exist for some breakdowns of the data. In the ideal situation it is possible to filter on the default binning scheme, group by any other breakdown variables, and summing up a numerical variable, one will obtain the total of that variable over the entire population. However, this ideal is not always possible.",
-    "pattern": ""
-  },
-  {
-    "name": "age_grouping_scheme",
-    "title": "Age Grouping Scheme",
-    "type": "string",
-    "format": "default",
-    "description": "Description of the age grouping scheme within which the age group lies, so that one may identify what sets of age groups can be meaningfully added together. For example, an age grouping scheme could be -- 5-year bins from 0-99+ -- indicating that if all groups in this scheme are added one would obtain the total over all ages.",
-    "pattern": ""
-  },
-  {
-    "name": "age_grouping_total",
-    "title": "Age Grouping Total",
-    "type": "string",
-    "format": "default",
-    "description": "Value that can be matched against age_group to identify the record containing the total that one should obtain by summing all age groups in their age grouping scheme. This will often be something like -- All Ages -- but it can also be things like -- Under 5 years -- for an age grouping scheme that is yearly for all people under five.",
+    "description": "Cause descriptor for a group of causes of mortality that includes this cause.",
     "pattern": ""
   },
   {
@@ -256,6 +152,14 @@
     "pattern": ""
   },
   {
+    "name": "deaths",
+    "title": "Deaths",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of deaths reported for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
     "name": "population",
     "title": "Population",
     "type": "string",
@@ -264,27 +168,19 @@
     "pattern": ""
   },
   {
-    "name": "population_reporting",
-    "title": "Population Reporting",
+    "name": "period_mid_date",
+    "title": "Period Mid Date",
+    "type": "date",
+    "format": "ISO8601",
+    "description": "Date in the (rounded down) middle of a time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "pattern": ""
+  },
+  {
+    "name": "days_this_period",
+    "title": "Days this Period",
     "type": "string",
     "format": "num_missing",
-    "description": "Estimated total number of individuals associated with a case report. For example, if a case count is reported for a country (e.g. Canada) but only certain jurisdictions within that country (e.g. provinces) have contributed data, then the population_reported is the sum of the populations of the contributing jurisdictions. This field can be useful for normalizing by population size in instances when the total population is not representative of the count.",
-    "pattern": ""
-  },
-  {
-    "name": "cause",
-    "title": "Cause",
-    "type": "string",
-    "format": "default",
-    "description": "Cause of mortality as reported by the original source.",
-    "pattern": ""
-  },
-  {
-    "name": "nesting_cause",
-    "title": "Nesting Cause",
-    "type": "string",
-    "format": "default",
-    "description": "Cause descriptor for a group of causes of mortality that includes this cause.",
+    "description": "Number of days in a time interval for which a count was reported.",
     "pattern": ""
   },
   {
@@ -296,11 +192,11 @@
     "pattern": ""
   },
   {
-    "name": "location_type",
-    "title": "Location Type",
+    "name": "location",
+    "title": "Location",
     "type": "string",
     "format": "default",
-    "description": "Location type of recorded data (continents, countries, canadian-provinces, canadian-cities, ontario-cities, uk-cities, london-parishes) for a given record.",
+    "description": "Location descriptor as reported in the original source.",
     "pattern": ""
   },
   {
@@ -312,19 +208,107 @@
     "pattern": ""
   },
   {
-    "name": "comment",
-    "title": "Comment",
+    "name": "location_type",
+    "title": "Location Type",
     "type": "string",
     "format": "default",
-    "description": "Comments associated with a particular record.",
+    "description": "Location type of recorded data (continents, countries, canadian-provinces, canadian-cities, ontario-cities, uk-cities, london-parishes) for a given record.",
     "pattern": ""
   },
   {
-    "name": "comment_by",
-    "title": "Comment By",
+    "name": "age_group",
+    "title": "Age Group",
     "type": "string",
     "format": "default",
-    "description": "The individual, data processor role, or organization responsible for the comment.",
+    "description": "Age group descriptor as reported or implied in the original source. If an age group represents all ages then one will typically find the string -- All ages. When combining datasets with and without age groupings, one should filter on this string and a blank string to obtain all reported totals that are not broken down by age. The blank string indicates that there are no available age breakdowns of this total whereas the -- All ages -- string indicates that there are reported breakdowns of this total.",
+    "pattern": ""
+  },
+  {
+    "name": "nesting_age_group",
+    "title": "Nesting Age Group",
+    "type": "string",
+    "format": "default",
+    "description": "Age descriptor of an age group that contains all of the ages in this group. If multiple groups contain this group, then a group of minimum bin-width is chosen. Not all age groups have a nesting age group.",
+    "pattern": ""
+  },
+  {
+    "name": "default_grouping_scheme",
+    "title": "Default Grouping Scheme",
+    "type": "string",
+    "format": "default",
+    "description": "An indicator that equals Default if this age group is part of the default age grouping scheme, and is blank otherwise. This is useful if multiple age grouping schemes exist for some breakdowns of the data. In the ideal situation it is possible to filter on the default binning scheme, group by any other breakdown variables, and summing up a numerical variable, one will obtain the total of that variable over the entire population. However, this ideal is not always possible.",
+    "pattern": ""
+  },
+  {
+    "name": "age_grouping_scheme",
+    "title": "Age Grouping Scheme",
+    "type": "string",
+    "format": "default",
+    "description": "Description of the age grouping scheme within which the age group lies, so that one may identify what sets of age groups can be meaningfully added together. For example, an age grouping scheme could be -- 5-year bins from 0-99+ -- indicating that if all groups in this scheme are added one would obtain the total over all ages.",
+    "pattern": ""
+  },
+  {
+    "name": "age_grouping_total",
+    "title": "Age Grouping Total",
+    "type": "string",
+    "format": "default",
+    "description": "Value that can be matched against age_group to identify the record containing the total that one should obtain by summing all age groups in their age grouping scheme. This will often be something like -- All Ages -- but it can also be things like -- Under 5 years -- for an age grouping scheme that is yearly for all people under five.",
+    "pattern": ""
+  },
+  {
+    "name": "historical_disease_family",
+    "title": "Historical Disease Family",
+    "type": "string",
+    "format": "default",
+    "description": "Disease family as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "historical_disease",
+    "title": "Historical Disease",
+    "type": "string",
+    "format": "default",
+    "description": "Disease name as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "historical_disease_subclass",
+    "title": "Historical Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease subclass as reported by the original source -- cf. Disease",
+    "pattern": ""
+  },
+  {
+    "name": "icd_9",
+    "title": "ICD 9 Code",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": ""
+  },
+  {
+    "name": "icd_7",
+    "title": "ICD 7 Code",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": "([A-z]*[0-9]+\\.*[A-z]*[0-9]*[,\\- ]*)+"
+  },
+  {
+    "name": "icd_9_subclass",
+    "title": "ICD 9 Code for Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 9 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+    "pattern": ""
+  },
+  {
+    "name": "icd_7_subclass",
+    "title": "ICD 7 Code for Disease Subclass",
+    "type": "string",
+    "format": "default",
+    "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
     "pattern": ""
   },
   {
@@ -333,6 +317,14 @@
     "type": "string",
     "format": "default",
     "description": "Cause family as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "population_reporting",
+    "title": "Population Reporting",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Estimated total number of individuals associated with a case report. For example, if a case count is reported for a country (e.g. Canada) but only certain jurisdictions within that country (e.g. provinces) have contributed data, then the population_reported is the sum of the populations of the contributing jurisdictions. This field can be useful for normalizing by population size in instances when the total population is not representative of the count.",
     "pattern": ""
   },
   {
@@ -349,14 +341,6 @@
     "type": "string",
     "format": "num_missing",
     "description": "Number of christened individuals reported for this period as reported by the original source.",
-    "pattern": ""
-  },
-  {
-    "name": "deaths",
-    "title": "Deaths",
-    "type": "string",
-    "format": "num_missing",
-    "description": "Number of deaths reported for this period as reported by the original source.",
     "pattern": ""
   },
   {
@@ -381,6 +365,22 @@
     "type": "string",
     "format": "num_missing",
     "description": "Number of parishes not infected with the plague for this period as reported by the original source.",
+    "pattern": ""
+  },
+  {
+    "name": "comment",
+    "title": "Comment",
+    "type": "string",
+    "format": "default",
+    "description": "Comments associated with a particular record.",
+    "pattern": ""
+  },
+  {
+    "name": "comment_by",
+    "title": "Comment By",
+    "type": "string",
+    "format": "default",
+    "description": "The individual, data processor role, or organization responsible for the comment.",
     "pattern": ""
   },
   {
