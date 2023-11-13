@@ -398,5 +398,13 @@
     "format": "default",
     "description": "Unique identifier of the dataset in the International Infectious Disease Data Archive (IIDDA) on which each record is based.",
     "pattern": ""
+  },
+  {
+    "name": "original_dataset_id",
+    "title": "IIDDA Original Dataset ID",
+    "type": "string",
+    "format": "default",
+    "description": "Identifies the original dataset of a record before it was harmonized.",
+    "pattern": ""
   }
 ]
