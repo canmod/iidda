@@ -48,6 +48,22 @@
     "pattern": ""
   },
   {
+    "name": "period_mid_date",
+    "title": "Period Mid Date",
+    "type": "date",
+    "format": "ISO8601",
+    "description": "Date in the (rounded down) middle of a time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "pattern": ""
+  },
+  {
+    "name": "days_this_period",
+    "title": "Days this Period",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of days in a time interval for which a count was reported.",
+    "pattern": ""
+  },
+  {
     "name": "historical_disease_family",
     "title": "Historical Disease Family",
     "type": "string",
@@ -245,6 +261,14 @@
     "type": "string",
     "format": "num_missing",
     "description": "Estimated total number of individuals associated with a particular record.",
+    "pattern": ""
+  },
+  {
+    "name": "population_reporting",
+    "title": "Population Reporting",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Estimated total number of individuals associated with a case report. For example, if a case count is reported for a country (e.g. Canada) but only certain jurisdictions within that country (e.g. provinces) have contributed data, then the population_reported is the sum of the populations of the contributing jurisdictions. This field can be useful for normalizing by population size in instances when the total population is not representative of the count.",
     "pattern": ""
   },
   {
