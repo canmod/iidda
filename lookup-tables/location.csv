@@ -1,121 +1,121 @@
-location,location_type,iso_3166,iso_3166_2
-P.E.I,province,CA,CA-PE
-Que.,province,CA,CA-QC
-Ont.,province,CA,CA-ON
-Man.,province,CA,CA-MB
-Sask.,province,CA,CA-SK
-Alta.,province,CA,CA-AB
-Ontatio,province,CA,CA-ON
-North west Territories,province,CA,CA-NT
-Nunavut,province,CA,CA-NU
-P.E.I..,province,CA,CA-PE
-NLFD.,province,CA,CA-NL
-NLD.,province,CA,CA-NL
-FNLD.,province,CA,CA-NL
-NFLD,province,CA,CA-NL
-N.E.I.,,CA,CA-PE
-CANADA,,CA,
-PRINCE EDWARD ISLAND,,CA,CA-PE
-NOVA SCOTIA,,CA,CA-NS
-NEW BRUNSWICK,,CA,CA-NB
-QUEBEC,,CA,CA-QC
-ONTARIO,,CA,CA-ON
-MANITOBA,,CA,CA-MB
-SASKATCHEWAN,,CA,CA-SK
-ALBERTA,,CA,CA-AB
-BRITISH COLUMBIA,,CA,CA-BC
-YUKON,,CA,CA-YT
-NORTHWEST TERRITORIES,,CA,CA-NT
-Canada,,CA,
-P.E.I.,,CA,CA-PE
-N.S.,,CA,CA-NS
-N.B.,,CA,CA-NB
-Qué.,,CA,CA-QC
-Ont.,,CA,CA-ON
-Man.,,CA,CA-MB
-Sask.,,CA,CA-SK
-Alta.,,CA,CA-AB
-B.C.,,CA,CA-BC
-Yukon,,CA,CA-YT
-N.W.T.,,CA,CA-NT
-Nfld.,,CA,CA-NL
-Newfoundland and Labrador,,CA,CA-NL
-Prince Edward Island,,CA,CA-PE
-Nova Scotia,,CA,CA-NS
-New Brunswick,,CA,CA-NB
-Quebec,,CA,CA-QC
-Ontario,,CA,CA-ON
-Manitoba,,CA,CA-MB
-Saskatchewan,,CA,CA-SK
-Alberta,,CA,CA-AB
-British Columbia,,CA,CA-BC
-Northwest Territories including Nunavut,,CA,CA-NT
-Northwest Territories,,CA,CA-NT
-Nunavut,,CA,CA-NU
-P.E.I,,CA,CA-PE
-QUE.,,CA,CA-QC
-ONT.,,CA,CA-ON
-MAN.,,CA,CA-MB
-SASK.,,CA,CA-SK
-ALTA.,,CA,CA-AB
-NFLD.,,CA,CA-NL
-Que.,,CA,CA-QC
-CANADA,country,CA,
-NFLD.,province,CA,CA-NL
-P.E.I.,province,CA,CA-PE
-N.S,province,CA,CA-NS
-N.B.,province,CA,CA-NB
-QUE.,province,CA,CA-QC
-ONT.,province,CA,CA-ON
-MAN.,province,CA,CA-MB
-SASK.,province,CA,CA-SK
-ALTA.,province,CA,CA-AB
-B.C.,province,CA,CA-BC
-N.S,,CA,CA-NS
-Newfoundland,,CA,CA-NL
-Canada,country,CA,
-Newfoundland,province,CA,CA-NL
-Prince Edward Island,province,CA,CA-PE
-Nova Scotia,province,CA,CA-NS
-New Brunswick,province,CA,CA-NB
-Quebec,province,CA,CA-QC
-Ontario,province,CA,CA-ON
-Manitoba,province,CA,CA-MB
-Saskatchewan,province,CA,CA-SK
-Alberta,province,CA,CA-AB
-British Columbia,province,CA,CA-BC
-Yukon,province,CA,CA-YT
-Northwest Territories,province,CA,CA-NT
-NFLD. - T.-N.,province,CA,CA-NL
-P.E.I. - I.P.E.,province,CA,CA-PE
-N.S. - N.E.,province,CA,CA-NS
-QUEBEC,province,CA,CA-QC
-ONTARIO,province,CA,CA-ON
-MANITOBA,province,CA,CA-MB
-SASKATCHEWAN,province,CA,CA-SK
-ALBERTA,province,CA,CA-AB
-B.C. - C.B.,province,CA,CA-BC
-YUKON,province,CA,CA-YT
-N.W.T. - T.N.O.,province,CA,CA-NT
-N.S.,province,CA,CA-NS
-N.W.T.,province,CA,CA-NT
-Ontatio,,CA,CA-ON
-North west Territories,,CA,CA-NT
-P.E.I..,,CA,CA-PE
-NLFD.,,CA,CA-NL
-NLD.,,CA,CA-NL
-FNLD.,,CA,CA-NL
-NFLD,,CA,CA-NL
-Canada,can,CA,
-Newfoundland and Labrador,prov,CA,CA-NL
-Prince Edward Island,prov,CA,CA-PE
-Nova Scotia,prov,CA,CA-NS
-New Brunswick,prov,CA,CA-NB
-Quebec,prov,CA,CA-QC
-Ontario,prov,CA,CA-ON
-Manitoba,prov,CA,CA-MB
-Saskatchewan,prov,CA,CA-SK
-Alberta,prov,CA,CA-AB
-British Columbia,prov,CA,CA-BC
-Yukon Territory,prov,CA,CA-YT
-Northwest Territories,prov,CA,CA-NT
+status,location,location_type,iso_3166,iso_3166_2
+manual_info_and_in_current_data,CANADA,,,
+manual_info_and_in_current_data,PRINCE EDWARD ISLAND,,,
+manual_info_and_in_current_data,NOVA SCOTIA,,,
+manual_info_and_in_current_data,NEW BRUNSWICK,,,
+manual_info_and_in_current_data,QUEBEC,,,
+manual_info_and_in_current_data,ONTARIO,,,
+manual_info_and_in_current_data,MANITOBA,,,
+manual_info_and_in_current_data,SASKATCHEWAN,,,
+manual_info_and_in_current_data,ALBERTA,,,
+manual_info_and_in_current_data,BRITISH COLUMBIA,,,
+manual_info_and_in_current_data,YUKON,,,
+manual_info_and_in_current_data,NORTHWEST TERRITORIES,,,
+manual_info_and_in_current_data,Canada,,,
+manual_info_and_in_current_data,P.E.I.,,,
+manual_info_and_in_current_data,N.S.,,,
+manual_info_and_in_current_data,N.B.,,,
+manual_info_and_in_current_data,Qué.,,,
+manual_info_and_in_current_data,Ont.,,,
+manual_info_and_in_current_data,Man.,,,
+manual_info_and_in_current_data,Sask.,,,
+manual_info_and_in_current_data,Alta.,,,
+manual_info_and_in_current_data,B.C.,,,
+manual_info_and_in_current_data,Yukon,,,
+manual_info_and_in_current_data,N.W.T.,,,
+manual_info_and_in_current_data,Nfld.,,,
+manual_info_and_in_current_data,Newfoundland and Labrador,,,
+manual_info_and_in_current_data,Prince Edward Island,,,
+manual_info_and_in_current_data,Nova Scotia,,,
+manual_info_and_in_current_data,New Brunswick,,,
+manual_info_and_in_current_data,Quebec,,,
+manual_info_and_in_current_data,Ontario,,,
+manual_info_and_in_current_data,Manitoba,,,
+manual_info_and_in_current_data,Saskatchewan,,,
+manual_info_and_in_current_data,Alberta,,,
+manual_info_and_in_current_data,British Columbia,,,
+manual_info_and_in_current_data,Northwest Territories including Nunavut,,,
+manual_info_and_in_current_data,Northwest Territories,,,
+manual_info_and_in_current_data,Nunavut,,,
+manual_info_and_in_current_data,P.E.I,province,,
+manual_info_and_in_current_data,N.S.,province,,
+manual_info_and_in_current_data,N.B.,province,,
+manual_info_and_in_current_data,QUE.,province,,
+manual_info_and_in_current_data,ONT.,province,,
+manual_info_and_in_current_data,MAN.,province,,
+manual_info_and_in_current_data,SASK.,province,,
+manual_info_and_in_current_data,ALTA.,province,,
+manual_info_and_in_current_data,B.C.,province,,
+manual_info_and_in_current_data,CANADA,country,,
+manual_info_and_in_current_data,NFLD.,province,,
+manual_info_and_in_current_data,Que.,province,,
+manual_info_and_in_current_data,Ont.,province,,
+manual_info_and_in_current_data,Man.,province,,
+manual_info_and_in_current_data,Sask.,province,,
+manual_info_and_in_current_data,Alta.,province,,
+manual_info_and_in_current_data,P.E.I.,province,,
+manual_info_and_in_current_data,N.S,province,,
+manual_info_and_in_current_data,Newfoundland,province,,
+manual_info_and_in_current_data,Prince Edward Island,province,,
+manual_info_and_in_current_data,Nova Scotia,province,,
+manual_info_and_in_current_data,New Brunswick,province,,
+manual_info_and_in_current_data,Quebec,province,,
+manual_info_and_in_current_data,Ontario,province,,
+manual_info_and_in_current_data,Manitoba,province,,
+manual_info_and_in_current_data,Saskatchewan,province,,
+manual_info_and_in_current_data,Alberta,province,,
+manual_info_and_in_current_data,British Columbia,province,,
+manual_info_and_in_current_data,Yukon,province,,
+manual_info_and_in_current_data,Northwest Territories,province,,
+manual_info_and_in_current_data,Canada,country,,
+manual_info_and_in_current_data,NFLD. - T.-N.,province,,
+manual_info_and_in_current_data,P.E.I. - I.P.E.,province,,
+manual_info_and_in_current_data,N.S. - N.E.,province,,
+manual_info_and_in_current_data,QUEBEC,province,,
+manual_info_and_in_current_data,ONTARIO,province,,
+manual_info_and_in_current_data,MANITOBA,province,,
+manual_info_and_in_current_data,SASKATCHEWAN,province,,
+manual_info_and_in_current_data,ALBERTA,province,,
+manual_info_and_in_current_data,B.C. - C.B.,province,,
+manual_info_and_in_current_data,YUKON,province,,
+manual_info_and_in_current_data,N.W.T. - T.N.O.,province,,
+manual_info_and_in_current_data,N.W.T.,province,,
+manual_info_and_in_current_data,Ontatio,province,,
+manual_info_and_in_current_data,North west Territories,province,,
+manual_info_and_in_current_data,Nunavut,province,,
+manual_info_and_in_current_data,NLFD.,province,,
+manual_info_and_in_current_data,NFLD,province,,
+manual_info_and_in_current_data,Canada,can,,
+manual_info_and_in_current_data,Newfoundland and Labrador,prov,,
+manual_info_and_in_current_data,Prince Edward Island,prov,,
+manual_info_and_in_current_data,Nova Scotia,prov,,
+manual_info_and_in_current_data,New Brunswick,prov,,
+manual_info_and_in_current_data,Quebec,prov,,
+manual_info_and_in_current_data,Ontario,prov,,
+manual_info_and_in_current_data,Manitoba,prov,,
+manual_info_and_in_current_data,Saskatchewan,prov,,
+manual_info_and_in_current_data,Alberta,prov,,
+manual_info_and_in_current_data,British Columbia,prov,,
+manual_info_and_in_current_data,Yukon Territory,prov,,
+manual_info_and_in_current_data,Northwest Territories,prov,,
+no_manual_info_but_in_current_data,P.E.I..,province,CA,CA-PE
+no_manual_info_but_in_current_data,NLD.,province,CA,CA-NL
+no_manual_info_but_in_current_data,FNLD.,province,CA,CA-NL
+no_manual_info_but_in_current_data,N.E.I.,,CA,CA-PE
+no_manual_info_but_in_current_data,P.E.I,,CA,CA-PE
+no_manual_info_but_in_current_data,QUE.,,CA,CA-QC
+no_manual_info_but_in_current_data,ONT.,,CA,CA-ON
+no_manual_info_but_in_current_data,MAN.,,CA,CA-MB
+no_manual_info_but_in_current_data,SASK.,,CA,CA-SK
+no_manual_info_but_in_current_data,ALTA.,,CA,CA-AB
+no_manual_info_but_in_current_data,NFLD.,,CA,CA-NL
+no_manual_info_but_in_current_data,Que.,,CA,CA-QC
+no_manual_info_but_in_current_data,N.S,,CA,CA-NS
+no_manual_info_but_in_current_data,Newfoundland,,CA,CA-NL
+no_manual_info_but_in_current_data,Ontatio,,CA,CA-ON
+no_manual_info_but_in_current_data,North west Territories,,CA,CA-NT
+no_manual_info_but_in_current_data,P.E.I..,,CA,CA-PE
+no_manual_info_but_in_current_data,NLFD.,,CA,CA-NL
+no_manual_info_but_in_current_data,NLD.,,CA,CA-NL
+no_manual_info_but_in_current_data,FNLD.,,CA,CA-NL
+no_manual_info_but_in_current_data,NFLD,,CA,CA-NL
