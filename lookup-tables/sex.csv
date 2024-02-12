@@ -1,5 +1,4 @@
-status,sex,iso_5218
-manual_info_and_in_current_data,Both sexes,
-manual_info_and_in_current_data,Males,
-manual_info_and_in_current_data,Females,
-no_manual_info_but_in_current_data,unspecified,
+sex,iso_5218
+Both sexes,
+Males,1
+Females,2
