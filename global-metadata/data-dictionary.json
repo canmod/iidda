@@ -184,6 +184,14 @@
     "pattern": ""
   },
   {
+    "name": "basal_disease",
+    "title": "Basal Disease",
+    "type": "string",
+    "format": "default",
+    "description": "Base disease name that encapsulates this disease in a hierarchy of diseases.",
+    "pattern": ""
+  },
+  {
     "name": "cause",
     "title": "Cause",
     "type": "string",
