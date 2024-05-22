@@ -161,10 +161,10 @@ giardiasis,,,Giardiasis,,,,,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://e
 giardiasis,,,Giardiasis,,,,007.1,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://en.wikipedia.org/wiki/Giardiasis,,
 giardiasis,,,giardiasis,,,,,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://en.wikipedia.org/wiki/Giardiasis,,
 goitre,,,Goitre,,,,,,,,,,thyroid,,,,,,,,,,,,
-gonorrhea,gonorrhea,,Gonococcal infections,Others,,,,098,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
-gonorrhea,gonorrhea,,Gonococcal infections,Others,,,,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
-gonorrhea,gonorrhea,,Gonococcal infections (excluding 098.4),,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,,,,,,098.4 is ICD-9 gonoccocal infection of the eye
-gonorrhea,gonorrhea,,Gonococcal infections,,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
+gonorrhea,venereal-diseases,,Gonococcal infections,Others,,,,098,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
+gonorrhea,venereal-diseases,,Gonococcal infections,Others,,,,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
+gonorrhea,venereal-diseases,,Gonococcal infections (excluding 098.4),,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,,,,,,098.4 is ICD-9 gonoccocal infection of the eye
+gonorrhea,venereal-diseases,,Gonococcal infections,,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,venereal-diseases,,Venereal diseases,Gonorrhoea,,,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
 gonorrhea,venereal-diseases,,Venereal diseases,Gonorrhoea,,030-035,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
 gonorrhea,venereal-diseases,Venereal diseases,Gonococcal infections,,098,,,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,https://en.wikipedia.org/wiki/Gonorrhea,,
