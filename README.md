@@ -5,7 +5,7 @@
 
 This GitHub repository will replace [classic IIDDA](https://davidearn.mcmaster.ca/iidda), which is currently offline.
 
-You can browse the data that are currently [here](https://github.com/canmod/iidda/tree/main/data).
+You can browse the available data [here](https://github.com/canmod/iidda/tree/main/data).
 
 ## Comprehensive Canadian Data Digitization Project
 
