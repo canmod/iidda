@@ -388,6 +388,7 @@ paratyphoid-B,paratyphoid-fever,,para. typh. abc B,,,,,,,,,,,,,,,,,,,,,,
 paratyphoid-C,paratyphoid-fever,,para. typh. abc C,,,,,,,,,,,,,,,,,,,,,,
 paratyphoid-fever,typhoid-paratyphoid-fever,,Paratyphoid Fever - Case And Carrier,,,,,,,bacterial,Salmonella-enterica,unspecified,,,,,,,,,,,https://en.wikipedia.org/wiki/Paratyphoid_fever,,
 paratyphoid-fever,typhoid-paratyphoid-fever,Intestinal infectious diseases,Paratyphoid fever,,002,,,,intestinal-infectious-disease,bacterial,Salmonella-paratyphi,GI,,,,,,,,,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,,,duplicate
+paratyphoid-fever,typhoid-paratyphoid-fever,Intestinal infectious diseases,Paratyphoid Fever,,002,,,,intestinal-infectious-disease,bacterial,Salmonella-paratyphi,GI,,,,,,,,,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,,,duplicate
 paratyphoid-fever,typhoid-paratyphoid-fever,,Paratyphoid,,002,,,,intestinal-infectious-disease,bacterial,Salmonella-enterica,unspecified,,,,,paratyphoid,,,paratyphoid.*unspec,,,https://en.wikipedia.org/wiki/Paratyphoid_fever,,
 paratyphoid-fever,typhoid-paratyphoid-fever,,Paratyphoid,,,,002.1-002.9,,intestinal-infectious-disease,bacterial,Salmonella-enterica,unspecified,,,,,paratyphoid,,,paratyphoid.*unspec,,,https://en.wikipedia.org/wiki/Paratyphoid_fever,,
 paratyphoid-fever,typhoid-paratyphoid-fever,,Paratyphoid Fever,,,,,,intestinal-infectious-disease,bacterial,Salmonella-enterica,unspecified,,,,,,,,,,,,,duplicate
@@ -583,6 +584,7 @@ tularemia,,,tularemia,,,,,,,,,,,,,,,,,,,,,,
 typhoid-carrier,,,Typhoid carrier,,,,,,,,,,,,,,,,,,,,,,
 typhoid-fever,typhoid-paratyphoid-fever,,Typhoid Fever - Case And Carrier,,,,,,,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,,https://en.wikipedia.org/wiki/Typhoid_fever,,
 typhoid-fever,typhoid-paratyphoid-fever,Intestinal infectious diseases,Typhoid fever,,001,,,,intestinal-infectious-disease,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,https://en.wikipedia.org/wiki/Typhoid_fever,,
+typhoid-fever,typhoid-paratyphoid-fever,Intestinal infectious diseases,Typhoid Fever,,001,,,,intestinal-infectious-disease,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,https://en.wikipedia.org/wiki/Intestinal_infectious_diseases,https://en.wikipedia.org/wiki/Typhoid_fever,,
 typhoid-fever,typhoid-paratyphoid-fever,,Typhoid,,001,,,,intestinal-infectious-disease,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,,https://en.wikipedia.org/wiki/Typhoid_fever,,
 typhoid-fever,typhoid-paratyphoid-fever,,Typhoid,,,,002.0,,intestinal-infectious-disease,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,,https://en.wikipedia.org/wiki/Typhoid_fever,,
 typhoid-fever,typhoid-paratyphoid-fever,,Typhoid,,,,,,,bacterial,Salmonella-typhi,GI,,,,,typhoid,,,typhoid.fever$,,,https://en.wikipedia.org/wiki/Typhoid_fever,,
