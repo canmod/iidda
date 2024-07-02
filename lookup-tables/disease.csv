@@ -163,7 +163,7 @@ giardiasis,,,Giardiasis,,,,,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://e
 giardiasis,,,Giardiasis,,,,007.1,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://en.wikipedia.org/wiki/Giardiasis,,
 giardiasis,,,giardiasis,,,,,,,parasite,Giardia-duodenalis,GI,,,,,,,,,,,https://en.wikipedia.org/wiki/Giardiasis,,
 goitre,,,Goitre,,,,,,,,,,thyroid,,,,,,,,,,,,
-gonococcal-infections,,Venereal diseases,Gonococcal infections,,098,,,,,,,,,,,,,,,,,,,,
+gonococcal-infections,venereal-diseases,Venereal diseases,Gonococcal infections,,098,,,,,,,,,,,,,,,,,,,,
 gonococcal-infections,venereal-diseases,,Total Gonococcal infections,,,,098,,STI,unspecified,unspecified,unspecified,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonococcal-infections,venereal-diseases,,Gonococcal infections,,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonococcal-infections,venereal-diseases,,g(ono)c(occus)?,,,,,,,bacterial,Gonococcus,urogenital,,,,,,,,,,,https://en.wikipedia.org/wiki/Gonorrhea,,
