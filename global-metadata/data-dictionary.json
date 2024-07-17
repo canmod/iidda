@@ -52,7 +52,7 @@
     "title": "Period Start Date",
     "type": "date",
     "format": "ISO8601",
-    "description": "Start date of time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "description": "The first date within the time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
     "pattern": ""
   },
   {
@@ -60,7 +60,7 @@
     "title": "Period End Date",
     "type": "date",
     "format": "ISO8601",
-    "description": "End date of time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+    "description": "The last date within the time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
     "pattern": ""
   },
   {
@@ -84,7 +84,7 @@
     "title": "Time Scale",
     "type": "string",
     "format": "default",
-    "description": "Time scale of recorded data (wk, mt, qrtr, yr) for a given record.",
+    "description": "Time scale of recorded data (wk, 2wk, mo, qr, yr) for a given record. This field is a qualitative and approximate measure of the time scale over which data were counted. For example, monthly (mo) data might include four-weekly or even five-weekly data. See columns like days_this_period for a quantitative description of the time scale if it is available, or produce your own description using period_start_date and period_end_date.",
     "pattern": ""
   },
   {
