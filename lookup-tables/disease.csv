@@ -173,6 +173,7 @@ gonococcal-ophthalmia-neonatorum,gonococcal-infections,,Gonococcal infections,Op
 gonococcal-ophthalmia-neonatorum,gonococcal-infections,,Gonococcal Ophthalmia Neonatorum,,,,098.4,,STI,bacterial,unspecified,ocular,eye,,,,gonor|gonoc,,,gonoc.*eye,,,https://en.wikipedia.org/wiki/Neonatal_conjunctivitis,,
 gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
 gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,030-035,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
+gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,030-034,,,,,,,,,,,,,,,,,,,
 gonorrhea,gonococcal-infections,,Gonococcal infections,Others,,,,098,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,Gonococcal infections,Others,,,,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,Gonococcal infections (excluding 098.4),,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,,,,,,098.4 is ICD-9 gonoccocal infection of the eye
@@ -181,7 +182,6 @@ gonorrhea,gonococcal-infections,,Gonorrhea,,,,,,STI,bacterial,Gonococcus,urogeni
 gonorrhea,gonococcal-infections,,Gonorrhoea,,,,,,STI,bacterial,Gonococcus,urogenital,,,,,,,,,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,gonorrhoea,,,,,,STI,bacterial,Gonococcus,urogenital,,,,,,,,,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,gonorrhoea (all types),,,,,,STI,,,,,,,,,,,,,,,,
-gonorrhea,venereal-diseases,,Venereal diseases,Gonorrhoea,,030-034,,,,,,,,,,,,,,,,,,,
 granuloma-inguinale,other-venereal-diseases,,Granuloma inguinale,,,,,,STI,bacterial,Klebsiella-granulomatis,urogenital,,,,,granuloma,,,granuloma.inguinale,,,https://en.wikipedia.org/wiki/Granuloma_inguinale,,
 group-A-strep,,,"Streptococcal Disease - Group A, Invasive",,,,,,,bacterial,group-A-streptococcus,unspecified,,,,,strep,,,,,,https://en.wikipedia.org/wiki/Group_A_streptococcal_infection,,
 group-A-strep,,,Invasive Group A Streptococcal Disease,,,,"034, 035, 670",,,bacterial,group-A-streptococcus,unspecified,,,,,strep,,,,,,https://en.wikipedia.org/wiki/Group_A_streptococcal_infection,,
