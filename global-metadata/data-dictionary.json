@@ -1,6 +1,6 @@
 [
   {
-    "column": "age_group",
+    "name": "age_group",
     "title": "Age Group",
     "type": "string",
     "format": "default",
@@ -8,7 +8,7 @@
     "pattern": ""
   },
   {
-    "column": "age_grouping_scheme",
+    "name": "age_grouping_scheme",
     "title": "Age Grouping Scheme",
     "type": "string",
     "format": "default",
@@ -16,7 +16,7 @@
     "pattern": ""
   },
   {
-    "column": "age_grouping_total",
+    "name": "age_grouping_total",
     "title": "Age Grouping Total",
     "type": "string",
     "format": "default",
@@ -24,7 +24,7 @@
     "pattern": ""
   },
   {
-    "column": "basal_disease",
+    "name": "basal_disease",
     "title": "Basal Disease",
     "type": "string",
     "format": "default",
@@ -32,7 +32,7 @@
     "pattern": ""
   },
   {
-    "column": "births",
+    "name": "births",
     "title": "Births",
     "type": "string",
     "format": "num_missing",
@@ -40,7 +40,7 @@
     "pattern": ""
   },
   {
-    "column": "burials",
+    "name": "burials",
     "title": "Burials",
     "type": "string",
     "format": "num_missing",
@@ -48,7 +48,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_cum_median_prev_5_years",
+    "name": "cases_cum_median_prev_5_years",
     "title": "Median Cumulative Case Numbers Over the Previous Five Years",
     "type": "string",
     "format": "num_missing",
@@ -56,7 +56,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_cum_prev_year",
+    "name": "cases_cum_prev_year",
     "title": "Cumulative Case Numbers for the Previous Year",
     "type": "string",
     "format": "num_missing",
@@ -64,7 +64,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_cum_report_year",
+    "name": "cases_cum_report_year",
     "title": "Cumulative Case Numbers for the Report Year",
     "type": "string",
     "format": "num_missing",
@@ -72,7 +72,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_median_prev_5_years",
+    "name": "cases_median_prev_5_years",
     "title": "Median Weekly Case Numbers Over the Previous Five Years",
     "type": "string",
     "format": "num_missing",
@@ -80,7 +80,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_prev_period",
+    "name": "cases_prev_period",
     "title": "Case Numbers Reported for the Previous Period",
     "type": "string",
     "format": "num_missing",
@@ -88,7 +88,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_prev_year",
+    "name": "cases_prev_year",
     "title": "Case Numbers Reported for the Previous Year",
     "type": "string",
     "format": "num_missing",
@@ -96,7 +96,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_this_period",
+    "name": "cases_this_period",
     "title": "Case Numbers Reported for this Period",
     "type": "string",
     "format": "num_missing",
@@ -104,7 +104,7 @@
     "pattern": ""
   },
   {
-    "column": "cases_two_years_ago",
+    "name": "cases_two_years_ago",
     "title": "Case Numbers Reported Two Years Previous",
     "type": "string",
     "format": "num_missing",
@@ -112,7 +112,7 @@
     "pattern": ""
   },
   {
-    "column": "cause",
+    "name": "cause",
     "title": "Cause",
     "type": "string",
     "format": "default",
@@ -120,7 +120,7 @@
     "pattern": ""
   },
   {
-    "column": "cause_family",
+    "name": "cause_family",
     "title": "Cause Family",
     "type": "string",
     "format": "default",
@@ -128,7 +128,7 @@
     "pattern": ""
   },
   {
-    "column": "christened",
+    "name": "christened",
     "title": "Christened",
     "type": "string",
     "format": "num_missing",
@@ -136,7 +136,7 @@
     "pattern": ""
   },
   {
-    "column": "comment",
+    "name": "comment",
     "title": "Comment",
     "type": "string",
     "format": "default",
@@ -144,7 +144,7 @@
     "pattern": ""
   },
   {
-    "column": "comment_by",
+    "name": "comment_by",
     "title": "Comment By",
     "type": "string",
     "format": "default",
@@ -152,7 +152,7 @@
     "pattern": ""
   },
   {
-    "column": "dataset_id",
+    "name": "dataset_id",
     "title": "IIDDA Dataset ID",
     "type": "string",
     "format": "default",
@@ -160,7 +160,7 @@
     "pattern": ""
   },
   {
-    "column": "date",
+    "name": "date",
     "title": "Date",
     "type": "date",
     "format": "ISO8601",
@@ -168,7 +168,7 @@
     "pattern": ""
   },
   {
-    "column": "days_this_period",
+    "name": "days_this_period",
     "title": "Days this Period",
     "type": "string",
     "format": "num_missing",
@@ -176,7 +176,7 @@
     "pattern": ""
   },
   {
-    "column": "deaths",
+    "name": "deaths",
     "title": "Deaths",
     "type": "string",
     "format": "num_missing",
@@ -184,7 +184,7 @@
     "pattern": ""
   },
   {
-    "column": "default_grouping_scheme",
+    "name": "default_grouping_scheme",
     "title": "Default Grouping Scheme",
     "type": "string",
     "format": "default",
@@ -192,7 +192,7 @@
     "pattern": ""
   },
   {
-    "column": "diagnosis_certainty",
+    "name": "diagnosis_certainty",
     "title": "Diagnosis Certainty",
     "type": "string",
     "format": "default",
@@ -200,7 +200,7 @@
     "pattern": ""
   },
   {
-    "column": "disease",
+    "name": "disease",
     "title": "Disease",
     "type": "string",
     "format": "default",
@@ -208,7 +208,7 @@
     "pattern": ""
   },
   {
-    "column": "historical_age_group",
+    "name": "historical_age_group",
     "title": "Historical Age Group",
     "type": "string",
     "format": "default",
@@ -216,7 +216,7 @@
     "pattern": ""
   },
   {
-    "column": "historical_disease",
+    "name": "historical_disease",
     "title": "Historical Disease",
     "type": "string",
     "format": "default",
@@ -224,7 +224,7 @@
     "pattern": ""
   },
   {
-    "column": "historical_disease_family",
+    "name": "historical_disease_family",
     "title": "Historical Disease Family",
     "type": "string",
     "format": "default",
@@ -232,7 +232,7 @@
     "pattern": ""
   },
   {
-    "column": "historical_disease_subclass",
+    "name": "historical_disease_subclass",
     "title": "Historical Disease Subclass",
     "type": "string",
     "format": "default",
@@ -240,7 +240,7 @@
     "pattern": ""
   },
   {
-    "column": "icd_7",
+    "name": "icd_7",
     "title": "ICD 7 Code",
     "type": "string",
     "format": "default",
@@ -248,7 +248,7 @@
     "pattern": "([A-z]*[0-9]+\\.*[A-z]*[0-9]*[,\\- ]*)+"
   },
   {
-    "column": "icd_7_subclass",
+    "name": "icd_7_subclass",
     "title": "ICD 7 Code for Disease Subclass",
     "type": "string",
     "format": "default",
@@ -256,7 +256,7 @@
     "pattern": ""
   },
   {
-    "column": "icd_9",
+    "name": "icd_9",
     "title": "ICD 9 Code",
     "type": "string",
     "format": "default",
@@ -264,7 +264,7 @@
     "pattern": ""
   },
   {
-    "column": "icd_9_subclass",
+    "name": "icd_9_subclass",
     "title": "ICD 9 Code for Disease Subclass",
     "type": "string",
     "format": "default",
@@ -272,7 +272,7 @@
     "pattern": ""
   },
   {
-    "column": "iidda_source_id",
+    "name": "iidda_source_id",
     "title": "IIDDA Source ID",
     "type": "string",
     "format": "default",
@@ -280,7 +280,7 @@
     "pattern": ""
   },
   {
-    "column": "infected_parishes",
+    "name": "infected_parishes",
     "title": "Infected Parishes",
     "type": "string",
     "format": "num_missing",
@@ -288,7 +288,7 @@
     "pattern": ""
   },
   {
-    "column": "iso_3166",
+    "name": "iso_3166",
     "title": "ISO-3166",
     "type": "string",
     "format": "default",
@@ -296,7 +296,7 @@
     "pattern": ""
   },
   {
-    "column": "iso_3166_2",
+    "name": "iso_3166_2",
     "title": "ISO-3166-2",
     "type": "string",
     "format": "default",
@@ -304,7 +304,7 @@
     "pattern": ""
   },
   {
-    "column": "location",
+    "name": "location",
     "title": "Location",
     "type": "string",
     "format": "default",
@@ -312,7 +312,7 @@
     "pattern": ""
   },
   {
-    "column": "location_type",
+    "name": "location_type",
     "title": "Location Type",
     "type": "string",
     "format": "default",
@@ -320,7 +320,7 @@
     "pattern": ""
   },
   {
-    "column": "lower_age",
+    "name": "lower_age",
     "title": "Lower Age Bound",
     "type": "string",
     "format": "num_missing",
@@ -328,7 +328,7 @@
     "pattern": ""
   },
   {
-    "column": "nesting_age_group",
+    "name": "nesting_age_group",
     "title": "Nesting Age Group",
     "type": "string",
     "format": "default",
@@ -336,7 +336,7 @@
     "pattern": ""
   },
   {
-    "column": "nesting_cause",
+    "name": "nesting_cause",
     "title": "Nesting Cause",
     "type": "string",
     "format": "default",
@@ -344,7 +344,7 @@
     "pattern": ""
   },
   {
-    "column": "nesting_disease",
+    "name": "nesting_disease",
     "title": "Nesting Disease",
     "type": "string",
     "format": "default",
@@ -352,7 +352,7 @@
     "pattern": ""
   },
   {
-    "column": "nesting_location",
+    "name": "nesting_location",
     "title": "Nesting Location",
     "type": "string",
     "format": "default",
@@ -360,7 +360,7 @@
     "pattern": ""
   },
   {
-    "column": "nesting_sex",
+    "name": "nesting_sex",
     "title": "Nesting Sex",
     "type": "string",
     "format": "default",
@@ -368,7 +368,7 @@
     "pattern": ""
   },
   {
-    "column": "not_infected_parishes",
+    "name": "not_infected_parishes",
     "title": "Not Infected Parishes",
     "type": "string",
     "format": "num_missing",
@@ -376,7 +376,7 @@
     "pattern": ""
   },
   {
-    "column": "original_dataset_id",
+    "name": "original_dataset_id",
     "title": "IIDDA Original Dataset ID",
     "type": "string",
     "format": "default",
@@ -384,7 +384,7 @@
     "pattern": ""
   },
   {
-    "column": "period_end_date",
+    "name": "period_end_date",
     "title": "Period End Date",
     "type": "date",
     "format": "ISO8601",
@@ -392,7 +392,7 @@
     "pattern": ""
   },
   {
-    "column": "period_mid_date",
+    "name": "period_mid_date",
     "title": "Period Mid Date",
     "type": "date",
     "format": "ISO8601",
@@ -400,7 +400,7 @@
     "pattern": ""
   },
   {
-    "column": "period_start_date",
+    "name": "period_start_date",
     "title": "Period Start Date",
     "type": "date",
     "format": "ISO8601",
@@ -408,7 +408,7 @@
     "pattern": ""
   },
   {
-    "column": "population",
+    "name": "population",
     "title": "Population",
     "type": "string",
     "format": "num_missing",
@@ -416,7 +416,7 @@
     "pattern": ""
   },
   {
-    "column": "population_reporting",
+    "name": "population_reporting",
     "title": "Population Reporting",
     "type": "string",
     "format": "num_missing",
@@ -424,7 +424,7 @@
     "pattern": ""
   },
   {
-    "column": "record_origin",
+    "name": "record_origin",
     "title": "Record Origin",
     "type": "string",
     "format": "default",
@@ -432,7 +432,7 @@
     "pattern": ""
   },
   {
-    "column": "sex",
+    "name": "sex",
     "title": "Sex",
     "type": "string",
     "format": "default",
@@ -440,7 +440,7 @@
     "pattern": ""
   },
   {
-    "column": "time_scale",
+    "name": "time_scale",
     "title": "Time Scale",
     "type": "string",
     "format": "default",
@@ -448,7 +448,7 @@
     "pattern": ""
   },
   {
-    "column": "upper_age",
+    "name": "upper_age",
     "title": "Upper Age Bound",
     "type": "string",
     "format": "num_missing",
@@ -456,7 +456,7 @@
     "pattern": ""
   },
   {
-    "column": "year",
+    "name": "year",
     "title": "Year",
     "type": "string",
     "format": "num_missing",
