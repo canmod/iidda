@@ -173,6 +173,7 @@ gonococcal-ophthalmia-neonatorum,gonococcal-infections,,Gonococcal infections,Op
 gonococcal-ophthalmia-neonatorum,gonococcal-infections,,Gonococcal Ophthalmia Neonatorum,,,,098.4,,STI,bacterial,unspecified,ocular,eye,,,,gonor|gonoc,,,gonoc.*eye,,,https://en.wikipedia.org/wiki/Neonatal_conjunctivitis,,
 gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
 gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,030-035,,,STI,bacterial,Gonococcus,urogenital,,,,,,gonor|gonoc,,,,,https://en.wikipedia.org/wiki/Sexually_transmitted_infection,,inconsistent spelling
+gonorrhea,gonococcal-infections,,Venereal diseases,Gonorrhoea,,030-034,,,,,,,,,,,,,,,,,,,
 gonorrhea,gonococcal-infections,,Gonococcal infections,Others,,,,098,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,Gonococcal infections,Others,,,,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,gonococcal.infection$,,,https://en.wikipedia.org/wiki/Gonorrhea,,
 gonorrhea,gonococcal-infections,,Gonococcal infections (excluding 098.4),,,,098,,STI,bacterial,Gonococcus,urogenital,,,,,gonor|gonoc,,,,,,,,098.4 is ICD-9 gonoccocal infection of the eye
