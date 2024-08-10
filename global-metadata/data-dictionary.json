@@ -200,6 +200,14 @@
     "pattern": ""
   },
   {
+    "name": "digitization_id",
+    "title": "IIDDA Digitization ID",
+    "type": "string",
+    "format": "default",
+    "description": "Unique identifier of the digitization of the source data that were used to produce the each record. This identifier can be used to obtain these digitizations in the International Infectious Disease Data Archive (IIDDA). Blank values indicate that the information in such records was not unambiguously obtained from a single digitization.",
+    "pattern": ""
+  },
+  {
     "name": "disease",
     "title": "Disease",
     "type": "string",
@@ -429,6 +437,14 @@
     "type": "string",
     "format": "default",
     "description": "String describing where each record came from (e.g. historical indicates that it was recorded in a document or archive)",
+    "pattern": ""
+  },
+  {
+    "name": "scan_id",
+    "title": "IIDDA Scan ID",
+    "type": "string",
+    "format": "default",
+    "description": "Unique identifier of the scan of the source data that were used to produce the each record. This identifier can be used to obtain these scans in the International Infectious Disease Data Archive (IIDDA). Blank values indicate that the information in such records was not unambiguously obtained from a single scan.",
     "pattern": ""
   },
   {
