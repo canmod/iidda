@@ -1,0 +1,61 @@
+location,location_type,iso_3166,iso_3166_2
+CANADA,country,CA,
+Canada,country,CA,
+ALTA.,province,CA,CA-AB
+Alberta,province,CA,CA-AB
+ALBERTA,province,CA,CA-AB
+Alta.,province,CA,CA-AB
+BRITISH COLUMBIA,province,CA,CA-BC
+B.C.,province,CA,CA-BC
+B.C. - C.B.,province,CA,CA-BC
+British Columbia,province,CA,CA-BC
+MAN.,province,CA,CA-MB
+MANITOBA,province,CA,CA-MB
+Man.,province,CA,CA-MB
+Manitoba,province,CA,CA-MB
+NEW BRUNSWICK,province,CA,CA-NB
+N.B.,province,CA,CA-NB
+New Brunswick,province,CA,CA-NB
+NLFD.,province,CA,CA-NL
+Nfld.,province,CA,CA-NL
+Newfoundland and Labrador,province,CA,CA-NL
+NFLD.,province,CA,CA-NL
+NFLD. - T.-N.,province,CA,CA-NL
+FNLD.,province,CA,CA-NL
+NFLD,province,CA,CA-NL
+NLD.,province,CA,CA-NL
+Newfoundland,province,CA,CA-NL
+NOVA SCOTIA,province,CA,CA-NS
+N.S,province,CA,CA-NS
+N.S.,province,CA,CA-NS
+N.S. - N.E.,province,CA,CA-NS
+Nova Scotia,province,CA,CA-NS
+NORTHWEST TERRITORIES,province,CA,CA-NT
+Northwest Territories including Nunavut,province,CA,CA-NT
+N.W.T.,province,CA,CA-NT
+N.W.T. - T.N.O.,province,CA,CA-NT
+North west Territories,province,CA,CA-NT
+Northwest Territories,province,CA,CA-NT
+Nunavut,province,CA,CA-NU
+ONT.,province,CA,CA-ON
+ONTARIO,province,CA,CA-ON
+Ont.,province,CA,CA-ON
+Ontario,province,CA,CA-ON
+Ontatio,province,CA,CA-ON
+PRINCE EDWARD ISLAND,province,CA,CA-PE
+P.E.I,province,CA,CA-PE
+P.E.I.,province,CA,CA-PE
+P.E.I. - I.P.E.,province,CA,CA-PE
+P.E.I..,province,CA,CA-PE
+Prince Edward Island,province,CA,CA-PE
+Qué.,province,CA,CA-QC
+QUE.,province,CA,CA-QC
+QUEBEC,province,CA,CA-QC
+Que.,province,CA,CA-QC
+Quebec,province,CA,CA-QC
+SASK.,province,CA,CA-SK
+SASKATCHEWAN,province,CA,CA-SK
+Sask.,province,CA,CA-SK
+Saskatchewan,province,CA,CA-SK
+YUKON,province,CA,CA-YT
+Yukon,province,CA,CA-YT
