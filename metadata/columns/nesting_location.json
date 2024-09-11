@@ -1,0 +1,8 @@
+{
+  "name": "nesting_location",
+  "title": "Nesting Location",
+  "type": "string",
+  "format": "default",
+  "description": "Location descriptor for a location that geographically encapsulates this location.",
+  "pattern": ""
+}

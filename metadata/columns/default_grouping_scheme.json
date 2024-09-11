@@ -1,0 +1,8 @@
+{
+  "name": "default_grouping_scheme",
+  "title": "Default Grouping Scheme",
+  "type": "string",
+  "format": "default",
+  "description": "An indicator that equals Default if this age group is part of the default age grouping scheme, and is blank otherwise. This is useful if multiple age grouping schemes exist for some breakdowns of the data. In the ideal situation it is possible to filter on the default binning scheme, group by any other breakdown variables, and summing up a numerical variable, one will obtain the total of that variable over the entire population. However, this ideal is not always possible.",
+  "pattern": ""
+}

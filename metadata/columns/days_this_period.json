@@ -1,0 +1,8 @@
+{
+  "name": "days_this_period",
+  "title": "Days this Period",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of days in a time interval for which a count was reported.",
+  "pattern": ""
+}

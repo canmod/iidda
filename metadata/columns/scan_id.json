@@ -1,0 +1,8 @@
+{
+  "name": "scan_id",
+  "title": "IIDDA Scan ID",
+  "type": "string",
+  "format": "default",
+  "description": "Unique identifier of the scan of the source data that were used to produce the each record. This identifier can be used to obtain these scans in the International Infectious Disease Data Archive (IIDDA). Blank values indicate that the information in such records was not unambiguously obtained from a single scan.",
+  "pattern": ""
+}

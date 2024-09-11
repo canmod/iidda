@@ -1,0 +1,8 @@
+{
+  "name": "cases_this_period_mo",
+  "title": "Case Numbers Reported for this Month",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of cases reported for this month, at the end of this month.",
+  "pattern": ""
+}

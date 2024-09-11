@@ -1,0 +1,9 @@
+{
+    "name": "percent_error",
+    "title": "Percent Error",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Percent error between the minimum and maximum of a set of fields being compared.",
+    "pattern": ""
+  }
+  

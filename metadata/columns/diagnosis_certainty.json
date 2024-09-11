@@ -1,0 +1,8 @@
+{
+  "name": "diagnosis_certainty",
+  "title": "Diagnosis Certainty",
+  "type": "string",
+  "format": "default",
+  "description": "Diagnosis certainty of cases_this_period, either confirmed, probable, or suspect c (suspect case).",
+  "pattern": ""
+}

@@ -1,0 +1,8 @@
+{
+  "name": "month",
+  "title": "Month",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Month for which a record was recorded.",
+  "pattern": ""
+}

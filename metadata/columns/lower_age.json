@@ -1,0 +1,8 @@
+{
+  "name": "lower_age",
+  "title": "Lower Age Bound",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Lower age bound in years of all individuals associated with a particular record.",
+  "pattern": ""
+}

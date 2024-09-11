@@ -1,0 +1,8 @@
+{
+  "name": "location_type",
+  "title": "Location Type",
+  "type": "string",
+  "format": "default",
+  "description": "Location type of recorded data (continents, countries, canadian-provinces, canadian-cities, ontario-cities, uk-cities, london-parishes) for a given record.",
+  "pattern": ""
+}

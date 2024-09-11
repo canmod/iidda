@@ -1,0 +1,8 @@
+{
+  "name": "historical_disease",
+  "title": "Historical Disease",
+  "type": "string",
+  "format": "default",
+  "description": "Disease name as reported by the original source.",
+  "pattern": ""
+}

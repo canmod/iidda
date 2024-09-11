@@ -1,0 +1,9 @@
+{
+    "name": "distinct_values",
+    "title": "Distinct Values",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of distinct values of a set of fields being compared.",
+    "pattern": ""
+  }
+  

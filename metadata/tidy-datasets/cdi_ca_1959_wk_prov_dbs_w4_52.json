@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1959_wk_prov_dbs_w4_52",
+  "type": "CDI",
+  "period_start_date": "1959-01-24",
+  "period_end_date": "1959-12-26",
+  "title": "Canadian Weekly CDI by Province in 1959 (weeks 4-52)",
+  "description": "Communicable disease incidence in 1959 in Canada, broken down by disease, week, and province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1956-63_1973-74_wk_prov/cdi_ca_1959_wk_prov_dbs_w4_52"
+}

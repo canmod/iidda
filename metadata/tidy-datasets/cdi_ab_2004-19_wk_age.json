@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ab_2004-19_wk_age",
+  "type": "CDI",
+  "period_start_date": "2004-01-01",
+  "period_end_date": "2004-12-31",
+  "title": "Alberta Weekly CDI by Age from 2004-2019",
+  "description": "Communicable disease incidence from 2004-2019 in Alberta, broken down by disease, week, and age.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ab_2004-19_wk_age/cdi_ab_2004-19_wk_age"
+}

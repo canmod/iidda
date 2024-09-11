@@ -1,0 +1,8 @@
+{
+  "name": "iidda_source_id",
+  "title": "IIDDA Source ID",
+  "type": "string",
+  "format": "default",
+  "description": "Unique identifier of the data source in the International Infectious Disease Data Archive (IIDDA) on which each record is based.",
+  "pattern": ""
+}

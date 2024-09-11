@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1990-1992_mn_prov_hc",
+  "type": "CDI",
+  "period_start_date": "1990-01-31",
+  "period_end_date": "1992-12-31",
+  "title": "Canadian Monthly CDI by Province from 1990-1992",
+  "description": "Communicable disease incidence from 1990-1992 in Canada, broken down by disease, month, and province/territory. Includes totals for all of Canada that can be used to check data that are broken down by province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1990-2001_quart_prov/cdi_ca_1990-1992_mn_prov_hc"
+}

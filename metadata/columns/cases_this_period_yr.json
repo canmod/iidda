@@ -1,0 +1,8 @@
+{
+  "name": "cases_this_period_yr",
+  "title": "Case Numbers Reported for this Year",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of cases reported for this year, at the end of this year",
+  "pattern": ""
+}

@@ -1,0 +1,15 @@
+{
+  "source": "pop_ca_1971-2021_an_age_prov_sex",
+  "organization": "Statistics Canada",
+  "type": "Population",
+  "location": "Canada",
+  "years": "1971-2021",
+  "frequency": "annual",
+  "breakdown": "province, age (single year bins), sex",
+  "urls": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501",
+  "date_of_url_access": "2022-02-16",
+  "digitization_priority": "",
+  "notes": "",
+  "Unnamed..11": "",
+  "source_tag": "main"
+}

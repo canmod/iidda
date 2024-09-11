@@ -1,0 +1,9 @@
+{
+    "name": "discrepancy",
+    "title": "Discrepancy",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Difference between the minimum and maximum of a set of fields being compared.",
+    "pattern": ""
+  }
+  

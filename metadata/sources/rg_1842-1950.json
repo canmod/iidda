@@ -1,0 +1,15 @@
+{
+  "source": "rg_1842-1950",
+  "organization": "Registrar General",
+  "type": "Births,Mortality,Population",
+  "location": "United Kingdom",
+  "years": "1842-1950",
+  "frequency": "annual, weekly",
+  "breakdown": "age, parish, sex, cause family",
+  "urls": "",
+  "date_of_url_access": "",
+  "digitization_priority": "",
+  "notes": "Data was digitized from original scans. The link to original scans has not been determined, see here https://github.com/davidearn/LBoM/issues/87",
+  "Unnamed..11": "",
+  "source_tag": "main"
+}

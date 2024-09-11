@@ -1,0 +1,8 @@
+{
+  "name": "age_grouping_total",
+  "title": "Age Grouping Total",
+  "type": "string",
+  "format": "default",
+  "description": "Value that can be matched against age_group to identify the record containing the total that one should obtain by summing all age groups in their age grouping scheme. This will often be something like -- All Ages -- but it can also be things like -- Under 5 years -- for an age grouping scheme that is yearly for all people under five.",
+  "pattern": ""
+}

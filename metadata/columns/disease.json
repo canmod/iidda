@@ -1,0 +1,8 @@
+{
+  "name": "disease",
+  "title": "Disease",
+  "type": "string",
+  "format": "default",
+  "description": "Disease name harmonized over data sources.",
+  "pattern": ""
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_man_2004-17_mn_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "2004-01-01",
+  "period_end_date": "2017-06-30",
+  "title": "Harmonized Manitoba Monthly CDI from 2004-2017",
+  "description": "Harmonized communicable disease incidence from 2004-2017 in Manitoba, broken down by disease and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_man_2004-17_mn_harmonized/cdi_man_2004-17_mn_harmonized"
+}

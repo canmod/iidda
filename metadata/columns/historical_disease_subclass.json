@@ -1,0 +1,8 @@
+{
+  "name": "historical_disease_subclass",
+  "title": "Historical Disease Subclass",
+  "type": "string",
+  "format": "default",
+  "description": "Disease subclass as reported by the original source -- cf. Disease",
+  "pattern": ""
+}

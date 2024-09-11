@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1923-12-30",
+  "period_end_date": "1955-12-25",
+  "title": "Harmonized Canadian Weekly CDI from 1924-1955",
+  "description": "Harmonized communicable disease incidence from 1924-55 in Canada, broken down by disease, province, year, month, and week.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized/cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized"
+}

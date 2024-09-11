@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_on_1940-1947_mn_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1940-01-01",
+  "period_end_date": "1947-12-31",
+  "title": "Harmonized Ontario Monthly CDI from 1940-47",
+  "description": "Harmonized communicable disease incidence from 1940-47 in Ontario, broken down by disease and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_on_1940-1947_mn_harmonized/cdi_on_1940-1947_mn_harmonized"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "historical_age_group",
+  "title": "Historical Age Group",
+  "type": "string",
+  "format": "default",
+  "description": "Age group descriptor as reported or implied in the original source. If an age group represents all ages then one will typically find the string -- All ages. When combining datasets with and without age groupings, one should filter on this string and a blank string to obtain all reported totals that are not broken down by age. The blank string indicates that there are no available age breakdowns of this total whereas the -- All ages -- string indicates that there are reported breakdowns of this total.\t",
+  "pattern": ""
+}

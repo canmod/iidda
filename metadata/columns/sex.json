@@ -1,0 +1,8 @@
+{
+  "name": "sex",
+  "title": "Sex",
+  "type": "string",
+  "format": "default",
+  "description": "Sex of all individuals associated with a particular record as reported by the original source.",
+  "pattern": ""
+}

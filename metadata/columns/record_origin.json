@@ -1,0 +1,8 @@
+{
+  "name": "record_origin",
+  "title": "Record Origin",
+  "type": "string",
+  "format": "default",
+  "description": "String describing where each record came from (e.g. historical indicates that it was recorded in a document or archive)",
+  "pattern": ""
+}

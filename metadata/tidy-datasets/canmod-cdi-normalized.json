@@ -1,0 +1,11 @@
+{
+  "tidy_dataset": "canmod-cdi-normalized",
+  "type": "Compilation",
+  "period_start_date": "",
+  "period_end_date": "",
+  "title": "Canadian Harmonized and Normalized Communicable Disease Incidence Data",
+  "description": "A compilation of communicable disease incidence data compiled and processed through the CANMOD digitization project. This particular compilation both harmonizes location and disease names across data sources, and normalizes (in the data-prep sense) the records so that each case that was recorded in (or implied by) the data sources appears in exactly one incidence count.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned"
+}

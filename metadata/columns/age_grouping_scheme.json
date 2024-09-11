@@ -1,0 +1,8 @@
+{
+  "name": "age_grouping_scheme",
+  "title": "Age Grouping Scheme",
+  "type": "string",
+  "format": "default",
+  "description": "Description of the age grouping scheme within which the age group lies, so that one may identify what sets of age groups can be meaningfully added together. For example, an age grouping scheme could be -- 5-year bins from 0-99+ -- indicating that if all groups in this scheme are added one would obtain the total over all ages.",
+  "pattern": ""
+}

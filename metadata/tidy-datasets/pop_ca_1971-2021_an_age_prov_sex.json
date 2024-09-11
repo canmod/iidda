@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "pop_ca_1971-2021_an_age_prov_sex",
+  "type": "Population",
+  "period_start_date": "1971-01-01",
+  "period_end_date": "2021-12-31",
+  "title": "",
+  "description": "description",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/pop_ca_1971-2021_an_age_prov_sex/pop_ca_1971-2021_an_age_prov_sex"
+}

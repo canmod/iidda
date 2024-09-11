@@ -1,0 +1,8 @@
+{
+  "name": "time_scale",
+  "title": "Time Scale",
+  "type": "string",
+  "format": "default",
+  "description": "Time scale of recorded data (wk, 2wk, mo, qr, yr) for a given record. This field is a qualitative and approximate measure of the time scale over which data were counted. For example, monthly (mo) data might include four-weekly or even five-weekly data. See columns like days_this_period for a quantitative description of the time scale if it is available, or produce your own description using period_start_date and period_end_date.",
+  "pattern": ""
+}

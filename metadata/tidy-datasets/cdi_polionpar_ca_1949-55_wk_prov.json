@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_polionpar_ca_1949-55_wk_prov",
+  "type": "CDI",
+  "period_start_date": "1948-12-25",
+  "period_end_date": "1955-12-31",
+  "title": "Canadian Weekly Poliomyelitis (without paralysis) CDI by Province from 1949-55",
+  "description": "Poliomyelitis (without paralysis) communicable disease incidence from 1949-1955 in Canada, broken down by week, and province/territory. Includes totals for all of Canada that can be used to check data that are broken down by province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1924-55_wk_prov_dbs_statcan/cdi_polionpar_ca_1949-55_wk_prov"
+}

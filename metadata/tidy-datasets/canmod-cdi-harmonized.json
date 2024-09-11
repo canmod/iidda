@@ -1,0 +1,11 @@
+{
+  "tidy_dataset": "canmod-cdi-harmonized",
+  "type": "Compilation",
+  "period_start_date": "",
+  "period_end_date": "",
+  "title": "Canadian Harmonized Communicable Disease Incidence Data",
+  "description": "A compilation of communicable disease incidence data compiled and processed through the CANMOD digitization project. This particular compilation harmonizes location and disease names across data sources.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned"
+}

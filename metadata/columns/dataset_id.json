@@ -1,0 +1,8 @@
+{
+  "name": "dataset_id",
+  "title": "IIDDA Dataset ID",
+  "type": "string",
+  "format": "default",
+  "description": "Unique identifier of the dataset in the International Infectious Disease Data Archive (IIDDA) on which each record is based.",
+  "pattern": ""
+}

@@ -1,0 +1,11 @@
+{
+  "tidy_dataset": "canmod-cdi-unharmonized",
+  "type": "CDI",
+  "period_start_date": "",
+  "period_end_date": "",
+  "title": "Canadian Communicable Disease Incidence Data",
+  "description": "A compilation of communicable disease incidence data compiled and processed through the CANMOD digitization project.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "upper_age",
+  "title": "Upper Age Bound",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Upper age bound in years of all individuals associated with a particular record.",
+  "pattern": ""
+}

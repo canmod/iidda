@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "prototype-dataset",
+  "type": "CDI",
+  "period_start_date": "1978-01-01",
+  "period_end_date": "1979-01-01",
+  "title": "Prototype Dataset",
+  "description": "This dataset is intended as a test of the dataset build system and to be used as a starter example.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/prototype/prototype-dataset"
+}

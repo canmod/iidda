@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "pop_ca_1871-2021_harmonized",
+  "type": "Population",
+  "period_start_date": "1871-01-01",
+  "period_end_date": "2021-12-31",
+  "title": "Harmonized Canadian Weekly Interpolated Population from 1871-2021",
+  "description": "Interpolated population from 1871-2021 in Canada, broken down by province and week.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/pop_ca_1871-2021_harmonized/pop_ca_1871-2021_harmonized"
+}

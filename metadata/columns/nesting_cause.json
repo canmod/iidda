@@ -1,0 +1,8 @@
+{
+  "name": "nesting_cause",
+  "title": "Nesting Cause",
+  "type": "string",
+  "format": "default",
+  "description": "Cause descriptor for a group of causes of mortality that includes this cause.",
+  "pattern": ""
+}

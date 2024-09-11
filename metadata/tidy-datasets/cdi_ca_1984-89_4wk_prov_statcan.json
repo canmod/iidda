@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1984-89_4wk_prov_statcan",
+  "type": "CDI",
+  "period_start_date": "1983-12-24",
+  "period_end_date": "1989-12-16",
+  "title": "Canadian 4-Weekly CDI by Province from 1984-1989",
+  "description": "Communicable disease incidence from 1984-1989 in Canada, broken down by disease, 4-week, and province/territory. Includes totals for all of Canada that can be used to check data that are broken down by province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1979-89_4wk_prov/cdi_ca_1984-89_4wk_prov_statcan"
+}

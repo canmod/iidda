@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_sk_1910-1927_mn_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1910-01-01",
+  "period_end_date": "1927-12-31",
+  "title": "Harmonized Saskatchewan Monthly CDI from 1910-27",
+  "description": "Harmonized communicable disease incidence from 1910-27 in Saskatchewan, broken down by disease and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_sk_1910-1927_mn_harmonized/cdi_sk_1910-1927_mn_harmonized"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "iso_3166",
+  "title": "ISO-3166",
+  "type": "string",
+  "format": "default",
+  "description": "ISO-3166 codes for locations corresponding to countries.",
+  "pattern": ""
+}

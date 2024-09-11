@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_qc_1915-1925_mn_county_municipality",
+  "type": "CDI",
+  "period_start_date": "1915-01-01",
+  "period_end_date": "1915-12-31",
+  "title": "",
+  "description": "",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_qc_1895-1925_1927-31_mn_munic/cdi_qc_1915-1925_mn_county_municipality"
+}

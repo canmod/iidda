@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "pop_uk_1842-1910_an",
+  "type": "Population",
+  "period_start_date": "1842-01-01",
+  "period_end_date": "1910-12-31",
+  "title": "This is a title",
+  "description": "This is a description",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/rg_1842-1950/pop_uk_1842-1910_an"
+}

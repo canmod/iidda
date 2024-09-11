@@ -1,0 +1,8 @@
+{
+  "name": "comment_by",
+  "title": "Comment By",
+  "type": "string",
+  "format": "default",
+  "description": "The individual, data processor role, or organization responsible for the comment.",
+  "pattern": ""
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "mort_on_1940-1947_mn",
+  "type": "Mortality",
+  "period_start_date": "1940-01-01",
+  "period_end_date": "1947-12-31",
+  "title": "Ontario Monthly Mortality by Disease from 1940-47",
+  "description": "Mortality from 1940-47 in Ontario, broken down by cause and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned\t",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_mort_on_1940-1947_mn/mort_on_1940-1947_mn"
+}

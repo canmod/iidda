@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1990-2001_quart_prov_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1990-01-01",
+  "period_end_date": "2001-03-31",
+  "title": "Harmonized Provincial Quarterly CDI from 1990-2001",
+  "description": "Harmonized communicable disease incidence from 1990-2001 in Canada, broken down by disease, province, and quarter.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1990-2001_quart_prov_harmonized/cdi_ca_1990-2001_quart_prov_harmonized"
+}

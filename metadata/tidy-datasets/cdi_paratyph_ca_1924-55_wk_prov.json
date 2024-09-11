@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_paratyph_ca_1924-55_wk_prov",
+  "type": "CDI",
+  "period_start_date": "1923-12-29",
+  "period_end_date": "1955-12-31",
+  "title": "Canadian Weekly Paratyphoid CDI by Province from 1924-55",
+  "description": "Paratyphoid communicable disease incidence from 1924-1955 in Canada, broken down by week and province/territory. Includes totals for all of Canada that can be used to check data that are broken down by province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1924-55_wk_prov_dbs_statcan/cdi_paratyph_ca_1924-55_wk_prov"
+}

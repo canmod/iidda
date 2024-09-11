@@ -1,0 +1,8 @@
+{
+  "name": "cases_cum_report_year",
+  "title": "Cumulative Case Numbers for the Report Year",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Total number of cases up until this current period, in the current year -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
+  "pattern": ""
+}

@@ -1,0 +1,8 @@
+{
+  "name": "population",
+  "title": "Population",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Estimated total number of individuals associated with a particular record.",
+  "pattern": ""
+}

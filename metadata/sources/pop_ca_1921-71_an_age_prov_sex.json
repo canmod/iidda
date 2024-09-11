@@ -1,0 +1,15 @@
+{
+  "source": "pop_ca_1921-71_an_age_prov_sex",
+  "organization": "Government of Canada Publications",
+  "type": "Population",
+  "location": "Canada",
+  "years": "1921-1971",
+  "frequency": "annual",
+  "breakdown": "province, age (five year bins), sex",
+  "urls": "https://publications.gc.ca/site/eng/9.817507/publication.html",
+  "date_of_url_access": "",
+  "digitization_priority": "1",
+  "notes": "contains population age distribution estimates for all years between 1921 and 1971 broken down by province and sex",
+  "Unnamed..11": "",
+  "source_tag": "main"
+}

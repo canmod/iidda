@@ -1,0 +1,8 @@
+{
+  "name": "births",
+  "title": "Births",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of births reported for this period as reported by the original source.",
+  "pattern": ""
+}

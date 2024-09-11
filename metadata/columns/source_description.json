@@ -1,0 +1,8 @@
+{
+  "name": "source_description",
+  "title": "Source Description",
+  "type": "string",
+  "format": "default",
+  "description": "Free-form description of the source of a record.",
+  "pattern": ""
+}

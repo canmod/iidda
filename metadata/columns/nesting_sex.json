@@ -1,0 +1,8 @@
+{
+  "name": "nesting_sex",
+  "title": "Nesting Sex",
+  "type": "string",
+  "format": "default",
+  "description": "Sex decriptor for a sex categorization that contains this sex.",
+  "pattern": ""
+}

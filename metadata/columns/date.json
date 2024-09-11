@@ -1,0 +1,8 @@
+{
+  "name": "date",
+  "title": "Date",
+  "type": "date",
+  "format": "ISO8601",
+  "description": "Date of time point at which a value is reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+  "pattern": ""
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_on_1903-1939_mn",
+  "type": "CDI",
+  "period_start_date": "1903-01-01",
+  "period_end_date": "1939-12-31",
+  "title": "Ontario Monthly CDI from 1903-1939",
+  "description": "Communicable disease incidence from 1903-39 in Ontario, broken down by disease and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned\t",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_mort_on_1903-1939_mn/cdi_on_1903-1939_mn"
+}

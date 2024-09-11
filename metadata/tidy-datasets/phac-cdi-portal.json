@@ -1,0 +1,11 @@
+{
+  "tidy_dataset": "phac-cdi-portal",
+  "type": "CDI",
+  "period_start_date": "1924-01-01",
+  "period_end_date": "2021-12-31",
+  "title": "",
+  "description": "",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned"
+}

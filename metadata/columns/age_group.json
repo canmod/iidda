@@ -1,0 +1,8 @@
+{
+  "name": "age_group",
+  "title": "Age Group",
+  "type": "string",
+  "format": "default",
+  "description": "Age group descriptor harmonized across sources ({lower}-{upper}, {lower}-, all-ages, all-specified-ages, all-unspecified-ages). The range descriptors are open on the left and closed on the right. For example, the age_group given by 5-10 includes individuals of age 5 but excludes individuals of age 10.",
+  "pattern": ""
+}

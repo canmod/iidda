@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_sk_1910-1927_mn",
+  "type": "CDI",
+  "period_start_date": "1910-01-01",
+  "period_end_date": "1927-12-31",
+  "title": "",
+  "description": "",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_sask_1910_1927_mn/cdi_sk_1910-1927_mn"
+}

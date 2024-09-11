@@ -1,0 +1,8 @@
+{
+  "name": "cause",
+  "title": "Cause",
+  "type": "string",
+  "format": "default",
+  "description": "Cause of mortality as reported by the original source.",
+  "pattern": ""
+}

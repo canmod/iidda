@@ -1,0 +1,8 @@
+{
+  "name": "not_infected_parishes",
+  "title": "Not Infected Parishes",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of parishes not infected with the plague for this period as reported by the original source.",
+  "pattern": ""
+}

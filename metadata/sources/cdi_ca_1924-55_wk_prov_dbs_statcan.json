@@ -1,0 +1,16 @@
+{
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "organization": "Statistics Canada",
+  "type": "CDI",
+  "location": "Canada",
+  "years": "1924-1955",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "formats": "Hardcopy",
+  "urls": "",
+  "date_of_url_access": "",
+  "digitization_priority": "1",
+  "notes": "",
+  "Unnamed..11": "",
+  "source_tag": "main"
+}

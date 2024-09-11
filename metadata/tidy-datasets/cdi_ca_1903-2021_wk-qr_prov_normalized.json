@@ -1,0 +1,12 @@
+{
+    "tidy_dataset": "cdi_ca_1903-2021_wk-qr_prov_normalized",
+    "type": "CDI_CANMOD_NORMALIZED",
+    "period_start_date": "1903-01-01",
+    "period_end_date": "2021-12-31",
+    "title": "Normalized Canadian Weekly, Monthly, or Quarterly CDI from 1903-2021",
+    "description": "Normalized communicable disease incidence from 1903-2021 in Canada, broken down by disease and province recorded weekly, monthly, or quarterly. The adjective 'normalized' means that there is no double counting and each case is represented only once.",
+    "publisher": "unpublished",
+    "publicationYear": "unpublished",
+    "current_version": "unversioned",
+    "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1903-2021_wk-qr_prov_normalized"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "comment",
+  "title": "Comment",
+  "type": "string",
+  "format": "default",
+  "description": "Comments associated with a particular record.",
+  "pattern": ""
+}

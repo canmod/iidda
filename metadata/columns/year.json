@@ -1,0 +1,8 @@
+{
+  "name": "year",
+  "title": "Year",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Year for which a record was recorded.",
+  "pattern": ""
+}

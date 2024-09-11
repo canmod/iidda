@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_on_1990-2021_wk",
+  "type": "CDI",
+  "period_start_date": "1990-01-06",
+  "period_end_date": "2022-01-01",
+  "title": "",
+  "description": "",
+  "publisher": "",
+  "publicationYear": "",
+  "current_version": "",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_on_1990-2021_wk/cdi_on_1990-2021_wk"
+}

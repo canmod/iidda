@@ -1,0 +1,8 @@
+{
+  "name": "cases_this_period_sum",
+  "title": "Sum of Case Numbers Reported",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Sum of reported numbers of cases over a breakdown.",
+  "pattern": ""
+}

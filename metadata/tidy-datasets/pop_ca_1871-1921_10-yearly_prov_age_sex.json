@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "pop_ca_1871-1921_10-yearly_prov_age_sex",
+  "type": "Population",
+  "period_start_date": "1881-01-01",
+  "period_end_date": "1921-12-31",
+  "title": "Annual Canadian population, 1881 to 1921",
+  "description": "description",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cen_ca_1921/pop_ca_1871-1921_10-yearly_prov_age_sex"
+}

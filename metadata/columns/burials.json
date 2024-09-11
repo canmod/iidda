@@ -1,0 +1,8 @@
+{
+  "name": "burials",
+  "title": "Burials",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of burials reported for this period as reported by the original source.",
+  "pattern": ""
+}

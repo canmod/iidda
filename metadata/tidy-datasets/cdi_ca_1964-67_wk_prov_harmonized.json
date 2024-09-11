@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1964-67_wk_prov_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1963-12-29",
+  "period_end_date": "1967-12-30",
+  "title": "Harmonized Provincial Weekly CDI from 1964-1967",
+  "description": "Harmonized communicable disease incidence from 1964-67 in Canada, broken down by disease, province, and week.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1964-67_wk_prov_harmonized/cdi_ca_1964-67_wk_prov_harmonized"
+}

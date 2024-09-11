@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1963_wk_prov_dbs",
+  "type": "CDI",
+  "period_start_date": "1962-12-29",
+  "period_end_date": "1963-12-28",
+  "title": "Tidy Canadian Weekly CDI for 1963",
+  "description": "TIdy communicable disease incidence for 1963 in Canada, broken down by province, disease, and week. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1956-63_1973-74_wk_prov/cdi_ca_1963_wk_prov_dbs"
+}

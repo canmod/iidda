@@ -1,0 +1,8 @@
+{
+  "name": "icd_7_subclass",
+  "title": "ICD 7 Code for Disease Subclass",
+  "type": "string",
+  "format": "default",
+  "description": "Disease codes associated with a subclass identified by the original source. Codes are for version 7 of the International Statistical Classification of Diseases and Related Health Problems, published by the World Health Organization.",
+  "pattern": ""
+}

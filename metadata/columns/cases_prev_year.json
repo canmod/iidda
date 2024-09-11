@@ -1,0 +1,8 @@
+{
+  "name": "cases_prev_year",
+  "title": "Case Numbers Reported for the Previous Year",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Number of cases reported for the previous year, at the end of this current period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
+  "pattern": ""
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_qc_1915-1925_mn_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1915-01-01",
+  "period_end_date": "1925-12-31",
+  "title": "Harmonized Quebec Monthly CDI from 1915-25",
+  "description": "Harmonized communicable disease incidence from 1915-25 in Quebec, broken down by disease and month. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_qc_1915-1925_mn_harmonized/cdi_qc_1915-1925_mn_harmonized"
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_on_1939-1989_wk",
+  "type": "CDI",
+  "period_start_date": "1939-01-01",
+  "period_end_date": "1989-12-31",
+  "title": "",
+  "description": "",
+  "publisher": "",
+  "publicationYear": "",
+  "current_version": "",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_mort_on_1939-1989_wk_moh/cdi_on_1939-1989_wk"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "location",
+  "title": "Location",
+  "type": "string",
+  "format": "default",
+  "description": "Location descriptor as reported in the original source.",
+  "pattern": ""
+}

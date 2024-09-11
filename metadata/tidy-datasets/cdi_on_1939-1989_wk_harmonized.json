@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_on_1939-1989_wk_harmonized",
+  "type": "CDI_CANMOD",
+  "period_start_date": "1939-01-01",
+  "period_end_date": "1989-12-31",
+  "title": "Harmonized Ontario Weekly CDI from 1939-1989",
+  "description": "Communicable disease incidence from 1939-89 in Ontario, broken down by disease and week.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_on_1939-1989_wk_harmonized/cdi_on_1939-1989_wk_harmonized"
+}

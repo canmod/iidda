@@ -1,0 +1,8 @@
+{
+  "name": "period_mid_date",
+  "title": "Period Mid Date",
+  "type": "date",
+  "format": "ISO8601",
+  "description": "Date in the (rounded down) middle of a time interval for which a count was reported, in ISO-8601 format (i.e. YYYY-MM-DD).",
+  "pattern": ""
+}

@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_man_2006_mn",
+  "type": "CDI",
+  "period_start_date": "2006-01-01",
+  "period_end_date": "2006-12-31",
+  "title": "Tidy Manitoba Monthly CDI for 2006",
+  "description": "Tidy commumicable disease incidence for 2006 in Manitoba, broken down by disease and month.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_man_2004-2013_mn_age_sex/cdi_man_2006_mn"
+}

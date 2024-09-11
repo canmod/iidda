@@ -1,0 +1,8 @@
+{
+  "name": "cases_median_prev_5_years",
+  "title": "Median Weekly Case Numbers Over the Previous Five Years",
+  "type": "string",
+  "format": "num_missing",
+  "description": "Median number of weekly cases in this current period, with the median taken over the previous five years -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
+  "pattern": ""
+}

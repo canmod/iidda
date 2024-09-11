@@ -1,0 +1,8 @@
+{
+  "name": "iso_3166_2",
+  "title": "ISO-3166-2",
+  "type": "string",
+  "format": "default",
+  "description": "ISO-3166-2 codes for locations corresponding to sub-national jurisdictions.",
+  "pattern": ""
+}

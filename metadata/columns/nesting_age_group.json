@@ -1,0 +1,8 @@
+{
+  "name": "nesting_age_group",
+  "title": "Nesting Age Group",
+  "type": "string",
+  "format": "default",
+  "description": "Age descriptor of an age group that contains all of the ages in this group. If multiple groups contain this group, then a group of minimum bin-width is chosen. Not all age groups have a nesting age group.",
+  "pattern": ""
+}

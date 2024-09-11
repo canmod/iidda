@@ -1,0 +1,8 @@
+{
+  "name": "cause_family",
+  "title": "Cause Family",
+  "type": "string",
+  "format": "default",
+  "description": "Cause family as reported by the original source.",
+  "pattern": ""
+}

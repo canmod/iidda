@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "acm_uk_1842-1930_age",
+  "type": "Mortality",
+  "period_start_date": "1842-01-01",
+  "period_end_date": "1930-12-31",
+  "title": "This is a title",
+  "description": "This is a description",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/rg_1842-1950/acm_uk_1842-1930_age"
+}

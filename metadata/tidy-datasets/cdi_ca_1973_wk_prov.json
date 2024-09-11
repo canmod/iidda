@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_1973_wk_prov",
+  "type": "CDI",
+  "period_start_date": "1972-12-31",
+  "period_end_date": "1973-12-29",
+  "title": "Tidy Canadian Weekly CDI for 1973",
+  "description": "TIdy communicable disease incidence for 1973 in Canada, broken down by province, disease, and week. ",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_1956-63_1973-74_wk_prov/cdi_ca_1973_wk_prov"
+}

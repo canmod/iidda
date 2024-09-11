@@ -1,0 +1,12 @@
+{
+  "tidy_dataset": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "type": "CDI",
+  "period_start_date": "2001-07-01",
+  "period_end_date": "2006-12-31",
+  "title": "Canadian Quarterly CDI by Province from 2001-2006",
+  "description": "Communicable disease incidence from 2001-2006 in Canada, broken down by disease, quarter, and province/territory. Includes totals for all of Canada that can be used to check data that are broken down by province/territory.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned",
+  "path_tidy_data": "https://github.com/canmod/iidda-staging/blob/main/derived-data/cdi_ca_2001-2006_qr_prov_ccdr/cdi_ca_2001-2006_qr_prov_ccdr"
+}

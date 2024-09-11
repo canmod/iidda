@@ -1,0 +1,11 @@
+{
+  "tidy_dataset": "canmod-disease-lookup",
+  "type": "lookup",
+  "period_start_date": "1903-01-01",
+  "period_end_date": "2022-01-01",
+  "title": "CANMOD Disease Lookup Table",
+  "description": "Lookup table for harmonizing disease names in the CANMOD digitization project.",
+  "publisher": "unpublished",
+  "publicationYear": "unpublished",
+  "current_version": "unversioned"
+}
