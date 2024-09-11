@@ -104,6 +104,54 @@
     "pattern": ""
   },
   {
+    "name": "cases_this_period",
+    "title": "Case Numbers Reported for this Period",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_this_period_mo",
+    "title": "Case Numbers Reported for this Month",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of cases reported for this month, at the end of this month.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_this_period_qr",
+    "title": "Case Numbers Reported for this Quarter",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of cases reported for this quarter, at the end of this quarter.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_this_period_sum",
+    "title": "Sum of Case Numbers Reported",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Sum of reported numbers of cases over a breakdown.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_this_period_wk",
+    "title": "Case Numbers Reported for this Week",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of cases reported for this week, at the end of this week.",
+    "pattern": ""
+  },
+  {
+    "name": "cases_this_period_yr",
+    "title": "Case Numbers Reported for this Year",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of cases reported for this year, at the end of this year",
+    "pattern": ""
+  },
+  {
     "name": "cases_two_years_ago",
     "title": "Case Numbers Reported Two Years Previous",
     "type": "string",
@@ -208,11 +256,27 @@
     "pattern": ""
   },
   {
+    "name": "discrepancy",
+    "title": "Discrepancy",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Difference between the minimum and maximum of a set of fields being compared.",
+    "pattern": ""
+  },
+  {
     "name": "disease",
     "title": "Disease",
     "type": "string",
     "format": "default",
     "description": "Disease name harmonized over data sources.",
+    "pattern": ""
+  },
+  {
+    "name": "distinct_values",
+    "title": "Distinct Values",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Number of distinct values of a set of fields being compared.",
     "pattern": ""
   },
   {
@@ -336,6 +400,14 @@
     "pattern": ""
   },
   {
+    "name": "month",
+    "title": "Month",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Month for which a record was recorded.",
+    "pattern": ""
+  },
+  {
     "name": "nesting_age_group",
     "title": "Nesting Age Group",
     "type": "string",
@@ -389,6 +461,14 @@
     "type": "string",
     "format": "default",
     "description": "Identifies the original dataset of a record before it was harmonized.",
+    "pattern": ""
+  },
+  {
+    "name": "percent_error",
+    "title": "Percent Error",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Percent error between the minimum and maximum of a set of fields being compared.",
     "pattern": ""
   },
   {
@@ -456,6 +536,14 @@
     "pattern": ""
   },
   {
+    "name": "source_description",
+    "title": "Source Description",
+    "type": "string",
+    "format": "default",
+    "description": "Free-form description of the source of a record.",
+    "pattern": ""
+  },
+  {
     "name": "time_scale",
     "title": "Time Scale",
     "type": "string",
@@ -476,7 +564,7 @@
     "title": "Year",
     "type": "string",
     "format": "num_missing",
-    "description": "Year in which a count was reported.",
+    "description": "Year for which a record was recorded.",
     "pattern": ""
   }
 ]
