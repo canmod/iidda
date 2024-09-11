@@ -1,0 +1,68 @@
+disease,historical_disease
+AIDS,Acquired Immune Deficiency Syndrome
+acute-flaccid-paralysis,Acute Flaccid Paralysis
+amoebic-dysentery,Amoebiasis
+anthrax,Anthrax
+bacillary-dysentery,Shigellosis
+botulism,Botulism
+brucellosis,Brucellosis
+campylobacteriosis,Campylobacteriosis
+chickenpox,Chickenpox
+chlamydia,Chlamydia
+cholera,Cholera
+congenital-rubella,Congenital Rubella Syndrome
+Creutzfeldt-Jakob-disease,Creutzfeldt-Jakob Disease
+diphtheria,Diphtheria
+gonococcal-infections,Gonorrhea
+group-A-strep,"Group A Streptococcal Disease, Invasive"
+group-B-strep-neonates,Group B Streptococcal Disease of the Newborn
+hantavirus-pulmonary-syndrome,Hantavirus Pulmonary Syndrome
+hepatitis-A,Hepatitis A
+HIV,Human Immunodeficiency Virus Infection
+malaria,Malaria
+measles,Measles
+mumps,Mumps
+paratyphoid-fever,Paratyphoid
+whooping-cough,Pertussis
+scarlet-fever,Scarlet Fever and Streptococcal Sore Throat
+smallpox,Smallpox
+syphilis,Syphilis
+tuberculosis,Tuberculosis
+typhoid-fever,Typhoid
+typhoid-paratyphoid-fever,Typhoid and Paratyphoid
+yellow-fever,Yellow Fever
+viral-hemorrhagic-fever,Viral Haemorrhagic Fever
+hepatitis_ex-A_ex-B,"Hepatitis, non-A, non-B"
+hepatitis_unspecified,"Hepatitis, Unspecified"
+giardiasis,Giardiasis
+hepatitis-B,Hepatitis B
+influenza,"Influenza, Laboratory Confirmed"
+legionellosis,Legionellosis
+leprosy,Leprosy
+listeriosis,Listeriosis
+meningitis-bacterial,"Meningitis, Other Bacterial"
+menigitis-viral,"Meningitis, Viral"
+meningococcal-infections,"Meningococcal Disease, Invasive"
+plague,Plague
+poliomyelitis,Poliomyelitis
+rabies,Rabies
+rubella,Rubella
+salmonellosis,Salmonellosis
+tetanus,Tetanus
+trichinosis,Trichinosis
+tularemia,Tularemia
+haemophilus-influenzae-b,"Haemophilus influenzae Disease, type b, Invasive"
+lyme-disease,Lyme Disease
+verotoxigenic-Escherichia-coli,Verotoxigenic Escherichia coli Infection
+meningitis-pneumococcal,"Meningitis, Pneumococcal"
+food-poisoning,Food Poisoning
+dysentery_unspecified,Dysentery - Type Unspecified
+hepatitis-C,Hepatitis C
+syphilis-congenital,"Syphilis, Congenital"
+cryptosporidiosis,Cryptosporidiosis
+cyclosporiasis,Cyclosporiasis
+invasive-pneumococcal-disease,"Pneumococcal Disease, Invasive"
+west-nile-virus,West Nile Virus Infection
+paralytic-shellfish-poisoning,Paralytic Shellfish Poisoning
+haemophilus-influenzae-nonserotype-b,"Haemophilus influenzae Disease, non-b, Invasive"
+influenza,"Influenza, Epidemic"
