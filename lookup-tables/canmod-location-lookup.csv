@@ -1,5 +1,17 @@
 location,location_type,iso_3166,iso_3166_2
-Nfld. And Lab.,province,CA,CA-NL
+Canada,can,CA,
+Newfoundland and Labrador,prov,CA,CA-NL
+Prince Edward Island,prov,CA,CA-PE
+Nova Scotia,prov,CA,CA-NS
+New Brunswick,prov,CA,CA-NB
+Quebec,prov,CA,CA-QC
+Ontario,prov,CA,CA-ON
+Manitoba,prov,CA,CA-MB
+Saskatchewan,prov,CA,CA-SK
+Alberta,prov,CA,CA-AB
+British Columbia,prov,CA,CA-BC
+Yukon Territory,prov,CA,CA-YT
+Northwest Territories,prov,CA,CA-NT
 CANADA,country,CA,
 Canada,country,CA,
 ALTA.,province,CA,CA-AB
@@ -17,6 +29,7 @@ Manitoba,province,CA,CA-MB
 NEW BRUNSWICK,province,CA,CA-NB
 N.B.,province,CA,CA-NB
 New Brunswick,province,CA,CA-NB
+Nfld. And Lab.,province,CA,CA-NL
 NLFD.,province,CA,CA-NL
 Nfld.,province,CA,CA-NL
 Newfoundland and Labrador,province,CA,CA-NL
