@@ -104,14 +104,6 @@
     "pattern": ""
   },
   {
-    "name": "cases_this_period",
-    "title": "Case Numbers Reported for this Period",
-    "type": "string",
-    "format": "num_missing",
-    "description": "Number of cases reported for this period, at the end of this period -- as reported by the original source. Includes different types of missing values as reported by the original source. Type \"string\" allows different types of missing values to be specified as reported by the original source and allows users to choose which type of missing values to work with.",
-    "pattern": ""
-  },
-  {
     "name": "cases_this_period_mo",
     "title": "Case Numbers Reported for this Month",
     "type": "string",
