@@ -176,6 +176,14 @@
     "pattern": ""
   },
   {
+    "name": "collection_year",
+    "title": "Collection Year",
+    "type": "string",
+    "format": "num_missing",
+    "description": "Year associated with a yearly batch of data. Sometimes the periods in a collection begin and end outside of the collection year.",
+    "pattern": ""
+  },
+  {
     "name": "comment",
     "title": "Comment",
     "type": "string",
