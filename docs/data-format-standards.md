@@ -65,7 +65,7 @@ We recommend the following [CSV dialect](https://specs.frictionlessdata.io/csv-d
        "delimiter": ",",
        "lineTerminator": "\r\n",
        "quoteChar": "\"",
-       "doubleQuote": true,
+       "doubleQuote": false,
        "nullSequence": "",
        "skipInitialSpace": false,
        "header": true,
