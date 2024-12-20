@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_ca_1972_wk_prov_p2",
+  "source": "cdi_ca_1968-72_wk_prov",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1972",
+  "start_date": "1972-07-08",
+  "end_date": "1972-12-30",
+  "frequency": "weekly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1968-72_wk_prov/scans/cdi_ca_1972_wk_province_Part2.pdf",
+  "extension": "pdf"
+}
