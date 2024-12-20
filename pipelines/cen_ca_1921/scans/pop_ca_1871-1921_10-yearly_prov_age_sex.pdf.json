@@ -1,0 +1,19 @@
+{
+  "scan": "pop_ca_1871-1921_10-yearly_prov_age_sex",
+  "source": "cen_ca_1921",
+  "scanner": "",
+  "digitized": "",
+  "type": "Population",
+  "disease": "",
+  "location": "Canada",
+  "years": "1881-1921",
+  "start_date": "1881-01-01",
+  "end_date": "1921-12-31",
+  "frequency": "10-annual",
+  "breakdown": "province, age (five year bins), sex",
+  "urls": "https://publications.gc.ca/site/eng/9.830550/publication.html",
+  "date_of_url_access": "2022-02-17",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cen_ca_1921/scans/pop_ca_1871-1921_10-yearly_prov_age_sex.pdf",
+  "extension": "pdf"
+}
