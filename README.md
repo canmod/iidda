@@ -6,7 +6,6 @@
   - [Classic IIDDA](#classic-iidda)
   - [Featured Datasets](#featured-datasets)
     - [CANMOD Digitization Project](#canmod-digitization-project)
-    - [London Bills of Mortality and the Registrar General's Weekly Returns](#london-bills-of-mortality-and-the-registrar-generals-weekly-returns)
   - [IIDDA API](#iidda-api)
   - [Data Dictionary](#data-dictionary)
   - [Data Harmonization](#data-harmonization)
@@ -63,16 +62,6 @@ Name harmonization for the harmonized and normalized files is done using the fol
 The current results on cross-tabulations for checking data quality in this project can be found [here](https://math.mcmaster.ca/iidda/api/download?resource=csv&dataset_ids=canmod-disease-cross-check&dataset_ids=canmod-location-cross-check&dataset_ids=canmod-time-scale-cross-check).
 
 An example of investigating the provenance of a strange smallpox record in these data is [here](https://canmod.github.io/iidda-tools/iidda.api/articles/Provenance).
-
-### London Bills of Mortality and the Registrar General's Weekly Returns
-
-| Download                                                                                                                                                                                                                                                                                                            | Size  | Compressed | Breakdown                               | Shortest Frequency | Time Range | Command to [reproduce](#reproducing-iidda-datasets)           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------- | --------------------------------------- | ------------------ | ---------- | ------------------------------------------------------------- |
-| [Normalized mortality](https://math.mcmaster.ca/iidda/api/download?resource=csv&resource=metadata&dataset_ids=london-mort-harmonized)                                                                                                                                                                               | 412MB | 23.9MB     | cause                                   | wk                 | 1644-1950  | `make derived-data/canmod-mort-london/canmod-mort-london.csv` |
-| [Unharmonized mortality](https://math.mcmaster.ca/iidda/api/download?resource=csv&resource=metadata&dataset_ids=mort_uk_1661-1845&dataset_ids=mort_plag_uk_1661-1688_wk_par&dataset_ids=acm_uk_1842-1930_age&dataset_ids=acm_uk_1661-1845&dataset_ids=mort_uk_1842-1950&dataset_ids=mort_uk_1642-1845_wk_davenport) | 783MB | 32MB       | cause/sex/age (sex and age not crossed) | wk                 | 1644-1950  | Not a single command                                          |
-| Births (TODO)                                                                                                                                                                                                                                                                                                       |       |            |                                         |                    |            |                                                               |
-| Population (TODO)                                                                                                                                                                                                                                                                                                   |       |            |                                         |                    |            |                                                               |
-
 
 ## IIDDA API
 
