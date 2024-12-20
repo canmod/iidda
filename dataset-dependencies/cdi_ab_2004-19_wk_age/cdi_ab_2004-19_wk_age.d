@@ -1,0 +1,12 @@
+pipelines/cdi_ab_2004-19_wk_age/prep-scripts/cdi_ab_2004-19_wk_age.R
+pipelines/cdi_ab_2004-19_wk_age/digitizations/cdi_ab_2004-19_wk_age.csv
+metadata/columns/historical_disease.json
+metadata/columns/location.json
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/lower_age.json
+metadata/columns/upper_age.json
+metadata/columns/time_scale.json
+metadata/columns/location_type.json
+metadata/columns/digitization_id.json

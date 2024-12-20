@@ -1,0 +1,15 @@
+pipelines/cdi_man_2004-13_mn_age_sex/prep-scripts/cdi_man_2007_mn.R
+pipelines/cdi_man_2004-13_mn_age_sex/scans/cdi_man_2007_mn_age_sex.pdf
+pipelines/cdi_man_2004-13_mn_age_sex/digitizations/cdi_man_2007_mn.xlsx
+metadata/columns/location.json
+metadata/columns/icd_9.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/historical_disease.json
+metadata/columns/cases_this_period.json
+metadata/columns/cases_cum_report_year.json
+metadata/columns/cases_cum_prev_year.json
+metadata/columns/location_type.json
+metadata/columns/time_scale.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json

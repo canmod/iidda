@@ -1,0 +1,17 @@
+pipelines/cen_ca_1921/prep-scripts/pop_ca_1871-1921_10-yearly_prov_age_sex.R
+pipelines/cen_ca_1921/scans/pop_ca_1871-1921_10-yearly_prov_age_sex.pdf
+pipelines/cen_ca_1921/digitizations/pop_ca_1871-1921_10-yearly_prov_age_sex.xlsx
+metadata/columns/date.json
+metadata/columns/location.json
+metadata/columns/location_type.json
+metadata/columns/sex.json
+metadata/columns/age_group.json
+metadata/columns/nesting_age_group.json
+metadata/columns/historical_age_group.json
+metadata/columns/lower_age.json
+metadata/columns/upper_age.json
+metadata/columns/population.json
+metadata/columns/iso_3166.json
+metadata/columns/iso_3166_2.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json

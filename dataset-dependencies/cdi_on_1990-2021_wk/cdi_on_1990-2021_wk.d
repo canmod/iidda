@@ -1,0 +1,11 @@
+pipelines/cdi_on_1990-2021_wk/prep-scripts/cdi_on_1990-2021_wk.R
+pipelines/cdi_on_1990-2021_wk/digitizations/cdi_on_1990-2021_wk.xlsx
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/diagnosis_certainty.json
+metadata/columns/historical_disease.json
+metadata/columns/time_scale.json
+metadata/columns/location.json
+metadata/columns/location_type.json
+metadata/columns/digitization_id.json

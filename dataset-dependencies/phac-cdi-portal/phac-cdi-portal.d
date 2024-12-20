@@ -1,0 +1,12 @@
+pipelines/phac-cdi-portal/prep-scripts/phac-cdi-portal.R
+lookup-tables/canmod-disease-lookup.csv
+lookup-tables/phac-to-canmod-disease-lookup.csv
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/days_this_period.json
+metadata/columns/year.json
+metadata/columns/time_scale.json
+metadata/columns/disease.json
+metadata/columns/historical_disease.json
+metadata/columns/cases_this_period.json
+pipelines/phac-cdi-portal/digitizations/phac_portal_data.csv

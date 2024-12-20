@@ -1,0 +1,13 @@
+pipelines/cdi_ca_2001-2006_qr_prov_ccdr/prep-scripts/cdi_ca_2001-2006_qr_prov_ccdr.R
+pipelines/cdi_ca_2001-2006_qr_prov_ccdr/scans/cdi_ca_2001-2006_qr_prov_ccdr.pdf
+pipelines/cdi_ca_2001-2006_qr_prov_ccdr/digitizations/cdi_ca_2001-2006_qr_prov_ccdr.xlsx
+metadata/columns/location.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/historical_disease.json
+metadata/columns/icd_9.json
+metadata/columns/cases_this_period.json
+metadata/columns/location_type.json
+metadata/columns/time_scale.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json

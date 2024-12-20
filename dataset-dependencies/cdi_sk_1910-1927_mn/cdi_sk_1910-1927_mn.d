@@ -1,0 +1,12 @@
+pipelines/cdi_sask_1910_1927_mn/prep-scripts/cdi_sk_1910-1927_mn.R
+pipelines/cdi_sask_1910_1927_mn/scans/cdi_sk_1910-1927_mn.pdf
+pipelines/cdi_sask_1910_1927_mn/digitizations/cdi_sk_1910-1927_mn.xlsx
+metadata/columns/historical_disease.json
+metadata/columns/location.json
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/time_scale.json
+metadata/columns/location_type.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json
