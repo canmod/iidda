@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_man_2009_mn",
+  "source": "cdi_man_2004-13_mn_age_sex",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_man_2004-13_mn_age_sex/prep-scripts/cdi_man_2009_mn.R",
+  "extension": "R"
+}
