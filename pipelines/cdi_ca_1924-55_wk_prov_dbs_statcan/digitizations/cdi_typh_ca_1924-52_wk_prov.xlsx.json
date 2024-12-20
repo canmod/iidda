@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_typh_ca_1924-52_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "data_enterer": "Chyun-Fung Shi",
+  "digitized": "yes",
+  "period_start_date": "1923-12-29",
+  "period_end_date": "1952-12-27",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_typh_ca_1924-52_wk_prov.xlsx",
+  "extension": "xlsx"
+}
