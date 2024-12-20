@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_man_2008_mn",
+  "source": "cdi_man_2004-13_mn_age_sex",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "2008-01-01",
+  "period_end_date": "2008-12-31",
+  "notes": "Converted using https://pdftables.com/. Blurry scans may not be accurately converted",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_man_2004-13_mn_age_sex/digitizations/cdi_man_2008_mn.xlsx",
+  "extension": "xlsx"
+}
