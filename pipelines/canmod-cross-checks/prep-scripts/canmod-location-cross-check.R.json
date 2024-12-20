@@ -1,0 +1,6 @@
+{
+  "prep_script": "canmod-location-cross-check",
+  "source": "canmod-cross-checks",
+  "resource_path": "",
+  "extension": "R"
+}
