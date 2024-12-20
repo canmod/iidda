@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ca_1965_wk_prov_mcgill",
+  "source": "cdi_ca_1964-67_wk_prov",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1965-01-09",
+  "period_end_date": "1965-12-25",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1964-67_wk_prov/digitizations/cdi_ca_1965_wk_province_mcgill.xlsx",
+  "extension": "xlsx"
+}
