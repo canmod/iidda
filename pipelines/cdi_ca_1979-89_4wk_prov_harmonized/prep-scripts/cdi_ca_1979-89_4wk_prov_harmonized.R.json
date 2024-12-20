@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1979-89_4wk_prov_harmonized",
+  "source": "cdi_ca_1979-89_4wk_prov_harmonized",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1979-89_4wk_prov_harmonized/prep-scripts/cdi_ca_1979-89_4wk_prov_harmonized.R",
+  "extension": "R"
+}
