@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_mort_on_1903-1939_mn",
+  "source": "cdi_mort_on_1903-1939_mn",
+  "data_enterer": "Samara Manzin, Julia Maja",
+  "digitized": "yes",
+  "period_start_date": "1903-01-01",
+  "period_end_date": "1939-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/cdi_mort_on_1903-1939_mn.b27ace6263/pipelines/cdi_mort_on_1903-1939_mn/digitizations/cdi_mort_on_1903-1939_mn.xlsx",
+  "extension": "xlsx"
+}
