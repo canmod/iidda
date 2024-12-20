@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_tbnpulm_ca_1935-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Tuberculosis non-pulmonary",
+  "location": "Canada",
+  "years": "1935-1955",
+  "start_date": "1934-12-29",
+  "end_date": "1955-12-31",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1935_1955wklyincidTBnpulm.pdf",
+  "extension": "pdf"
+}
