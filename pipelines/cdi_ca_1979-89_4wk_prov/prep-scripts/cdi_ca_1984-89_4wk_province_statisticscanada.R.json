@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1984-89_4wk_province_statisticscanada",
+  "source": "cdi_ca_1979-89_4wk_prov",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1979-89_4wk_prov/prep-scripts/cdi_ca_1984-89_4wk_province_statisticscanada.R",
+  "extension": "R"
+}
