@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_tbpulm_ca_1946_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Tuberculosis pulmonary",
+  "location": "Canada",
+  "years": "",
+  "start_date": "",
+  "end_date": "",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1933_1955wklyincidTBpulm.pdf",
+  "extension": "pdf"
+}
