@@ -1,0 +1,6 @@
+{
+  "prep_script": "phac-cdi-portal",
+  "source": "phac-cdi-portal",
+  "resource_path": "",
+  "extension": "R"
+}
