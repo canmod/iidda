@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ca_1976_wk_prov_statcan",
+  "source": "cdi_ca_1975-78_wk_prov",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1976-01-10",
+  "period_end_date": "1976-12-25",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1975-78_wk_prov/digitizations/cdi_ca_1976_wk_province_statisticscanada.xlsx",
+  "extension": "xlsx"
+}
