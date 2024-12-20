@@ -1,0 +1,1498 @@
+About this package
+==================
+
+  * date downloaded: 2024-01-16 08:55:37
+  * link: https://diseases.canada.ca/notifiable/charts?c=ppd#d=86%2C177%2C2%2C6%2C13%2C15%2C16%2C20%2C138%2C21%2C211%2C107%2C178%2C176%2C179%2C32%2C170%2C157%2C43%2C45%2C153%2C136%2C242%2C142%2C180%2C48%2C49%2C173%2C51%2C52%2C128%2C958%2C58%2C61%2C64%2C66%2C144%2C69%2C70%2C72%2C151%2C73%2C74%2C78%2C220%2C221%2C83%2C85%2C89%2C182%2C94%2C98%2C106%2C108%2C115%2C199%2C111%2C112%2C117%2C174%2C120%2C123%2C119%2C127%2C129%2C161%2C147%2C141%2C196%2C134&y=1924%2C2021
+
+Limitations
+~~~~~~~~~~~
+
+Acquired Immune Deficiency Syndrome
+-----------------------------------
+
+AIDS was added to the notifiable disease list in 1982.
+National diagnosis rate per 100,000 population was not calculated for AIDS.
+CNDSS counts for AIDS include data from the following provinces/territories and years:
+  
+    AB, MB: 1982-2017
+    BC: 1982-2019
+    NB, NT, NS, ON, SK, YT: 1982 onwards
+    NU: 2000 onwards
+    NL: 1982-2008
+    PE: 1982-2012
+    QC: 1982-2002
+  
+  
+
+Acute Flaccid Paralysis
+-----------------------
+
+Acute flaccid paralysis was added to the notifiable disease list in 2000.
+Acute flaccid paralysis data (current as of 2023.03.03) were obtained from the Canadian Acute Flaccid Paralysis Surveillance System. For further information regarding this system please see the Canadian Acute Flaccid Paralysis Surveillance System. 
+Only the under 15 population is included for surveillance of acute flaccid paralysis.
+CNDSS counts and rates for acute flaccid paralysis include data from the following provinces/territories and years:
+  
+    All provinces and territories: 2000 onwards
+  
+  
+
+
+Amoebiasis
+----------
+
+Amoebiasis was added to the notifiable disease list in 1927 and removed after 1999.
+There was no reporting of amoebiasis by any provinces or territories in 1928 and 1929.                                
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 1959 through 1968, it is possible that some amoebiasis cases were reported in the 'dysentery unspecified' category.
+CNDSS counts and rates for amoebiasis include data from the following provinces/territories and years:
+  
+    AB: 1936-1999
+    BC: 1927, 1930-1999
+    MB: 1933-1999
+    NB: 1937, 1951, 1956-1999
+    NL: 1953-1999
+    NS: 1932-1999
+    NT: 1959, 1963-1978, 1980-1999
+    ON: 1931-1999
+    PE: 1952-1968, 1971-1999
+    QC: 1934, 1939-1942, 1948-1953, 1957-1999
+    SK: 1927, 1931-1959, 1964-1999
+    YT: 1956-1978, 1980-1999 
+  
+  
+
+Anthrax
+-------
+
+Anthrax was added to the notifiable disease list in 1930, removed after 1982, and returned in 2002.
+There was no reporting of anthrax by any provinces or territories in 1930.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for anthrax include data from the following provinces/territories and years:
+  
+    AB: 1931-1955, 1957, 1959, 1962-1982, 2002 onwards
+    BC, MB, NS, ON, SK: 1931-1982, 2002 onwards
+    NB: 1953-1982, 2002 onwards
+    NL: 1949-1982, 2002 onwards
+    NT: 1959, 1963-1982, 2002 onwards
+    NU: 2002 onwards
+    PE: 1931-1955, 1957, 1959, 1979-1982, 2002 onwards
+    QC: 1931-1955, 1957, 1959-1982, 2002 onwards
+    YT: 1957-1982, 2002 onwards
+  
+  
+
+Botulism
+--------
+
+Botulism was added to the notifiable disease list in 1933.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of botulism. 
+CNDSS counts and rates for botulism include data from the following provinces/territories and years:
+  
+    AB: 1936-1959, 1962 onwards
+    BC, MB, NS: 1933 onwards
+    NB: 1952 onwards
+    NL, SK: 1953 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1933-1955, 1957, 1959, 1961-1968, 1972 onwards
+    PE: 1936-1948, 1953-1960, 1969 onwards
+    QC: 1933-1948, 1953-1955, 1957 onwards
+    YT: 1957, 1959, 1961 onwards   
+  
+  
+
+Brucellosis
+-----------
+
+Brucellosis was added to the notifiable disease list in 1928.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of brucellosis. 
+CNDSS counts and rates for brucellosis include data from the following provinces/territories and years:
+  
+    AB: 1931-1956, 1959, 1961 onwards
+    BC: 1929 onwards
+    MB: 1931, 1934 onwards
+    NB: 1937-1942, 1945, 1946, 1948, 1950, 1953, 1956 onwards
+    NL: 1949 onwards
+    NS, SK: 1930 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1928 onwards
+    PE: 1936-1948, 1952-1970, 1980 onwards
+    QC: 1933 onwards
+    YT: 1956 onwards
+  
+  
+
+
+Campylobacteriosis
+------------------
+
+Campylobacteriosis was added to the notifiable disease list in 1986.
+CNDSS counts and rates for campylobacteriosis include data from the following provinces/territories and years:
+  
+    AB, BC, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1986 onwards
+    MB: 1986, 1987, 1994 onwards
+    NU: 2000 onwards
+  
+  
+
+Chickenpox
+----------
+
+Chickenpox has been reported since 1924.
+Chickenpox was removed from the notifiable disease list after 1958 and returned in 1986.
+ON has notified the CNDSS that there is systematic under-reporting of chickenpox for their jurisdiction. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for chickenpox include data from the following provinces/territories and years:
+  
+    AB: 1924-1955, 1986 onwards
+    BC: 1924-1958, 1986-1992
+    MB: 1924-1958, 1986-1987
+    NB: 1924-1955, 1986 onwards
+    NL: 1949-1956, 1986-2015
+    NS: 1924-1958, 1986-1997
+    NT: 1986 onwards
+    NU: 2000 onwards
+    ON: 1924-1958, 1986-1990, 1993-2008, 2011 onwards
+    PE: 1930-1956, 1986 onwards
+    QC: 1924-1958, 1986-1987
+    SK: 1924-1956, 1986-1995, 1998-2000, 2021
+    YT: 1956-1957, 1986-2008, 2013 onwards
+  
+  
+
+Chlamydia
+---------
+
+Chlamydia was added to the notifiable disease list in 1991.
+CNDSS counts and rates for chlamydia include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NL, NS, NT, ON, PE, QC, SK, YT: 1991 onwards
+    NB: 1992 onwards
+    NU: 2000 onwards
+  
+  
+
+Cholera
+-------
+
+Cholera was added to the notifiable disease list in 1930.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for cholera include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1930 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1930-1955, 1957, 1959, 1979 onwards
+    YT: 1957 onwards 
+  
+  
+
+Clostridium difficile Associated Diarrhea
+-----------------------------------------
+
+Clostridium difficile associated diarrhea was added to the notifiable disease list in 2009.
+CNDSS Clostridium difficile data include both healthcare- and community-associated infections. SK (2017) and NB (2015) submitted only healthcare-associated infections in these years and these are therefore not included in the CNDSS counts and rates.  
+For Clostridium difficile associated diarrhea, some provinces/territories provided total counts without age/sex breakdown. These cases are included in the "Unkn." age/sex category, and the provincial/territorial populations have been removed for rate calculation by sex and age group.  For information specific to healthcare-associated clostridium difficile infections (CDI), please see the Canadian Nosocomial Infection Surveillance Program (CNISP):  Summary Report of Healthcare Associated Infection (HAI), Antimicrobial Resistance (AMR) and Antimicrobial Use (AMU) Surveillance Data from January 1, 2013 to December 31, 2017. CNISP CDI data are submitted by sentinel acute-care hospital sites, using standardized CNISP case definitions and protocols.
+CNDSS counts and rates for Clostridium difficile associated diarrhea include data from the following provinces/territories and years:
+  
+    AB, NS: 2012 onwards  
+    NB: 2018 onwards 
+    MB, NT: 2009 onwards 
+    NU: 2020 onwards
+    NL: 2011-2018 
+    PE: 2011 onwards 
+    YT: 2013 onwards 
+ 
+                                                                                                                                                                                                                                                          
+
+Congenital Rubella Syndrome
+---------------------------
+
+Congenital rubella syndrome was added to the notifiable disease list in 1979.
+Congenital rubella syndrome data include national totals only, with no age/sex breakdown. The denominators for rate calculations are live births.
+Prior to 1979, it is possible that some congenital rubella syndrome cases were reported in the 'rubella' category.
+From 2013 through 2016, QC data may include probable cases of congenital rubella syndrome. 
+CNDSS counts and rates for congenital rubella syndrome include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1979 onwards
+    NU: 2000 onwards
+  
+  
+
+Creutzfeldt-Jakob Disease
+-------------------------
+
+Creutzfeldt-Jakob disease was added to the notifiable disease list in 2000.
+Data (current as of 2023.02.17) include both probable and confirmed cases, with national totals only and no age/sex breakdown. For more information, please refer to the Creutzfeldt-Jakob disease surveillance program.
+
+Cryptosporidiosis
+-----------------
+
+Cryptosporidiosis was added to the notifiable disease list in 2000.
+From 2013 through 2016, QC data may include probable cases of cryptosporidiosis. 
+CNDSS counts and rates for cryptosporidiosis include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, NU, ON, PE, SK, YT: 2000 onwards
+    QC: 2004 onwards
+  
+  
+
+
+Cyclosporiasis
+--------------
+
+Cyclosporiasis was added to the notifiable disease list in 2000.
+From 2013 through 2016, QC data may include probable cases of cyclosporiasis. 
+CNDSS counts and rates for cyclosporiasis include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NL, NS, NT, NU, ON, SK, YT: 2000 onwards
+    NB: 2015 onwards
+    PE: 2013 onwards
+    QC: 2004 onwards
+  
+  
+
+Diphtheria
+----------
+
+Diphtheria has been reported since 1924.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for diphtheria include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1924 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1929 onwards
+    YT: 1956 onwards
+  
+  
+
+Dysentery - Type Unspecified
+----------------------------
+
+Dysentery - type unspecified was added to the notifiable disease list in 1959 and removed after 1968.
+From 1959 through 1968, it is possible that some amoebiasis cases were reported in the 'dysentery unspecified' category.
+CNDSS counts and rates for dysentery - type unspecified include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, QC: 1959-1968
+    NT: 1959, 1963-1968
+    ON, YT: 1959, 1961-1968
+    PE: 1959, 1964-1968
+    SK: 1959, 1968
+  
+  
+
+Food Poisoning 
+---------------
+
+Food poisoning includes staphylococcus and other unspecified bacteria, but not salmonella, which is reported separately.
+Food poisoning was added to the notifiable disease list in 1959 and removed after 1981.
+CNDSS counts and rates for food poisoning include data from the following provinces/territories and years:
+  
+    BC, MB, NB, NL, NS, PE, QC, SK: 1959-1981
+    AB, YT: 1959, 1961-1981
+    NT: 1959, 1963-1981
+    ON: 1959, 1968-1970, 1978-1981
+  
+  
+
+Giardiasis
+----------
+
+Giardiasis was added to the notifiable disease list in 1983.
+CNDSS counts and rates for giardiasis include data from the following provinces/territories and years:
+  
+    AB, BC, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1983 onwards
+    MB: 1983-1989, 1997 onwards
+    NU: 2000 onwards
+  
+  
+
+Gonorrhea
+---------
+
+Gonorrhea has been reported since 1924.
+There was no reporting of gonorrhea by any provinces or territories in 1925 and 1926.                                   
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for gonorrhea include data from the following provinces/territories and years:
+  
+     AB, NB, PE, SK: 1931 onwards
+    BC: 1939 onwards
+    MB: 1938 onwards
+    NL: 1949 onwards
+    NS: 1927 onwards
+    NT: 1959 onwards
+    NU: 2000 onwards
+    ON: 1924, 1927 onwards 
+    QC: 1944 onwards
+    YT: 1956 onwards
+  
+  
+
+Group A Streptococcal Disease, Invasive
+---------------------------------------
+
+Invasive group A streptococcal disease was added to the notifiable disease list in 2000.
+From 2013 through 2016, QC data may include probable cases of invasive group A streptococcal disease. 
+CNDSS counts and rates for invasive group A streptococcal disease include data from the following provinces/territories and years:
+  
+    All provinces and territories: 2000 onwards
+  
+  
+
+Group B Streptococcal Disease of the Newborn
+--------------------------------------------
+
+Group B streptococcal disease of the newborn was added to the notifiable disease list in 2000.
+Group B streptococcal disease of the newborn data include national totals only, with no age/sex breakdown. The denominators for rate calculations are live births.
+CNDSS counts and rates for group B streptococcal disease of the newborn include data from the following provinces/territories and years:
+  
+    AB: 2011 onwards
+    BC, NB, NL, NS, NT, NU, ON, PE, YT: 2000 onwards
+    MB: 2015 onwards
+    SK: 2000-2018
+  
+  
+
+Haemophilus influenzae Disease, non-b, Invasive 
+------------------------------------------------
+
+Invasive Haemophilus influenzae, non-b disease was added to the notifiable disease list in 2007.
+CNDSS counts and rates for Invasive Haemophilus influenzae, non-b disease include data from the following provinces/territories and years:
+  
+    AB: 2012 onwards
+    BC: 2011 onwards
+    MB, NL, NU, YT, QC, SK: 2007 onwards
+    NT: 2021 onwards
+    ON: 2018 onwards
+    PE: 2013 onwards
+  
+  
+
+Haemophilus influenzae Disease, type b, Invasive
+------------------------------------------------
+
+Invasive Haemophilus influenzae, type b disease was added to the notifiable disease list in 1986.
+CNDSS counts and rates for Haemophilus influenzae, type b disease include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NL, NS, NT, ON, PE, QC, SK, YT: 1986 onwards
+    NB: 1986-2006
+    NU: 2000 onwards
+  
+  
+
+
+Hantavirus Pulmonary Syndrome
+-----------------------------
+
+Hantavirus pulmonary syndrome was added to the notifiable disease list in 2000.
+CNDSS counts and rates for hantavirus pulmonary syndrome include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NL, NS, NT, NU, ON, QC, SK, YT: 2000 onwards
+    NB: 2015 onwards
+    PE: 2013 onwards
+  
+  
+
+Hepatitis A
+-----------
+
+Hepatitis A was added to the notifiable disease list in 1927, removed after 1958, and returned in 1969.
+Between 1959 and 1968, hepatitis A and hepatitis B were reported as a combined category. For ease of understanding over time, data for this period have been excluded.
+From 2013 through 2016, QC data may include probable cases of hepatitis A. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for hepatitis A include data from the following provinces/territories and years:
+    
+    AB: 1947, 1949-1955, 1958, 1969 onwards
+    BC: 1939, 1945-1958, 1969 onwards
+    MB: 1938, 1952-1958, 1969 onwards
+    NB: 1953-1958, 1969 onwards
+    NL: 1950-1958, 1969 onwards
+    NS: 1937-1939, 1942-1946, 1948-1955, 1957, 1958, 1969 onwards
+    NT: 1969 onwards
+    NU: 2000 onwards
+    ON: 1927, 1931-1958, 1969 onwards
+    PE: 1954-1958, 1969 onwards
+    QC: 1952-1955, 1957, 1958, 1969 onwards
+    SK: 1931-1958, 1969 onwards
+    YT: 1957, 1958, 1969 onwards
+  
+  
+
+Hepatitis B
+-----------
+
+Hepatitis B reporting does not differentiate between acute and chronic cases.
+Hepatitis B was added to the notifiable disease list as a separate disease in 1969.
+BC reported only acute cases of hepatitis B in 2005 and 2006, and began including hepatitis B chronic cases from 2007.
+ON reported only acute cases of hepatitis B in 2009 and 2010, and began including hepatitis B chronic cases from 2011.
+SK reported only acute cases of hepatitis B in 2007 and 2008, and began including hepatitis B chronic cases from 2009. 
+YT began including hepatitis B chronic cases from 2008.
+From 2013 through 2016, QC data may include probable cases of hepatitis B acute cases. 
+CNDSS counts and rates for hepatitis B include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, QC, SK, YT: 1969 onwards
+    NU: 2000 onwards
+    ON: 1971 onwards
+    PE: 1979 onwards
+  
+  
+
+Hepatitis C
+-----------
+
+Hepatitis C was added to the notifiable disease list in 1991.
+Hepatitis C reporting does not differentiate between acute and chronic/unresolved cases.
+CNDSS counts and rates for hepatitis C include data from the following provinces/territories and years:
+  
+    AB, BC, ON, PE, SK: 1991 onwards
+    MB: 1999 onwards
+    NB, NL, NT: 1993 onwards
+    NS, QC: 1996 onwards
+    NU: 2000 onwards
+    YT: 1994 onwards
+  
+  
+
+Hepatitis, non-A, non-B
+-----------------------
+
+Hepatitis, non-A, non-B was added to the notifiable disease list in 1983, removed after 1989, returned in 1991, and removed again after 1999.
+CNDSS counts and rates for hepatitis, non-A, non-B include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1983-1989, 1991-1999
+  
+  
+ 
+
+Hepatitis, Unspecified
+----------------------
+
+Hepatitis, unspecified was added to the notifiable disease list in 1959 and removed after 1968.
+CNDSS counts and rates for hepatitis, unspecified include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, ON, PE, QC, SK, YT: 1959-1968
+    NT: 1959, 1963-1968
+  
+  
+
+Human Immunodeficiency Virus Infection
+--------------------------------------
+
+HIV infection was added to the notifiable disease list in 1995.
+HIV data were provided by the HIV/AIDS Surveillance System (HASS). 
+Note that as of 2020 HASS has requested provinces and territories to report only first-time diagnosed HIV cases.
+
+    In 2020 all provinces and territories except QC provided first-time diagnosed cases 
+    In 2021: all provinces and territories provided first-time diagnosed HIV cases
+    In years prior to 2020, there may be a mixture of reporting of first-time diagnoses with previously diagnosed cases
+
+ For more information, please refer to HIV in Canada—surveillance report, 2020 and HIV in Canada: 2021 surveillance highlights - Canada.ca HIV in Canada: 2021 surveillance highlights - Canada.ca 
+
+
+
+Influenza, Epidemic
+-------------------
+
+Influenza, epidemic has been reported since 1924 and was removed from the notifiable disease list after 1958.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for influenza, epidemic include data from the following provinces/territories and years:
+  
+    AB: 1926, 1928, 1931-1948, 1952-1954
+    BC: 1924, 1925, 1927-1958
+    MB, NS, ON: 1924-1958
+    NB: 1924-1955
+    NL: 1951-1953, 1955
+    PE: 1929-1958
+    QC, SK: 1924-1957
+    YT: 1956, 1957
+  
+  
+
+Influenza, Laboratory Confirmed
+-------------------------------
+
+Influenza, laboratory confirmed was added to the notifiable disease list in 2000.
+Influenza national surveillance is conducted by the FluWatch program. More information can be found at Flu (influenza): FluWatch surveillance - Canada.ca.
+
+
+Legionellosis
+-------------
+
+Legionellosis was added to the notifiable disease list in 1986.
+CNDSS counts and rates for legionellosis include data from the following provinces/territories and years:
+  
+    All provinces and territories: 1986 onwards
+  
+  
+
+Leprosy
+-------
+
+Leprosy was added to the notifiable disease list in 1925.                                                                                    
+There was no reporting of leprosy by any provinces or territories in 1929. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for leprosy include data from the following provinces/territories and years:
+  
+    AB: 1931-1960, 1962 onwards
+    BC: 1925, 1927, 1928, 1931 onwards
+    MB, NB, ON: 1931 onwards
+    NS: 1932 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1936-1948, 1953-1955, 1957, 1959, 1979 onwards
+    QC: 1930 onwards
+    SK: 1926, 1930-1978, 1980 onwards
+    YT: 1957 onwards
+  
+  
+
+Listeriosis
+-----------
+
+Listeriosis was added to the notifiable disease list in 1990, removed after 1999, and returned in 2007.
+CNDSS counts and rates for listeriosis include data from the following provinces/territories and years:
+  
+    AB: 1990, 1991, 1998, 1999, 2007 onwards
+    BC, MB, NB, NL, ON, PE, SK, YT: 1990-1999, 2007 onwards
+    NS: 1990, 1991, 1999, 2007 onwards
+    NT: 1990-1999, 2012 onwards
+    NU: 2007 onwards
+    QC: 1990, 1991, 2007 onwards
+  
+  
+
+Lyme Disease
+------------
+
+Lyme disease was added to the notifiable disease list in 2009.
+The CNDSS data on Lyme disease reflect a relatively static count of confirmed cases. For more frequently updated information, including information on probable cases, please see here. 
+CNDSS counts and rates for lyme disease include data from the following provinces/territories and years:
+  
+    All provinces and territories: 2009 onwards
+  
+  
+
+Malaria
+-------
+
+Malaria was added to the notifiable disease list in 1929.                                                                                        
+Malaria was removed from the notifiable disease list after 1978 and returned in 1983. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of malaria. 
+CNDSS counts and rates for malaria include data from the following provinces/territories and years:
+  
+    AB: 1936-1955, 1957, 1959, 1962-1978, 1983 onwards
+    BC: 1929-1978, 1983 onwards
+    MB: 1945-1947, 1949-1978, 1983 onwards
+    NB: 1949, 1953-1978, 1983 onwards
+    NL: 1952-1978, 1983 onwards 
+    NS: 1932-1978, 1983 onwards
+    NT: 1959, 1963-1978, 1983 onwards
+    NU: 2000 onwards
+    ON: 1929, 1931-1959, 1961-1978, 1983-2017
+    PE: 1929, 1935-1948, 1952-1955, 1957, 1959, 1983 onwards
+    QC: 1949-1955, 1957-1978, 1983 onwards
+    SK: 1931-1978, 1983 onwards
+    YT: 1957-1978, 1983 onwards
+  
+  
+
+Measles
+-------
+
+Measles has been reported since 1924, removed after 1958, and returned in 1969.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for measles include data from the following provinces/territories and years:
+  
+    AB, MB, NS, ON, QC: 1924-1958, 1969 onwards
+    BC: 1924-1958, 1971 onwards
+    NB: 1924-1955, 1971 onwards
+    NL: 1949-1958, 1969 onwards
+    NT: 1969 onwards
+    NU: 2000 onwards
+    PE: 1929-1956, 1972, 1979-1985, 1989 onwards
+    SK: 1924-1956, 1969 onwards
+    YT: 1956-1958, 1969 onwards
+  
+  
+
+Meningitis, Other Bacterial
+---------------------------
+
+Meningitis, other bacterial was added to the notifiable disease list in 1979 and removed after 1999.
+CNDSS counts and rates for meningitis, other bacterial include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1979-1999
+  
+  
+
+Meningitis, Pneumococcal
+------------------------
+
+Meningitis, pneumococcal was added to the notifiable disease list in 1979 and removed after 1999.
+Starting in 2000, pneumococcal meningitis was reported under invasive pneumococcal disease which is a broader category and would include other invasive pneumococcal infections.
+CNDSS counts and rates for meningitis, pneumococcal include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1979-1999
+  
+  
+
+Meningitis, Viral
+-----------------
+
+Meningitis, viral was added to the notifiable disease list in 1959 and removed after 1999.
+CNDSS counts and rates for meningitis, viral include data from the following provinces/territories and years:
+  
+    AB, SK: 1959, 1960, 1962-1999
+    BC, MB, NB, NL, NS, QC, YT: 1959-1999
+    NT: 1959, 1963-1999
+    ON: 1959, 1975-1999
+    PE: 1959, 1960, 1966-1968, 1971-1999
+  
+  
+
+Meningococcal Disease, Invasive
+-------------------------------
+
+Invasive meningococcal disease has been reported since 1924.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for invasive meningococcal disease include data from the following provinces/territories and years:
+  
+    AB: 1924-1956, 1958 onwards
+    BC, MB, NB, NS, QC, SK: 1924 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1924-1961, 1964 onwards
+    PE: 1931-1961, 1964 onwards
+    YT: 1956 onwards
+  
+  
+
+Mumps
+-----
+
+Mumps has been reported since 1924.
+Mumps was removed from the notifiable disease list after 1958 and returned in 1986.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for mumps include data from the following provinces/territories and years:
+  
+    AB, NB: 1924-1955, 1986 onwards
+    BC, MB, NS, ON: 1924-1958, 1986 onwards
+    NL: 1949-1956, 1986 onwards
+    NT: 1986 onwards
+    NU: 2000 onwards
+    PE: 1930-1956, 1986 onwards
+    QC: 1928-1958, 1986 onwards
+    SK: 1924-1956, 1986 onwards
+    YT: 1956, 1957, 1986 onwards
+  
+  
+
+Norovirus Infection
+-------------------
+
+Norovirus infection was added to the notifiable disease list in 2007.
+For norovirus some provinces and territories report only on aggregated outbreak related data; these data are not included here.
+CNDSS counts and rates for norovirus include data from the following provinces/territories and years:
+  
+    AB: 2012 onwards
+    NL: 2007-2018
+    NU: 2007 onwards
+    YT: 2013 onwards
+  
+  
+
+Paralytic Shellfish Poisoning
+-----------------------------
+
+Paralytic shellfish poisoning was added to the notifiable disease list in 2007.
+CNDSS counts and rates for paralytic shellfish poisoning include data from the following provinces/territories and years:
+  
+    BC, NL, NS, YT: 2007 onwards
+    NB: 2015 onwards
+    NU: 2012 onwards
+    ON: 2014 onwards
+    PE: 2013 onwards
+    QC: 2007-2012
+  
+  
+
+Paratyphoid
+-----------
+
+Paratyphoid has been reported since 1924.
+Paratyphoid was removed from the notifiable disease list after 1952, returned in 1969, and removed again after 1999.
+Paratyphoid was included in the reporting of salmonellosis starting in 2000.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for paratyphoid include data from the following provinces/territories and years:
+  
+    AB: 1929, 1931-1952, 1969-1999
+    BC, QC: 1930-1952, 1969-1999
+    MB: 1927, 1932-1934, 1936-1952, 1969-1999
+    NB, PE: 1931-1952, 1969-1999
+    NL: 1949-1952, 1969-1999
+    NS: 1924-1952, 1969-1999
+    NT, YT: 1969-1999
+    ON: 1927-1952, 1969-1999
+    SK: 1924-1926, 1929-1952, 1969-1999
+  
+  
+
+Pertussis
+---------
+
+Pertussis has been reported since 1924.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of pertussis. 
+CNDSS counts and rates for pertussis include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1924 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1929 onwards
+    YT: 1956 onwards
+  
+  
+
+Plague
+------
+
+Plague was added to the notifiable disease list in 1930.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for plague include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1930 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1930-1955, 1957, 1959, 1979 onwards
+    YT: 1957 onwards
+  
+  
+
+Pneumococcal Disease, Invasive
+------------------------------
+
+Invasive pneumococcal disease was added to the notifiable disease list in 2000.
+Reporting of invasive pneumococcal disease includes pneumococcal meningitis which is a broader category and would include other invasive pneumococcal infections.
+From 2013 through 2016, QC data may include probable cases of invasive pneumococcal disease. 
+CNDSS counts and rates for invasive pneumococcal disease include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, NU, PE, QC, SK, YT: 2000 onwards
+    ON: 2001 onwards
+  
+  
+
+Poliomyelitis
+-------------
+
+Poliomyelitis has been reported since 1924.
+The WHO region of the Americas, which includes Canada, was certified polio-free in 1994.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for poliomyelitis include data from the following provinces/territories and years:
+  
+    AB: 1924, 1926 onwards
+    BC, MB, NB, NS, QC, SK: 1924 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1925 onwards
+    PE: 1929 onwards
+    YT: 1956 onwards
+  
+  
+
+Rabies
+------
+
+Rabies was added to the notifiable disease list in 1927.                                                                                      
+There was no reporting of rabies by any provinces or territories in 1929 and 1930. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of rabies. 
+CNDSS counts and rates for rabies include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, SK: 1931 onwards
+    NL: 1953 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards  
+    ON: 1927, 1928, 1931-1959, 1961 onwards
+    PE: 1931-1955, 1957, 1959, 1979 onwards
+    QC: 1931-1955, 1957 onwards  
+    YT: 1957 onwards
+  
+  
+
+Rubella
+-------
+
+Rubella has been reported since 1924.
+Rubella was removed from the notifiable disease list after 1958 and returned in 1969.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for rubella include data from the following provinces/territories and years:
+  
+    AB, ON: 1924-1958, 1969 onwards
+    BC: 1924-1958, 1971 onwards
+    MB: 1931-1958, 1969 onwards
+    NB: 1932, 1942, 1944, 1950, 1952-1955, 1969 onwards
+    NL: 1949-1958, 1969 onwards
+    NS: 1924-1957, 1969 onwards
+    NT: 1969 onwards
+    NU: 2000 onwards
+    PE: 1936-1953, 1979 onwards
+    QC: 1928-1958, 1969 onwards
+    SK: 1924-1956, 1969 onwards
+    YT: 1956, 1957, 1969 onwards
+  
+  
+
+Salmonellosis
+-------------
+
+Salmonellosis was added to the notifiable disease list in 1959.
+Salmonellosis reporting included paratyphoid starting in 2000.
+CNDSS counts and rates for salmonellosis include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, QC, SK: 1959 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1959, 1967 onwards
+    PE: 1959, 1964-1966, 1968 onwards
+    YT: 1959, 1961 onwards
+  
+  
+
+Scarlet Fever and Streptococcal Sore Throat
+-------------------------------------------
+
+Scarlet fever and streptococcal sore throat have been reported since 1924.
+Scarlet fever and streptococcal sore throat were removed from the notifiable disease list after 1978.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for scarlet fever and streptococcal sore throat include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1924-1978
+    NL: 1949-1978
+    NT: 1959, 1963-1978
+    PE: 1929-1978
+    YT: 1956-1978
+  
+  
+
+Severe Acute Respiratory Syndrome
+---------------------------------
+
+SARS was added to the notifiable disease list in 2004, after the 2003-2004 outbreak was over.
+There was no reporting of SARS by any provinces or territories in 2004.
+CNDSS counts and rates for SARS include data from the following provinces/territories and years:
+  
+    AB: 2005-2011
+    BC: 2005-2008, 2015 onwards
+    MB: 2005-2014, 2016, 2019
+    NB: 2005-2011, 2015 onwards
+    NL, NS, NT, NU, ON, PE, QC, YT: 2005 onwards
+    SK: 2005-2012
+  
+  
+
+Shigellosis
+-----------
+
+Shigellosis has been reported since 1924.
+There was no reporting of shigellosis by any provinces or territories in 1925, 1927 and 1929.                                                                                                                                                                              NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for shigellosis include data from the following provinces/territories and years:
+  
+    AB: 1936 onwards
+    BC: 1930 onwards
+    MB: 1942 onwards
+    NB: 1955 onwards
+    NL: 1951 onwards
+    NS: 1932 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1931 onwards
+    PE: 1952 onwards
+    QC: 1934, 1939 onwards
+    SK: 1924, 1926, 1928, 1931 onwards
+    YT: 1956 onwards
+  
+  
+
+Smallpox
+--------
+
+Smallpox has been reported since 1924.
+Smallpox was removed from the notifiable disease list after 1981 and returned in 2002.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for smallpox include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, ON, QC, SK: 1924-1981, 2002 onwards
+    NL: 1949-1981, 2002 onwards
+    NS: 1924, 1927-1981, 2002 onwards
+    NT: 1959, 1963-1981, 2002 onwards
+    NU: 2002 onwards
+    PE: 1931-1956, 1959, 1960, 1979-1981, 2002 onwards
+    YT: 1956-1981, 2002 onwards
+  
+  
+
+Syphilis
+--------
+
+Syphilis has been reported since 1924.                                                                                                                       
+There was no reporting of syphilis by any provinces or territories in 1925 and 1926. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+Syphilis reporting does not differentiate between various categories of syphilis, with the exception of congenital syphilis, which is reported separately.
+CNDSS counts and rates for syphilis include data from the following provinces/territories and years:
+  
+    AB, NB, PE, SK: 1931 onwards
+    BC: 1939 onwards
+    MB: 1938 onwards
+    NL: 1949 onwards
+    NS: 1927 onwards   
+    NT: 1959 onwards
+    NU: 2000 onwards
+    ON: 1924, 1927 onwards
+    QC: 1944 onwards
+    YT: 1956 onwards
+  
+  
+
+Syphilis, Congenital
+--------------------
+
+Congenital syphilis was added to the notifiable disease list in 1993.
+As per the national case definition, congenital syphilis reporting includes cases where age is up to 2 years.
+Congenital syphilis data include national totals only, with no age/sex breakdown. The denominators for rate calculations of congenital syphilis are live births.
+Prior to 1993, it is possible that some congenital syphilis cases were reported in the 'syphilis' category.
+From 2013 through 2016, QC data may include probable cases of congenital syphilis. 
+CNDSS counts and rates for congenital syphilis include data from the following provinces/territories and years:
+  
+    AB, BC, NB, NL, NS, NT, NU, MB, ON, PE, QC, SK, YT: 1993 onwards
+  
+  
+
+Tetanus
+-------
+
+Tetanus was added to the notifiable disease list in 1957.
+CNDSS counts and rates for tetanus include data from the following provinces/territories and years:
+  
+    AB: 1959 onwards
+    BC, MB, NB, NL, NS, ON, QC, SK: 1957 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1959, 1960, 1971-1978, 1980 onwards
+    YT: 1958 onwards
+  
+  
+
+Trichinosis
+-----------
+
+Trichinosis was added to the notifiable disease list in 1929 and removed after 1999.                                        
+There was no reporting of trichinosis by any provinces or territories in 1930.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for trichinosis include data from the following provinces/territories and years:
+  
+    AB: 1936-1953, 1959, 1962-1999
+    BC, SK: 1931-1999
+    MB: 1953-1999
+    NB, NL: 1956-1999
+    NS: 1929, 1932-1999
+    NT: 1959, 1963-1999
+    ON: 1929, 1931-1999   
+    PE: 1936-1948, 1959, 1971, 1979-1999
+    QC: 1940, 1949-1954, 1957-1999
+    YT: 1958-1999
+  
+  
+
+Tuberculosis
+------------
+
+Tuberculosis has been reported since 1924.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+In 2013 and onwards, SK reported age for cases in a format that could not be incorporated in these data at this time, thus cases are included in the "unspecified" age category. 
+CNDSS counts and rates for tuberculosis include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1924 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    PE: 1929-1969, 1971 onwards
+    YT: 1956 onwards
+  
+  
+
+Tularemia
+---------
+
+Tularemia was added to the notifiable disease list in 1930, removed after 1982, and returned in 2002.                                                                                                                                                            
+There was no reporting of tularemia by any provinces or territories in 1930. 
+From 2013 through 2016, QC data may include probable cases of tularemia. 
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for tularemia include data from the following provinces/territories and years:
+  
+    AB: 1934, 1936-1953, 1957, 1959-1982, 2002 onwards
+    BC: 1936-1982, 2002 onwards
+    MB: 1934-1982, 2002 onwards
+    NB: 1956-1982, 2002 onwards
+    NL: 1949 -1982, 2002 onwards
+    NS, YT: 1957-1982, 2002 onwards
+    NT: 1959, 1963-1982, 2002 onwards
+    NU: 2002 onwards
+    ON, SK: 1931-1982, 2002 onwards
+    PE: 1957, 1959, 1980-1982, 2002 onwards
+    QC: 1949-1953, 1957-1982, 2002 onwards
+  
+  
+
+Typhoid  
+---------
+
+Typhoid has been reported since 1924.
+Typhoid was removed from the notifiable disease list after 1952 and returned in 1969.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+CNDSS counts and rates for typhoid include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, ON, QC, SK: 1924-1952, 1969 onwards
+    NL: 1949-1952, 1969 onwards
+    NT, YT: 1969 onwards
+    NU: 2000 onwards
+    PE: 1929-1952, 1969 onwards
+  
+  
+
+Typhoid and Paratyphoid
+-----------------------
+
+Typhoid and paratyphoid were added to the notifiable disease list in 1953 and removed after 1968.
+CNDSS counts and rates for typhoid and paratyphoid include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, ON, PE, QC, SK: 1953-1968
+    NT: 1959, 1963-1968
+    YT: 1956-1968
+  
+  
+
+Verotoxigenic Escherichia coli Infection
+----------------------------------------
+
+Verotoxigenic Escherichia coli infection was added to the notifiable disease list in 1991.
+From 2013 through 2016, QC data may include probable cases of verotoxigenic Escherichia coli infection. 
+For MB, 2020 data includes confirmed cases, as well as a small number of cases with clinical illness in a person who is epidemiologically linked to a confirmed case. 
+CNDSS counts and rates for verotoxigenic Escherichia coli infection include data from the following provinces/territories and years:
+  
+    AB, MB, NL, NT, ON, PE, QC, SK: 1991 onwards
+    BC, NS, YT: 1992 onwards
+    NB: 1993 onwards
+    NU: 2000 onwards
+  
+  
+
+Viral Haemorrhagic Fever
+------------------------
+
+Viral haemorrhagic fever was added to the notifiable disease list in 1979, removed after 1982, and returned in 2002.
+CNDSS counts and rates for viral haemorrhagic fever include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NL, NS, NT, ON, PE, QC, SK, YT: 1979-1982, 2002 onwards
+    NU: 2002 onwards
+  
+  
+
+West Nile Virus Infection
+-------------------------
+
+West Nile virus infection (WNV) was added to the notifiable disease list in 2003.                                                       
+West Nile virus data (current as of 2023.03.03) include both probable and confirmed cases. For more information please refer to the West Nile virus surveillance program.
+CNDSS counts and rates for west Nile virus infection include data from the following provinces/territories and years:
+  
+    All provinces and territories: 2003 onwards
+  
+  
+
+ 
+
+Yellow Fever
+------------
+
+Yellow fever was added to the notifiable disease list in 1930.
+NL joined confederation in 1949, and is included from 1949 onward. Reporting to the Notifiable Disease system began in July.
+From 2013 through 2016, QC data may include probable cases of yellow fever. 
+CNDSS counts and rates for yellow fever include data from the following provinces/territories and years:
+  
+    AB, BC, MB, NB, NS, SK: 1930 onwards
+    NL: 1949 onwards
+    NT: 1959, 1963 onwards
+    NU: 2000 onwards
+    ON: 1930-1959, 1961-2017
+    PE: 1930-1955, 1957, 1959, 1979 onwards
+    QC: 1930-1955, 1957 onwards
+    YT: 1957 onwards
+  
+  
+
+Disease descriptions
+~~~~~~~~~~~~~~~~~~~~
+
+Acquired Immune Deficiency Syndrome
+-----------------------------------
+
+Acquired Immune Deficiency Syndrome (AIDS) is a serious, life-threatening condition representing the late clinical stage of human immunodeficiency virus (HIV) infection. HIV causes damage to a person’s immune system, which causes them to become very susceptible to particular infections, conditions and cancers (collectively known as AIDS-indicative diseases). Highly active antiretroviral therapy (HAART) for HIV treatment has greatly prevented or delayed the onset of AIDS for many people infected with HIV.  
+
+Acute Flaccid Paralysis
+-----------------------
+
+Acute Flaccid Paralysis (AFP) is a potential outcome of poliovirus infection that involves the acute onset of paralysis in one or more limbs as a result of the destruction of nerve cells that activate muscles. Other causes of AFP include Guillain-Barré Syndrome and various other acute neurological conditions. The surveillance of AFP is the strategy recommended by the World Health Organization (WHO) to monitor for polio in countries such as Canada where polio has been eliminated.
+
+Amoebiasis
+----------
+
+Amoebiasis (amoebic dysentery) is an intestinal infection caused by parasite called Entamoeba histolytica. Transmission occurs by eating food that is contaminated, from an infected person or drinking water containing amoebic cysts. Infection is common under conditions of crowding, in circumstances where hygiene practices are poor and among men who have sex with men.
+
+Anthrax
+-------
+
+Anthrax is an infection caused by the bacterium Bacillus anthracis. The bacteria form spores that can live in the soil for many years. Anthrax usually occurs in farm animals such as cows and sheep. It is uncommon in humans. Humans can become infected through the skin, stomach or lungs. Symptoms vary depending on the route of infection with the most serious symptoms resulting from lung infection. Prevention includes appropriate carcass disposal and vaccination. 
+
+Botulism
+--------
+
+Botulism is a rare but serious illness caused by a toxin that affects the nervous system and can cause paralysis. The bacterium Clostridium botulinum, which is found commonly in nature, produces this toxin. There are four forms of botulism: foodborne, wound, infant and colonization. Some sources of foodborne botulism in Canada have included improperly home-canned low acid foods, improperly stored low acid fruit juices and fermented marine mammal meat and fish.
+
+Brucellosis
+-----------
+
+Brucellosis is an infectious disease caused by the bacteria of the genus Brucella. These bacteria are primarily passed among animals, and they cause disease in many different vertebrates. Various Brucella species affect sheep, goats, cattle, deer, elk, pigs, dogs, and several other animals. It is usually transmitted through unpasteurized dairy products or contact with contaminated tissues.
+
+Campylobacteriosis
+------------------
+
+Campylobacteriosis is an acute gastrointestinal illness caused by the bacteria called Campylobacter. A person becomes infected by eating contaminated food, or drinking contaminated water or raw milk. Infection may also be contracted from close contact with another infected person or animal. The illness is characterized by diarrhea, abdominal pain, malaise, fever, nausea and vomiting.
+
+Chickenpox
+----------
+
+Varicella, also known as Chickenpox, is a very common and highly infectious childhood disease that is found worldwide. Symptoms appear 10 to 21 days after infection and last about 2 weeks. The defining symptom is a characteristic blister-like rash, which can cause severe irritation. Most children have a relatively mild illness, but severe illness may occur in adults and people with depressed immunity because of existing illness or because of a treatment that they are receiving (e.g. chemotherapy). The National Advisory Committee on Immunization (NACI) recommends immunization against varicella.
+
+Chlamydia
+---------
+
+Chlamydia is a sexually transmitted infection caused by Chlamydia trachomatis. Females are more likely to be affected by the complications of untreated chlamydia infection, which include chronic inflammation of the reproductive organs and infertility. Untreated chlamydia in pregnant women can be transmitted to their infants during childbirth, which may result in eye or lung infections in the newborn. Genital chlamydial infection may increase the risk of contracting or transmitting HIV. Most people infected with chlamydia have no symptoms, which highlights the importance of regular testing and prompt treatment for sexually active people. However, the infection can be treated with an appropriate antibiotic.
+
+Cholera
+-------
+
+Cholera is an acute enteric disease caused by the bacteria, Vibrio cholerae. Classic cholera is characterized by sudden onset of painless profuse watery diarrhea, often referred to as 'rice water stool'. If untreated , cholera can progress to rapid dehydration, circulatory collapse, renal failure and death.The infection is acquired by eating food or drinking water contaminated by the stool or vomit of an infected person.
+
+Clostridium difficile Associated Diarrhea
+-----------------------------------------
+
+Clostridium difficile, commonly called C. difficile, is a bacterium that causes diarrhea and other serious intestinal conditions. It is the most frequent cause of infectious diarrhea in hospitals and long-term care facilities in Canada. C. difficile causes disease by releasing toxins that destroy the lining of the bowel which, in turn, causes bloating and frequent, watery diarrhea. Other symptoms such as severe abdominal pain and tenderness, and/or fever may occur.  C. difficile infections are also the most common cause of pseudomembranous colitis (or inflammation of the colon). In rare instances, C.difficile can progress to more severe, life-threatening disease such as perforation of the bowel or toxic megacolon.
+
+Congenital Rubella Syndrome
+---------------------------
+
+Congenital rubella infection occurs when the rubella virus passes from an infected pregnant mother to her baby. Infection during early pregnancy frequently results in physical and mental disabilities in the baby, a condition known as congenital rubella syndrome (CRS). CRS can be prevented by vaccinating against rubella.
+
+Creutzfeldt-Jakob Disease
+-------------------------
+
+Creutzfeldt-Jakob disease (CJD) is a rare, fatal, infectious neurodegenerative condition known as a prion disease. The infectious agent of these diseases (a prion) is an abnormal form (PrPSc) of a normal cellular protein (PrPC). Classic CJD occurs in three forms: sporadic, genetic and infectious. Sporadic and genetic CJD together account for 95-99% of the 1-2 cases of classic CJD that occur annually in human populations. Infectious transmission of classic CJD has occurred through use of medical equipment or therapeutic products (dura mater, human growth hormone). Another, recently discovered infectious human prion disease called variant CJD (vCJD) has been linked with exposure to bovine spongiform encephalopathy (BSE), a prion disease of cattle. In a small number of cases, vCJD has also been transmitted by blood transfusion. Diagnosis of CJD can be difficult, as its clinical appearance can vary and can overlap with that of other, more common neurodegenerative diseases such as Alzheimer’s disease. For this reason, neuropathological examination remains the diagnostic gold standard. There is currently no treatment for CJD.
+
+Cryptosporidiosis
+-----------------
+
+Cryptosporidiosis is an intestinal infection caused by parasites of the genus Cryptosporidium. While this parasite can be transmitted in several different ways, water is a common method of transmission. Persons at increased risk of infection include close personal contacts of infected individuals (households, family, health care and day care workers); animal handlers (e.g. cattle or sheep); persons who have ingested contaminated recreational (e.g. lake, river, pool, or hot tub) or drinking water, and travelers to disease endemic areas.  Outbreaks have been reported in day care settings, among recreational water users and in municipalities with contaminated drinking water supplies.
+
+Cyclosporiasis
+--------------
+
+Cyclosporiasis is an intestinal infection caused by the parasite Cyclospora cayetanensis. Persons living or traveling in tropical or subtropical regions may be at increased risk because cyclosporiasis is endemic in some developing countries.  Symptoms include watery diarrhea, loss of appetite, weight loss, abdominal bloating and cramping, increased gas, nausea, fatigue and low-grade fever.  Foodborne outbreaks of cyclosporiasis in Canada and the United States have been linked to various types of imported fresh produce.
+
+Diphtheria
+----------
+
+Diphtheria is a disease that affects primarily the upper respiratory system and is caused by the bacterium Corynebacterium diphtheriae. The bacterium is most commonly spread through person-to-person contact. Diphtheria can be prevented by vaccine. Symptoms of diphtheria include the development of a thick gray membrane in the nose, mouth and/or throat. This membrane can spread down the airways if not treated.  The National Advisory Committee on Immunization (NACI) recommends immunization against diphtheria.
+
+Dysentery - Type Unspecified
+----------------------------
+
+When the specific type of dysentery, either amoebic or bacillary, is not available, provinces and territories had the option of reporting cases as 'unspecified'.
+
+Food Poisoning 
+---------------
+
+Food poisoning is a broad term used to describe illness suspected to be transmitted by food. The illness could have been caused by a bacteria, virus or food-borne intoxication.
+
+Giardiasis
+----------
+
+Giardiasis is an intestinal infection caused by the parasite Giardia.  While Giardia can be transmitted in several different ways, water is a common method of transmission. Person-to-person transmission is common where personal hygiene may be poor. Community outbreaks may occur by ingesting cysts from fecally contaminated food or water.  Clinical illness is characterized by chronic diarrhea, abdominal cramps, bloating, weight loss and fatigue. Giardia infection is usually asymptomatic and self-limited in healthy people; however, persons with HIV infection and those who are immuno-compromised may have more severe and prolonged illness.
+
+Gonorrhea
+---------
+
+Gonorrhea is a sexually transmitted infection caused by Neisseria gonorrhoeae. Rates of gonorrhea are higher in males, but females are more likely to experience serious complications such as chronic inflammation of the reproductive organs, infertility, or spread of infection throughout the body. While many infections may be asymptomatic, even “silent” infections may result in severe complications, and infants born to infected mothers may develop eye or blood infections. Genital gonorrhea infection may increase the risk of contracting or transmitting HIV. Many people infected with gonorrhea have no symptoms, which highlights the importance of regular testing and prompt treatment for sexually active people. Gonorrhea is treatable with an appropriate antibiotic; however, resistance to several antibiotic drug classes has been increasing, with fewer treatment options currently available. 
+
+Group A Streptococcal Disease, Invasive
+---------------------------------------
+
+Invasive Group A Streptococcus (iGAS) is caused by Streptococcus pyogenes.  The bacterium is transmitted through direct contact with or inhalation of the discharges or droplets from an infected person's nose or mouth. Infection can also occur from direct contact with discharges from infected wounds. Most infections with this bacterium cause illnesses that are not life threatening such as strep throat or impetigo. Invasive disease is a severe form of infection that occurs when the bacterium gets into parts of the body where bacteria are not usually found, such as the bloodstream. This can result in serious conditions such as septicemia, meningitis or necrotizing faciitis.
+
+Group B Streptococcal Disease of the Newborn
+--------------------------------------------
+
+Group B Streptococcal Disease of the Newborn (GBS) is diagnosed in infants less than one month of age.   Streptococcus agalactiae is a gram-positive streptococcus characterized by the presence of Group B Lancefield antigen, and can cause serious illness and sometimes death, especially in newborn infants, although many people carry Group B strep and are not aware as they are not symptomatic.  GBS bacteria live in the intestines, the urinary and genital tracts. Pregnant women can pass it on to their baby during labor and childbirth. In order to prevent Group B strep infection in the newborn, pregnant women are given a GBS screening test at 35-37 weeks, and provided treatment if positive.  There is no vaccine for GBS.
+
+Haemophilus influenzae Disease, non-b, Invasive 
+------------------------------------------------
+
+Invasive H. influenzae disease is a bacterial infection causing severe illness in children. It is transmitted by direct contact, oral contact or contact with contaminated objects. There are six distinct types of  H. influenzae bacteria and other nontypeable ones.  H. influenzae serotype b (Hib) was the most common cause of bacterial meningitis in young children in Canada before the introduction of vaccine in 1985. In recent years most Invasive H. influenzae disease are caused by serotypes other than b. At the present time there is no vaccine available for prevention of invasive H. influenzae non-b disease. 
+
+Haemophilus influenzae Disease, type b, Invasive
+------------------------------------------------
+
+Invasive H. influenzae disease is a bacterial infection causing severe illness in children. It is transmitted by direct contact, oral contact or contact with contaminated objects. There are six distinct types of  H. influenzae bacteria and other nontypeable ones. H. influenzae serotype b (Hib) was the most common cause of bacterial meningitis in young children in Canada before the introduction of vaccine in 1985. The National Advisory Committee on Immunization (NACI) recommends immunization against Hib. 
+
+Hantavirus Pulmonary Syndrome
+-----------------------------
+
+Hantavirus Pulmonary Syndrome is a severe respiratory infection caused by one of the Hantaviruses.  It is spread through the inhalation of aerosolized excrement of deer mice.
+
+Hepatitis A
+-----------
+
+Hepatitis A is an infection of the liver caused by the hepatitis A virus (HAV). The virus is spread when something is put in the mouth that has been contaminated with feces containing the virus. In Canada, HAV may occur in household and sexual contacts of infected people, in travellers returning from countries where HAV is common and in communities with inadequate sanitation. Symptoms of HAV infection include fever, loss of appetite, nausea, stomach pain, dark urine and a yellowing of the skin and eyes (jaundice). Unlike Hepatitis B and C, none of those infected permanently carries the virus. HAV is preventable through immunization.
+
+Hepatitis B
+-----------
+
+Hepatitis B (HBV) is an infection of the liver caused by the hepatitis B virus. The virus can be transmitted through blood or bodily fluids, unprotected sexual intercourse, use of needles or other sharp objects that have been in contact with infected blood or mucosal membranes, as well as from mother to child during pregnancy and labour. HBV is endemic in some parts of the world and is considered a major occupational hazard for healthcare staff. Infected individuals may experience loss of appetite, nausea and vomiting, stomach pain, fatigue and yellowing of the skin and mucosal membranes (jaundice). Some individuals who become chronically infected with HBV may develop cirrhosis (scarring) of the liver, liver failure or liver cancer. Getting tested is important as HBV can be treated and is preventable through immunization.
+
+Hepatitis C
+-----------
+
+Hepatitis C is an infection of the liver caused by the hepatitis C virus (HCV). The virus is transmissible through blood or bodily fluids, tissues, contaminated needles and other sharp objects that have been in contact with infected blood or mucosal membranes, as well as from mother to child during pregnancy and labour. While asymptomatic in the majority of individuals, HCV infection may cause loss of appetite, nausea and vomiting, stomach pain, extreme fatigue and a yellowing of the skin and eyes (jaundice). About 85% of people infected with HCV may develop chronic infection, which, if left untreated, may progress to liver cirrhosis (scarring) , liver cancer or liver failure. Getting tested is important as the majority of HCV infections in Canada can be treated. 
+
+Hepatitis, non-A, non-B
+-----------------------
+
+Hepatitis non-A non-B was the term used for other forms of viral hepatitis before the Hepatitis C virus, and other forms of hepatitis, were identified.
+
+Hepatitis, Unspecified
+----------------------
+
+When the information on the specific type of hepatitis is not available, provinces and territories have the option of reporting 'unspecified'.
+
+Human Immunodeficiency Virus Infection
+--------------------------------------
+
+The human immunodeficiency virus (HIV) causes damage to the immune system, resulting in AIDS if left untreated. HIV can be transmitted through sexual contact, sharing needles, receiving blood or blood products, or from an HIV-infected mother to her child (throughout pregnancy, during vaginal birth or through breast feeding).  HIV is a life-long infection, but the virus can be controlled by taking a combination of drugs known as highly active antiretroviral therapy (HAART).   
+
+Influenza, Epidemic
+-------------------
+
+Influenza, or the flu, is a respiratory infection caused by the influenza virus. Strains circulate every year, making people sick. Influenza typically starts with a headache, chills and cough, followed rapidly by fever, loss of appetite, muscle aches and fatigue, running nose, sneezing, watery eyes and throat irritation. Nausea, vomiting and diarrhea may also occur, especially in children.  Most people will recover from influenza within a week or ten days, but some - including those over 65 and adults and children with some chronic conditions, such as diabetes and/or cancer etc - are at greater risk of more severe complications, such as pneumonia.  Influenza has been collected under two descriptions in the notifiable disease system: influenza, epidemic from 1924-1959, and influenza, laboratory confirmed from 2000 onwards
+
+Influenza, Laboratory Confirmed
+-------------------------------
+
+Influenza, or the flu, is a respiratory infection caused by the influenza virus. Strains circulate every year, making people sick. Influenza typically starts with a headache, chills and cough, followed rapidly by fever, loss of appetite, muscle aches and fatigue, running nose, sneezing, watery eyes and throat irritation. Nausea, vomiting and diarrhea may also occur, especially in children.  Most people will recover from influenza within a week or ten days, but some - including those over 65 and adults and children with some chronic conditions, such as diabetes and/or cancer etc - are at greater risk of more severe complications, such as pneumonia.  Influenza has been collected under two descriptions in the notifiable disease system: influenza, epidemic from 1924-1959, and influenza, laboratory confirmed from 2000 onwards
+
+Legionellosis
+-------------
+
+Legionellosis is a respiratory disease caused by the bacterium Legionella. The infection is acquired by inhaling airborne water droplets contaminated with the bacteria. Legionellosis includes two distinct illnesses: Legionnaires' disease and Pontiac Fever. Both illnesses present with loss of appetite, sore muscles, headache and fever. Legionnaires' disease involves the progression of infection to pneumonia while Pontiac Fever is the self limited form of infection with no progression to more serious illness such as pneumonia.
+
+Leprosy
+-------
+
+Leprosy, also called Hansen's disease, is a chronic disease of the skin, peripheral nerves and the mucosa of the upper airway (the nose and throat) caused by the bacterium Mycobacterium leprae. Leprosy has afflicted mankind since ancient times, carrying with it a legacy of mutilation, rejection and exclusion from society. It is estimated that there are 1-2 million people worldwide who have leprosy and who require care by the community in which they live. Leprosy is rare in Canada.
+
+Listeriosis
+-----------
+
+Invasive listeriosis is a rare but serious disease caused by the bacteria Listeria monocytogenes.  Listeria monocytogenes (commonly called Listeria) is a type of bacteria often found in food and elsewhere in nature. Pregnant women, the elderly and individuals with weakened immune systems are at higher risk than others. The disease can cause meningoencephalitis (an infection of the brain and its surrounding tissues) and/or septicemia (blood poisoning), either of which can result in death.  Pregnant women typically experience only a mild, flu-like illness. However, infections during pregnancy can lead to a miscarriage, stillbirth, premature birth or the birth of an acutely-ill child. Some foods are more likely to carry Listeria than others. Those that present a higher risk include raw or contaminated milk, soft cheeses and ready-to-eat meats such as hot dogs, pâté and deli meats.
+
+Lyme Disease
+------------
+
+Lyme disease is caused by a bacterium called Borrelia burgdorferi that infects wild animals (mostly rodents and birds) and is transmitted by ticks, which are small spider-like blood feeding parasites that are active from spring through to autumn in some locations in Canada. People can become infected if they live, work or take leisure activities in the woodlands where the ticks live, because the ticks will feed on people as well as animals. Lyme disease is increasing in Canada as the ticks are spreading into southeastern and south central Canada. Risk from Lyme disease also occurs in southern British Columbia. There is no vaccine for Lyme disease but it can be prevented by taking simple precautions. 
+
+Malaria
+-------
+
+Malaria is an acute, relapsing or chronic infection caused by one of the four malaria (Plasmodium) parasites. The severity depends on which species of the parasite is responsible for the disease. Of the four species (Plasmodium falciparum, P. vivax, P. ovale and P. malariae), falciparum is the most lethal. Severe falciparum infection can cause cerebral malaria with seizures, coma, kidney failure and death. Mixed infections can occur.
+
+Measles
+-------
+
+Measles is a highly infectious disease caused by the measles virus and is characterized by a red, blotchy rash that begins on the face. It is spread through direct contact with or inhalation of the secretions from an infected person's nose or mouth. Measles affects all age groups and can be prevented by a vaccine. The National Advisory Committee on Immunization (NACI) recommends immunization against measles.
+
+Meningitis, Other Bacterial
+---------------------------
+
+Meningitis is an infection of the three membranes (called meninges) covering the brain and the spinal column. For the notifiable disease category "Meningitis, Other Bacteria", meningitis is caused by bacteria such as Staphylococci, Group B streptococci and enteric bacteria. The definition excludes pneumococcal meningitis (Streptococcus pneumoniae), meningococcal disease (Neisseria meningitidis), Haemophilus influenzae type B infection (Hib) and listeriosis (Listeria monocytogenes). Newborns (whose immune systems are not fully developed) and elderly people, whose immune systems do not fight infections as well as they did, are vulnerable to infection. People with head injury are also susceptible to infection.
+
+Meningitis, Pneumococcal
+------------------------
+
+Pneumococcal meningitis is an infection of the three membranes (called meninges) covering the brain and spinal column by the bacterium Streptococcus pneumoniae. Cases occur in infants, the elderly and certain high-risk groups.
+
+Meningitis, Viral
+-----------------
+
+Viral meningitis is an infection of the three membranes (called meninges) covering the brain and the spinal column by several viruses, including enteroviruses, coxsackievirus group A, coxsackievirus group B, echoviruses, arboviruses, herpes simplex viruses, measles and adenoviruses.
+
+Meningococcal Disease, Invasive
+-------------------------------
+
+Invasive meningococcal disease is an acute and serious illness caused by the bacterium Neisseria meningitidis. Invasive disease may lead to meningitis, in which the bacteria infect the fluids and membranes (called meninges) covering the brain and the spinal column, or septicemia. The National Advisory Committee on Immunization (NACI) recommends immunization against meningococcal disease.
+
+Mumps
+-----
+
+Mumps is an acute infectious disease caused by the mumps virus (paramyxovirus). It is characterized by swelling of the salivary glands under the jaw and in the cheeks. It is spread by direct contact with or inhalation of the secretions from an infected person's nose or mouth. The National Advisory Committee on Immunization (NACI) recommends immunization against mumps.
+
+Norovirus Infection
+-------------------
+
+Noroviruses are a group of viruses that cause gastroenteritis, an illness that usually includes diarrhea and/or vomiting. Noroviruses are commonly found throughout North America and are very infectious. Norovirus outbreaks can occur throughout the year but are more common in winter and affect all age groups. Noroviruses are transmitted either by consumption of contaminated food or water, by direct person-to-person spread or contact with contaminated objects.    
+
+Paralytic Shellfish Poisoning
+-----------------------------
+
+Paralytic Shellfish Poisoning (PSP) is a rare but serious illness caused by eating shellfish that contain high levels of marine biotoxins. Symptoms begin anywhere from a few minutes to 10 hours after eating the contaminated shellfish.  Symptoms are generally mild, and begin with numbness or tingling of the face, arms, and legs, followed by headache, dizziness, nausea, and muscular incoordination. In cases of severe poisoning, muscle paralysis and respiratory failure occur, and can be fatal.
+
+Paratyphoid
+-----------
+
+Paratyphoid is a gastrointestinal illness caused by the bacteria, Salmonella paratyphi. The clinical picture is similar to, but milder than, typhoid fever. Paratyphoid occurs less frequently than typhoid fever. Paratyphoid is common in the developing world, and most cases in Canada are acquired during travel in endemic areas. The disease is most commonly transmitted by food and water contaminated with the feces of infected persons. 
+
+Pertussis
+---------
+
+Pertussis (whooping cough) is a highly contagious infection of the respiratory tract caused by the bacterium Bordetella pertussis. It is easily transmitted from one person to another through the discharges or droplets from an infected person's nose or mouth. The illness is characterized by severe coughing spasms, which may or may not be associated with the classic inspiratory whoop made when breathing in (hence the popular name "whooping cough"). Pertussis can be prevented by a vaccine.  The National Advisory Committee on Immunization (NACI) recommends immunization against pertussis
+
+Plague
+------
+
+The plague is an infectious disease caused by a bacterium called Yersinia pestis that can affect both animals and humans.  At the present time, it is extremely rare for humans to contract plague. The plague is transmitted between animals and humans by the bite of infected fleas, direct contact with infected rodents, inhalation and rarely, ingestion of infective materials. Symptoms begin with flu-like complaints like fever, chills, muscle pain, weakness and headache, and can include nausea, vomiting, diarrhea and abdominal pain. Effective treatment methods enable almost all plague patients to be cured if diagnosed in time. Several antibiotics can effectively treat plague.
+
+Pneumococcal Disease, Invasive
+------------------------------
+
+Invasive pneumococcal disease is an acute and serious illness caused by the bacterium Streptococcus pneumoniae. Invasive disease may lead to several syndromes including bacteremia, meningitis, and/or bacterial pneumonia. The National Advisory Committee on Immunization (NACI) recommends routine use of pneumococcal vaccine for all infants as part of the routine immunization schedule.
+
+Poliomyelitis
+-------------
+
+Poliomyelitis (polio) is caused by a virus that enters the body through the mouth mainly by fecal-oral contamination. Polio infections are more common in children less than five years of age; however, any person who is not immune to poliovirus, regardless of age, can become infected. Polio is most often recognized by the sudden onset of muscle paralysis but the majority of infected persons do not look or feel sick. There is no cure for polio but it can be prevented through immunization.
+
+Rabies
+------
+
+Rabies is a serious infection of the brain and spinal cord that is caused by a virus. It is primarily a disease of animals, but can be transmitted to humans by way of a bite or a scratch from an infected animal. Without medical intervention death occurs in over 50% of cases.Treatment of rabies includes rabies immune globulin and/or vaccine, as indicated. 
+
+Rubella
+-------
+
+Rubella is an infectious disease that results in a transient erythematous rash, lymphadenopathy, arthralgia and low-grade fever. Although a mild illness in most people, in a pregnant woman, the virus can cause a miscarriage or cause infection in the fetus that can result in fetal malformations. The disease is easily preventable with vaccination. The National Advisory Committee on Immunization (NACI) recommends immunization against rubella.
+
+Salmonellosis
+-------------
+
+Salmonellosis is an acute gastrointestinal illness caused by bacteria belonging to the family of Salmonella. Symptoms include fever, abdominal cramps, vomiting and diarrhea about 6-72 hours after eating contaminated food or beverages. Outbreak investigations have implicated foods such as meat, poultry, uncooked or lightly cooked eggs and egg products, unpasteurized milk and dairy products and raw fruits and vegetables.
+
+Scarlet Fever and Streptococcal Sore Throat
+-------------------------------------------
+
+Scarlet fever, also called “scarlatina”, is caused by Group A streptococcus (group A strep), a bacterium commonly found in the throat and on the skin. These bacteria also cause strep throat. Scarlet fever often appears as a rash and is accompanied by a high fever and a strawberry-like appearance of the tongue. The illness is most common among children aged 5 to 18 years, but adults can also become infected.
+
+Severe Acute Respiratory Syndrome
+---------------------------------
+
+Severe Acute Respiratory Syndrome, or SARS, refers to the respiratory infection caused by the SARS coronavirus (SARS-CoV-1) which was first described by the World Health Organization (WHO) in 2003. People affected by SARS develop a fever, followed by respiratory symptoms, such as a cough, shortness of breath or difficulty breathing. In some cases, the symptoms become increasingly severe, and patients may require oxygen support and mechanical help to breathe. Other symptoms of SARS may include muscle aches, headaches, sore throat and diarrhea.
+
+Note: For information on COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), please refer to 
+National surveillance for Coronavirus disease (COVID-19) - Canada.ca.
+
+Shigellosis
+-----------
+
+Shigellosis is an acute gastrointestinal illness caused by a group of bacteria called Shigella. The illness is characterized by diarrhea accompanied by fever, nausea, vomiting, and cramps. The infection is spread by the fecal-oral route. Infection then passes either by person-to-person contact or indirectly by contaminated food or water. Outbreaks have occurred under conditions of crowding and in circumstances where hygiene practices are poor.
+
+Smallpox
+--------
+
+Smallpox is caused by variola virus, a member of the orthopox virus genus, which also includes cowpox (vaccinia) and monkeypox viruses. Variola virus can only infect humans and has no animal reservoir. It is transmitted from person-to-person, mainly through respiratory droplets. It can also be transmitted through aerosols and contact with clothing or bedding. Cases are most infectious during the first week of illness, but the period of infectiousness extends from the development of fever (when the first bucco-pharyngeal lesions appear) until all skin lesions have scabbed over. There have been no naturally acquired cases of smallpox since 1977. In 1980, the World Health Organization confirmed the global eradication of smallpox. On 26 October, 2001, the WHO reaffirmed its recommendation against immunization of the general population. National Advisory Committee on Immunization (NACI) also believes that there is currently no evidence to support routine smallpox immunization of the general Canadian population.
+
+Syphilis
+--------
+
+Syphilis is a sexually transmitted infection caused by Treponema pallidum. If left untreated, the infection progresses through primary, secondary, latent and tertiary stages. Untreated syphilis can result in serious complications causing damage to the central nervous system, cardiovascular system, eyes, skin and other internal organs, sometimes causing death. Syphilis infection may increase the risk of contracting or transmitting HIV. Syphilis in pregnant women can be transmitted to their infants, which may result in serious or fatal complications. Individuals co-infected with syphilis and HIV require special considerations for the treatment and management of both infections.   
+
+Syphilis, Congenital
+--------------------
+
+Congenital Syphilis is caused by the vertical transmission of Treponema pallidum from an infected mother to her fetus. The majority of infants with congenital syphilis are infected in utero, but they can also be infected by contact with an active genital lesion at the time of delivery. Syphilis can result in serious complications in pregnancy, such as spontaneous abortion, stillbirth or perinatal death. Live-born infected children can suffer serious consequences, usually within the first three months of life. Consequences include cerebral palsy, hydrocephalus, sensor neural hearing loss and musculoskeletal deformity, all of which may be prevented with timely treatment during pregnancy. However, some manifestations develop much later. Only early congenital syphilis cases (diagnosed in infants less than two years of age) are currently reported nationally. 
+
+Tetanus
+-------
+
+Tetanus is a vaccine preventable disease caused by a bacterial spore which can be found in the intestines of animals and in the soil. It is an often fatal disease which affects all age groups. A person infected with the tetanus bacterium experiences painful muscle contractions that begin in the neck (hence the popular name "lockjaw") and then continue down to involve the muscles of the torso. The National Advisory Committee on Immunization (NACI) recommends immunization against tetanus. 
+
+Trichinosis
+-----------
+
+Trichinosis is a gastrointestinal illness caused by the intestinal roundworm, Trichinella spiralis. Persons become infected with Trichinella by eating raw or undercooked meat, especially pork, pork products and "beef products", such as hamburger, which may be mixed with pork. Trichinosis is prevented by cooking all pork and pork products at a temperature and for a sufficient amount of time to allow all parts to reach 71° C.
+
+Tuberculosis
+------------
+
+Tuberculosis, or TB, is an infectious disease caused by bacteria belonging to the Mycobacterium tuberculosis complex.  Most people who become infected with the TB bacilli will never develop active TB disease. In 5 to 10 percent of people infected with TB bacilli and who have a normal functioning immune system, however,  the TB bacillus will start to grow and replicate, leading to active TB disease. For people with weakened immune systems, the risk of developing TB disease is much higher. TB bacteria can attack any part of the body such as the kidney, spine, and brain, but in the majority of cases TB bacteria attack the lungs; this is known as pulmonary TB.
+
+Tularemia
+---------
+
+Tularemia is a bacterial disease that can affect animals and is found in wild animals in North America. Wild animals most often affected include rodents, rabbits, muskrats and beavers. Tularemia can be spread from animals to humans, although this is not known to occur commonly.  Tularemia can be successfully treated with antibiotics.  Tularemia is usually transmitted by contact with infected animals or their cages/immediate environment. Tularemia is not known to spread from person to person.  Symptoms of tularemia may include ulcers on the skin or mouth, swollen glands and painful lymph glands, sudden fever, chills, headache, diarrhea, muscle aches, dry cough, sore throat, progressive weakness, joint pain, and swollen and painful eyes.
+
+Typhoid  
+---------
+
+Typhoid is a serious illness caused by the bacteria called Salmonella typhi. Typhoid fever is common in the developing world, and most cases in Canada are acquired during travel in endemic areas. The disease is most commonly transmitted by food and water contaminated with the feces of infected persons. Important vehicles of spread include shellfish that have been harvested from sewage-contaminated water, raw vegetables and milk and milk products that have been contaminated by infected cattle or by the hands of an infected person.
+
+Typhoid and Paratyphoid
+-----------------------
+
+Typhoid and paratyphoid are gastrointestinal illnesses caused by two different species of the Salmonella bacteria.  Typhoid fever is more common and more serious than paratyphoid.  Most cases of both of the diseases are acquired during travel to endemic areas.  The diseases are most commonly transmitted by food and water contaminated with the feces of infected persons.
+
+Verotoxigenic Escherichia coli Infection
+----------------------------------------
+
+Verotoxigenic (VTEC) Escherichia coli infection is an acute gastrointestinal illness caused by verotoxin producing E.coli bacteria.  Escherichia coli O157:H7 is the most common cause of both outbreaks and sporadic cases, however both E.coli O157 and non-O157 VTEC are nationally notifiable. Clinical illness is characterized by diarrhea (often bloody), abdominal cramps (fever is often absent) and can be complicated by hemolytic uremic syndrome (HUS) in children under five years old. VTEC infections are generally caused by eating contaminated food, drinking contaminated water, or coming into direct contact with someone who is sick or with animals that carry the bacteria. Food-borne infections can be caused by improperly cooked beef, raw fruits and uncooked vegetables, including sprouts; unpasteurized (raw) milk and (raw) milk products, including raw milk cheese and unpasteurized apple juice/cider.
+
+Viral Haemorrhagic Fever
+------------------------
+
+Viral Haemorrhagic Fevers (VHFs) are a group of diseases caused by viruses. A VHF is a highly infectious, and often fatal, disease caused by one of the several different viruses. Ebola, Marburg, Lassa, Rift Valley Fever and Crimean-Congo are all different types of viruses that can cause viral haemorrhagic fevers in animals and humans. Symptoms include the sudden onset of fever, malaise, headache, sore throat, abdominal pain, vomiting, diarrhea and haemorrhaging. These are followed by collapse, shock associated with multi-organ failure and bleeding. For most VHFs there is no specific cure or vaccine. Treatment options include hospitalization, aggressive supportive care in an intensive care unit, strict isolation to prevent spread of infection, maintenance of fluid levels and electrolytes. For some patients, antiviral medication has been used. Infections and outbreaks occur sporadically in many developing areas of the world.
+
+West Nile Virus Infection
+-------------------------
+
+West Nile virus belongs to a family of viruses called “flaviviridae” that can infect humans, birds, horses and mosquitoes. West Nile virus is closely related to the viruses that cause dengue fever, yellow fever and St. Louis encephalitis.  The evidence shows that most people infected with West Nile virus got it from the bite of an infected mosquito.  While persons of any age or health status can be at risk of developing serious health effects from West Nile virus, the overall risk of serious health effects increases with age. People with weaker immune systems are also considered to be at greater risk for serious health effects.  West Nile Virus is usually acquired in an outdoor setting during mosquito season which in Canada can be from Mid-April to October.
+
+Yellow Fever
+------------
+
+Yellow fever is a zoonotic hemorrhagic fever caused by a flavivirus transmitted by Aedes aegypti mosquitoes. Yellow Fever evolves though a spectrum of three periods of illness, from fever with headache, weakness, nausea and vomiting, through a brief period of remission, to a hemorrhagic fever with vomiting blood, jaundice, generalized bleeding, shock and multi-organ failure.  A very effective vaccine that induces long-lasting (10 years) immunity is commonly available.

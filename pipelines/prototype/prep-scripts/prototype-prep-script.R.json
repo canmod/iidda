@@ -1,0 +1,6 @@
+{
+  "prep_script": "prototype-prep-script",
+  "source": "prototype",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/prototype/prep-scripts/prototype-prep-script.R",
+  "extension": "R"
+}

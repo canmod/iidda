@@ -1,0 +1,11 @@
+{
+  "digitization": "prototype-digitization",
+  "source": "prototype",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1978-01-01",
+  "period_end_date": "1979-01-01",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/prototype/digitizations/prototype-digitization.csv",
+  "extension": "csv"
+}
