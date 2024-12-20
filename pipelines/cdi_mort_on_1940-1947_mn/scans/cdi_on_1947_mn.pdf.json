@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_on_1947_mn",
+  "source": "cdi_mort_on_1940-1947_mn",
+  "digitized": "",
+  "type": "CDI and Mortality",
+  "disease": "",
+  "location": "Ontario",
+  "years": "1947",
+  "start_date": "1947-01-01",
+  "end_date": "1947-12-31",
+  "frequency": "monthly",
+  "breakdown": "cause",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/cdi_mort_on_1940-1947_mn.0b6543b6e0/pipelines/cdi_mort_on_1940-1947_mn/scans/cdi_on_1947_mn.pdf",
+  "extension": "pdf"
+}
