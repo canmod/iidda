@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized/prep-scripts/cdi_ca_1924-55_wk_prov_dbs_statcan_harmonized.R",
+  "extension": "R"
+}
