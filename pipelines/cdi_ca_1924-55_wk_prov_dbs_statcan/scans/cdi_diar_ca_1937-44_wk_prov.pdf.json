@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_diar_ca_1937-44_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Diarrhoea",
+  "location": "Canada",
+  "years": "1937-1944",
+  "start_date": "1937-01-01",
+  "end_date": "1944-12-30",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1937_1944wklyinciddiarrhoea.pdf",
+  "extension": "pdf"
+}
