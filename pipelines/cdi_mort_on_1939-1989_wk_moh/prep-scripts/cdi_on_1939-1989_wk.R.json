@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_on_1939-1989_wk",
+  "source": "cdi_mort_on_1939-1989_wk_moh",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/cdi_mort_on_1939-1989_wk_moh.d104d671b1/pipelines/cdi_mort_on_1939-1989_wk_moh/prep-scripts/cdi_on_1939-1989_wk.R",
+  "extension": "R"
+}
