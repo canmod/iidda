@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ca_1984-89_4wk_prov_statcan",
+  "source": "cdi_ca_1979-89_4wk_prov",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1983-12-24",
+  "period_end_date": "1989-12-16",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1979-89_4wk_prov/digitizations/cdi_ca_1984-89_4wk_province_statisticscanada.xlsx",
+  "extension": "xlsx"
+}
