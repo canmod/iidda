@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1962_wk_prov_dbs",
+  "source": "cdi_ca_1956-63_1973-74_wk_prov",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1956-63_1973-74_wk_prov/prep-scripts/cdi_ca_1962_wk_prov_dbs.R",
+  "extension": "R"
+}
