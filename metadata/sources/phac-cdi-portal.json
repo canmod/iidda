@@ -1,11 +1,12 @@
 {
   "source": "phac-cdi-portal",
-  "organization": "",
-  "type": "",
-  "location": "",
-  "years": "",
-  "breakdown": "",
-  "urls": "",
+  "organization": "Public Health Agency of Canada",
+  "type": "CDI",
+  "location": "Canada",
+  "years": "1924-2022",
+  "frequency": "yearly",
+  "breakdown": "province",
+  "urls": "https://diseases.canada.ca/notifiable",
   "date_of_url_access": "",
   "notes": ""
 }
