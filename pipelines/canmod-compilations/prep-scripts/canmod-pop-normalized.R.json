@@ -1,0 +1,6 @@
+{
+  "prep_script": "canmod-pop-normalized",
+  "source": "canmod-compilations",
+  "resource_path": "",
+  "extension": "R"
+}
