@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1964_wk_province",
+  "source": "cdi_ca_1964-67_wk_prov",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1964-67_wk_prov/prep-scripts/cdi_ca_1964_wk_province.R",
+  "extension": "R"
+}
