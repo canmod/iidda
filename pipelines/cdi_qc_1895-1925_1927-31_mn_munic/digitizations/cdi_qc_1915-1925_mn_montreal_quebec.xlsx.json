@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_qc_1915-1925_mn_montreal_quebec",
+  "source": "cdi_qc_1895-1925_1927-31_mn_munic",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1915-01-01",
+  "period_end_date": "1925-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_qc_1895-1925_1927-31_mn_munic/digitizations/cdi_qc_1915-1925_mn_montreal_quebec.xlsx",
+  "extension": "xlsx"
+}
