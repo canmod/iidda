@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_yf_ca_1945-1955_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "data_enterer": "Samara Manzin",
+  "digitized": "yes",
+  "period_start_date": "1944-12-30",
+  "period_end_date": "1955-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_yf_ca_1945-55_wk_prov.xlsx",
+  "extension": "xlsx"
+}
