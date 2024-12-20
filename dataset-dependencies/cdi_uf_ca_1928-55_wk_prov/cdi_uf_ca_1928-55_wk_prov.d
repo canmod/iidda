@@ -1,0 +1,14 @@
+pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/prep-scripts/cdi_uf_ca_1928-55_wk_prov.R
+pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/prep-scripts/week-not-stated.R
+pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/cdi_uf_ca_1928-55_wk_prov.pdf
+pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_uf_ca_1928-55_wk_prov.xlsx
+metadata/columns/location.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/historical_disease.json
+metadata/columns/cases_this_period.json
+metadata/columns/location_type.json
+metadata/columns/time_scale.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json
+metadata/columns/collection_year.json

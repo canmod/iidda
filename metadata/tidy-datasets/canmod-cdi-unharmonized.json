@@ -1,6 +1,6 @@
 {
   "tidy_dataset": "canmod-cdi-unharmonized",
-  "type": "CDI",
+  "type": "Compilation",
   "period_start_date": "",
   "period_end_date": "",
   "title": "Canadian Communicable Disease Incidence Data",

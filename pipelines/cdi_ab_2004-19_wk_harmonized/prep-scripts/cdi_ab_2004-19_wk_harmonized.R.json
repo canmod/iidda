@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ab_2004-19_wk_harmonized",
+  "source": "cdi_ab_2004-19_wk_harmonized",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ab_2004-19_wk_harmonized/prep-scripts/cdi_ab_2004-19_wk_harmonized.R",
+  "extension": "R"
+}

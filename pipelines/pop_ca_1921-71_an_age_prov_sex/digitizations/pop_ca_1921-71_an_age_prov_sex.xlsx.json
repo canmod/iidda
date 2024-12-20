@@ -1,0 +1,11 @@
+{
+  "digitization": "pop_ca_1921-71_an_age_prov_sex",
+  "source": "pop_ca_1921-71_an_age_prov_sex",
+  "data_enterer": "Chyun-Fung Shi",
+  "digitized": "yes",
+  "period_start_date": "1921-01-01",
+  "period_end_date": "1971-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/pop_ca_1921-71_an_age_prov_sex/digitizations/pop_ca_1921-1971_annual_prov_age_sex.xlsx",
+  "extension": "xlsx"
+}

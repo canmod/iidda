@@ -1,0 +1,19 @@
+{
+  "scan": "cdi_ca_1957_wk_prov_dbs",
+  "source": "cdi_ca_1956-63_1973-74_wk_prov",
+  "scanner": "",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1957",
+  "start_date": "1957-01-05",
+  "end_date": "1957-12-28",
+  "frequency": "weekly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1956-63_1973-74_wk_prov/scans/cdi_ca_1957_wk_province_dbs.pdf",
+  "extension": "pdf"
+}

@@ -1,0 +1,12 @@
+pipelines/cdi_mort_on_1939-1989_wk_moh/prep-scripts/cdi_on_1939-1989_wk.R
+pipelines/cdi_mort_on_1939-1989_wk_moh/scans/cdi_mort_on_1939-1969_wk.pdf
+pipelines/cdi_mort_on_1939-1989_wk_moh/digitizations/cdi_mort_on_1939-1989_wk.xlsx
+metadata/columns/historical_disease.json
+metadata/columns/location.json
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/time_scale.json
+metadata/columns/location_type.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json

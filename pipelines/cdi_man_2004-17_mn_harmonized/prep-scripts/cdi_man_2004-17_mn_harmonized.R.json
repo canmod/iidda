@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_man_2004-17_mn_harmonized",
+  "source": "cdi_man_2004-17_mn_harmonized",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_man_2004-17_mn_harmonized/prep-scripts/cdi_man_2004-17_mn_harmonized.R",
+  "extension": "R"
+}

@@ -1,0 +1,15 @@
+pipelines/pop_ca_1921-71_an_age_prov_sex/prep-scripts/pop_ca_1921-71_an_age_prov_sex.R
+pipelines/pop_ca_1921-71_an_age_prov_sex/scans/pop_ca_1921-71_an_age_prov_sex.pdf
+pipelines/pop_ca_1921-71_an_age_prov_sex/digitizations/pop_ca_1921-71_an_age_prov_sex.xlsx
+metadata/columns/date.json
+metadata/columns/location.json
+metadata/columns/location_type.json
+metadata/columns/sex.json
+metadata/columns/age_group.json
+metadata/columns/age_grouping_scheme.json
+metadata/columns/age_grouping_total.json
+metadata/columns/lower_age.json
+metadata/columns/upper_age.json
+metadata/columns/population.json
+metadata/columns/iso_3166.json
+metadata/columns/iso_3166_2.json

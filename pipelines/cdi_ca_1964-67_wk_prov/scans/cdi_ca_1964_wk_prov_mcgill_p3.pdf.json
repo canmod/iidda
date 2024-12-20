@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_ca_1964_wk_prov_mcgill_p3",
+  "source": "cdi_ca_1964-67_wk_prov",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1964",
+  "start_date": "1964-08-22",
+  "end_date": "1965-01-02",
+  "frequency": "weekly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1964-67_wk_prov/scans/cdi_ca_1964_wk_province_mcgill_Part3.pdf",
+  "extension": "pdf"
+}

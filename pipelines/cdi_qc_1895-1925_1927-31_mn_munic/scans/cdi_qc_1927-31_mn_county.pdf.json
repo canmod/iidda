@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_qc_1927-31_mn_county",
+  "source": "cdi_qc_1895-1925_1927-31_mn_munic",
+  "digitized": "",
+  "type": "CDI",
+  "disease": "",
+  "location": "Quebec",
+  "years": "",
+  "start_date": "",
+  "end_date": "",
+  "frequency": "monthly",
+  "breakdown": "municipality",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_qc_1895-1925_1927-31_mn_munic/scans/cdi_qc_1927-31_mn_county.pdf",
+  "extension": "pdf"
+}

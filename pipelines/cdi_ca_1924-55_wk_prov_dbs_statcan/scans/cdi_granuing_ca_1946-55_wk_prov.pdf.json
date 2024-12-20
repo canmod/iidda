@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_granuing_ca_1946-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Granuloma inguinale",
+  "location": "Canada",
+  "years": "1946-1955",
+  "start_date": "1945-12-29",
+  "end_date": "1955-12-31",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1946_1955wklyincidgranuing.pdf",
+  "extension": "pdf"
+}

@@ -1,0 +1,11 @@
+pipelines/cdi_mort_on_1903-1939_mn/prep-scripts/cdi_mort_on_1903-1939_mn.R
+pipelines/cdi_mort_on_1903-1939_mn/digitizations/cdi_mort_on_1903-1939_mn.xlsx
+metadata/columns/historical_disease.json
+metadata/columns/location.json
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/cases_prev_period.json
+metadata/columns/cases_two_years_ago.json
+metadata/columns/time_scale.json
+metadata/columns/location_type.json

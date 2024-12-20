@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_on_1903-1939_mn",
+  "source": "cdi_mort_on_1903-1939_mn",
+  "digitized": "yes",
+  "type": "CDI and Mortality",
+  "disease": "",
+  "location": "Ontario",
+  "years": "1903-1939",
+  "start_date": "1903-01-01",
+  "end_date": "1939-12-31",
+  "frequency": "monthly",
+  "breakdown": "cause",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/cdi_mort_on_1903-1939_mn.b27ace6263/pipelines/cdi_mort_on_1903-1939_mn/scans/cdi_on_1903-1939_mn.pdf",
+  "extension": "pdf"
+}

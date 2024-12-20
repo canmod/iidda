@@ -1,0 +1,19 @@
+{
+  "scan": "cdi_ca_1960_wk_prov_dbs_p2",
+  "source": "cdi_ca_1956-63_1973-74_wk_prov",
+  "scanner": "",
+  "digitized": "no",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1960",
+  "start_date": "1960-03-20",
+  "end_date": "1960-06-25",
+  "frequency": "weekly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1956-63_1973-74_wk_prov/scans/cdi_ca_1960_wk_province_dbs_Part2.pdf",
+  "extension": "pdf"
+}

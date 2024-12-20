@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_tbmisc_ca_1933-55_wk_prov_pos_cases",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Tuberculosis misc",
+  "location": "Canada",
+  "years": "",
+  "start_date": "",
+  "end_date": "",
+  "frequency": "weekly",
+  "breakdown": "",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/miscTB.pdf",
+  "extension": "pdf"
+}

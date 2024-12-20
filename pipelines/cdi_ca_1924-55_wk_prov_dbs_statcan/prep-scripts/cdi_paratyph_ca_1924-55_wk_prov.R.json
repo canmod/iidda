@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_paratyph_ca_1924-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/prep-scripts/cdi_paratyph_ca_1924-55_wk_prov.R",
+  "extension": "R"
+}

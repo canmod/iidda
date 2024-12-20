@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ca_1963_wk_prov_dbs",
+  "source": "cdi_ca_1956-63_1973-74_wk_prov",
+  "data_enterer": "Katherine Zhu",
+  "digitized": "yes",
+  "period_start_date": "1962-12-29",
+  "period_end_date": "1963-12-28",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1956-63_1973-74_wk_prov/digitizations/cdi_ca_1963_wk_prov_dbs.xlsx",
+  "extension": "xlsx"
+}

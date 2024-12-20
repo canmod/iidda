@@ -1,0 +1,6 @@
+{
+  "prep_script": "pop_ca_1971-2021_an_age_prov_sex",
+  "source": "pop_ca_1971-2021_an_age_prov_sex",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/pop_ca_1971-2021_an_age_prov_sex/prep-scripts/pop_ca_1971-2021_an_age_prov_sex.R",
+  "extension": "R"
+}

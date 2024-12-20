@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "source": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "2001-2007",
+  "start_date": "2001-07-01",
+  "end_date": "2006-12-31",
+  "frequency": "quarterly",
+  "breakdown": "province",
+  "urls": "https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr.html",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_2001-2006_qr_prov_ccdr/scans/cdi_ca_2001-2006_qr_prov_ccdr.pdf",
+  "extension": "pdf"
+}

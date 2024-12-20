@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_mort_on_1939-1989_wk",
+  "source": "cdi_mort_on_1939-1989_wk_moh",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1939-01-01",
+  "period_end_date": "1989-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/cdi_mort_on_1939-1989_wk_moh.d104d671b1/pipelines/cdi_mort_on_1939-1989_wk_moh/digitizations/cdi_ca_on__1939-89_wk.xlsx",
+  "extension": "xlsx"
+}

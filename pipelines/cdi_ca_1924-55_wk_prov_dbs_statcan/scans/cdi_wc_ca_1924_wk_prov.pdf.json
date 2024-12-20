@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_wc_ca_1924_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Whooping cough",
+  "location": "Canada",
+  "years": "1924",
+  "start_date": "1923-12-29",
+  "end_date": "1924-12-27",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1924_1955wklyincidWC.pdf",
+  "extension": "pdf"
+}

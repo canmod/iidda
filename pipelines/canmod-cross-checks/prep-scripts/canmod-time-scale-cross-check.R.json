@@ -1,0 +1,6 @@
+{
+  "prep_script": "canmod-time-scale-cross-check",
+  "source": "canmod-cross-checks",
+  "resource_path": "",
+  "extension": "R"
+}

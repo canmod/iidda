@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_typh_ca_1924-52_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Typhoid",
+  "location": "Canada",
+  "years": "1924-1952",
+  "start_date": "1923-12-29",
+  "end_date": "1952-12-27",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1924_1952wklyincidtyph.pdf",
+  "extension": "pdf"
+}

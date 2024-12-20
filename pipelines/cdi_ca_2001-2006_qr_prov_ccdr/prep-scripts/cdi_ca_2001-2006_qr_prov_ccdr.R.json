@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "source": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_2001-2006_qr_prov_ccdr/prep-scripts/cdi_ca_2001-2006_qr_prov_ccdr.R",
+  "extension": "R"
+}

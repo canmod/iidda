@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_ca_1990-2001_quarterly_prov_hc",
+  "source": "cdi_ca_1990-2001_quart_prov",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1990-2001",
+  "start_date": "1990-01-31",
+  "end_date": "2001-03-31",
+  "frequency": "quarterly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1990-2001_quart_prov/scans/cdi_ca_1990-2001_quarterly_province_healthcanada.pdf",
+  "extension": "pdf"
+}

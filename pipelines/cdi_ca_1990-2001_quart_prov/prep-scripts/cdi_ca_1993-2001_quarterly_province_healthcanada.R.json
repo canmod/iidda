@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_ca_1993-2001_quarterly_province_healthcanada",
+  "source": "cdi_ca_1990-2001_quart_prov",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1990-2001_quart_prov/prep-scripts/cdi_ca_1993-2001_quarterly_province_healthcanada.R",
+  "extension": "R"
+}

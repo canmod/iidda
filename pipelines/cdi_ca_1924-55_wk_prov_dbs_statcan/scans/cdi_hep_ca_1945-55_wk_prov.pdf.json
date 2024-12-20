@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_hep_ca_1945-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Hepatitis",
+  "location": "Canada",
+  "years": "1945-1955",
+  "start_date": "1944-12-30",
+  "end_date": "1955-12-31",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1945_1955wklyincidhepa.pdf",
+  "extension": "pdf"
+}

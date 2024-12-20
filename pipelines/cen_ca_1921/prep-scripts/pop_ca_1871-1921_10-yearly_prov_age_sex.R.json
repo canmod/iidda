@@ -1,0 +1,6 @@
+{
+  "prep_script": "pop_ca_1871-1921_10-yearly_prov_age_sex",
+  "source": "cen_ca_1921",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cen_ca_1921/prep-scripts/pop_ca_1871-1921_10-yearly_prov_age_sex.R",
+  "extension": "R"
+}

@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_cp_ca_1924-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "Chickenpox",
+  "location": "Canada",
+  "years": "1924-1955",
+  "start_date": "1923-12-29",
+  "end_date": "1955-12-31",
+  "frequency": "weekly, monthly",
+  "breakdown": "province",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "Monthly totals for 1952 incidence data were not present in the source.",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/scans/1924_1955wklyincidCP.pdf",
+  "extension": "pdf"
+}

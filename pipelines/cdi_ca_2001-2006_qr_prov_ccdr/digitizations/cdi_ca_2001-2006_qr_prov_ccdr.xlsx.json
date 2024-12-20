@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "source": "cdi_ca_2001-2006_qr_prov_ccdr",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "2001-07-01",
+  "period_end_date": "2006-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_2001-2006_qr_prov_ccdr/digitizations/cdi_ca_2001-2006_qr_prov_ccdr.xlsx",
+  "extension": "xlsx"
+}

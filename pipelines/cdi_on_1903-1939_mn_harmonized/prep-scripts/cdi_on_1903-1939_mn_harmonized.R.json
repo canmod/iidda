@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_on_1903-1939_mn_harmonized",
+  "source": "cdi_on_1903-1939_mn_harmonized",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_on_1903-1939_mn_harmonized/prep-scripts/cdi_on_1903-1939_mn_harmonized.R",
+  "extension": "R"
+}

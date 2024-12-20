@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_sk_1910-1927_mn",
+  "source": "cdi_sask_1910_1927_mn",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_sask_1910_1927_mn/prep-scripts/cdi_sk_1910-1927_mn.R",
+  "extension": "R"
+}

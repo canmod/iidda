@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_on_1990-2021_wk",
+  "source": "cdi_on_1990-2021_wk",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "1990-01-06",
+  "period_end_date": "2022-01-01",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/cdi_on_1990-2021_wk.4eb093dc6c/pipelines/cdi_on_1990-2021_wk/digitizations/cdi_on_1990-2021_wk.xlsx",
+  "extension": "xlsx"
+}

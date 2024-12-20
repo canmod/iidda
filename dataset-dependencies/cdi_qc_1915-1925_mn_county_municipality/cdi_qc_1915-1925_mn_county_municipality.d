@@ -1,0 +1,13 @@
+pipelines/cdi_qc_1895-1925_1927-31_mn_munic/prep-scripts/cdi_qc_1915-1925_mn_county_municipality.R
+pipelines/cdi_qc_1895-1925_1927-31_mn_munic/digitizations/cdi_qc_1915-1925_mn_county_municipality.xlsx
+pipelines/cdi_qc_1895-1925_1927-31_mn_munic/scans/cdi_qc_1915-1925_mn_county_municipality.pdf
+metadata/columns/historical_disease.json
+metadata/columns/nesting_location.json
+metadata/columns/location.json
+metadata/columns/cases_this_period.json
+metadata/columns/period_start_date.json
+metadata/columns/period_end_date.json
+metadata/columns/time_scale.json
+metadata/columns/location_type.json
+metadata/columns/scan_id.json
+metadata/columns/digitization_id.json

@@ -1,0 +1,11 @@
+{
+  "digitization": "pop_ca_1871-1921_10-yearly_prov_age_sex",
+  "source": "cen_ca_1921",
+  "data_enterer": "Chyun-Fung Shi",
+  "digitized": "yes",
+  "period_start_date": "1881-01-01",
+  "period_end_date": "1921-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cen_ca_1921/digitizations/pop_ca_1871-1921_10-yearly_prov_age_sex.xlsx",
+  "extension": "xlsx"
+}

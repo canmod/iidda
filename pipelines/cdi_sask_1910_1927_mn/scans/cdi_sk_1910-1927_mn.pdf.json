@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_sk_1910-1927_mn",
+  "source": "cdi_sask_1910_1927_mn",
+  "digitized": "",
+  "type": "CDI",
+  "disease": "",
+  "location": "Saskatchewan",
+  "years": "",
+  "start_date": "1910-01-01",
+  "end_date": "1927-12-31",
+  "frequency": "monthly",
+  "breakdown": "",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_sask_1910_1927_mn/scans/cdi_sk_1910-1927_mn.pdf",
+  "extension": "pdf"
+}

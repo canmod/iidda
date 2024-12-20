@@ -1,0 +1,6 @@
+{
+  "prep_script": "week-not-stated",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/prep-scripts/week-not-stated.R",
+  "extension": "R"
+}

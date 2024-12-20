@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_mort_on_1940-1947_mn",
+  "source": "cdi_mort_on_1940-1947_mn",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/cdi_mort_on_1940-1947_mn.0b6543b6e0/pipelines/cdi_mort_on_1940-1947_mn/prep-scripts/cdi_mort_on_1940-1947_mn.R",
+  "extension": "R"
+}

@@ -1,0 +1,18 @@
+{
+  "scan": "cdi_ca_1979-83_4wk_prov_statcan",
+  "source": "cdi_ca_1979-89_4wk_prov",
+  "digitized": "yes",
+  "type": "CDI",
+  "disease": "",
+  "location": "Canada",
+  "years": "1979-1983",
+  "start_date": "1979-01-27",
+  "end_date": "1983-10-29",
+  "frequency": "4 weekly",
+  "breakdown": "province",
+  "urls": "https://publications.gc.ca/site/eng/9.814071/publication.html",
+  "date_of_url_access": "",
+  "notes": "",
+  "path_original_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1979-89_4wk_prov/scans/cdi_ca_1979-83_4wk_prov_statcan.pdf",
+  "extension": "pdf"
+}

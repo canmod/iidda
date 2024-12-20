@@ -1,0 +1,11 @@
+pipelines/pop_ca_1971-2021_an_age_prov_sex/prep-scripts/pop_ca_1971-2021_an_age_prov_sex.R
+pipelines/pop_ca_1971-2021_an_age_prov_sex/digitizations/pop_ca_1971-2021_an_age_prov_sex.csv
+metadata/columns/date.json
+metadata/columns/location.json
+metadata/columns/location_type.json
+metadata/columns/sex.json
+metadata/columns/age_group.json
+metadata/columns/age_grouping_scheme.json
+metadata/columns/lower_age.json
+metadata/columns/upper_age.json
+metadata/columns/population.json

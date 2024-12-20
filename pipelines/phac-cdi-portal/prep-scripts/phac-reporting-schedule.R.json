@@ -1,0 +1,6 @@
+{
+  "prep_script": "phac-reporting-schedule",
+  "source": "phac-cdi-portal",
+  "resource_path": "",
+  "extension": "R"
+}

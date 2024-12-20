@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_bot_ca_1933-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "data_enterer": "Jeanne Lin",
+  "digitized": "yes",
+  "period_start_date": "1932-12-31",
+  "period_end_date": "1955-12-30",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_botulism_ca_1933-1955_wk_prov.xlsx",
+  "extension": "xlsx"
+}

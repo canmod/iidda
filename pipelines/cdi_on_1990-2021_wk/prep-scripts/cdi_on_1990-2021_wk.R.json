@@ -1,0 +1,6 @@
+{
+  "prep_script": "cdi_on_1990-2021_wk",
+  "source": "cdi_on_1990-2021_wk",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/cdi_on_1990-2021_wk.4eb093dc6c/pipelines/cdi_on_1990-2021_wk/prep-scripts/cdi_on_1990-2021_wk.R",
+  "extension": "R"
+}

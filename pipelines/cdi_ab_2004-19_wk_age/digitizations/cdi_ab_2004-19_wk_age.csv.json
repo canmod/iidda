@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_ab_2004-19_wk_age",
+  "source": "cdi_ab_2004-19_wk_age",
+  "data_enterer": "",
+  "digitized": "yes",
+  "period_start_date": "2004-01-01",
+  "period_end_date": "2019-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ab_2004-19_wk_age/digitizations/cdi_ab_2004-19_wk_age.csv",
+  "extension": "csv"
+}

@@ -1,0 +1,17 @@
+{
+  "scan": "cdi_mort_on_1939-1969_wk",
+  "source": "cdi_mort_on_1939-1989_wk_moh",
+  "digitized": "yes",
+  "type": "CDI and Mortality",
+  "disease": "",
+  "location": "Ontario",
+  "years": "1939-1969",
+  "start_date": "1939-01-01",
+  "end_date": "1969-12-27",
+  "frequency": "weekly",
+  "breakdown": "disease",
+  "urls": "",
+  "date_of_url_access": "",
+  "notes": "",
+  "extension": "pdf"
+}
