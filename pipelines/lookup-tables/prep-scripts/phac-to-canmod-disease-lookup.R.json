@@ -1,0 +1,6 @@
+{
+  "prep_script": "phac-to-canmod-disease-lookup",
+  "source": "lookup-tables",
+  "resource_path": "",
+  "extension": "R"
+}
