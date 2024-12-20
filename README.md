@@ -36,7 +36,7 @@ The following table contains links that will download a zip archive containing o
 
 ### CANMOD Digitization Project
 
-The [CANMOD](https://canmod.net) funded the [systematic curation and digitization](https://canmod.net/digitization) of historical Canadian infectious disease data. Released data from this project appear in the table below.
+The [CANMOD](https://canmod.net) network funded the [systematic curation and digitization](https://canmod.net/digitization) of historical Canadian infectious disease data. Released data from this project appear in the table below.
 
 | Description                                            | Links                                                                                                                                                                                                                                        | Size   | Compressed | Breakdown          | Shortest Frequency                   | Time Range | Command to [reproduce](#reproducing-iidda-datasets)                     |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------- |
