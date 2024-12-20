@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_tbnpulm_ca_1935-55_wk_prov",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "data_enterer": "Chyun-Fung Shi",
+  "digitized": "yes",
+  "period_start_date": "1934-12-29",
+  "period_end_date": "1955-12-31",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_TBnpulm_ca_1935-55_wk_prov.xlsx",
+  "extension": "xlsx"
+}
