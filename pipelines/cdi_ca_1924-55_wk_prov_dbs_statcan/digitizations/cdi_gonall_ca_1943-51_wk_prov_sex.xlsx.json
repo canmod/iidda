@@ -1,0 +1,11 @@
+{
+  "digitization": "cdi_gonall_ca_1943-51_wk_prov_sex",
+  "source": "cdi_ca_1924-55_wk_prov_dbs_statcan",
+  "data_enterer": "Chyun-Fung Shi",
+  "digitized": "yes",
+  "period_start_date": "1942-12-26",
+  "period_end_date": "1951-12-29",
+  "notes": "",
+  "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ca_1924-55_wk_prov_dbs_statcan/digitizations/cdi_gonorrhoea_bysex_ca_1943_1951_wk_prov.xlsx",
+  "extension": "xlsx"
+}
