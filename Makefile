@@ -10,7 +10,7 @@ SHELL := /bin/sh
 ## step 1: dependency files
 ## e.g.:
 ## make derived-data/prototype-dataset/prototype-dataset.d
-$(dep_files) : $(dat_dir)/%.d : $(dep_dir)/%.d | $(dat_dir)
+$(dep_files) : $(dat_dir)/%.d : $(dep_dir)/%.d | $(dat_dir) $(sup_dir)
 	@echo
 	@echo '-------------------------------------------------------------'
 	@echo 'Attempting to make the following dependency file:'

@@ -1,6 +1,7 @@
 dat_dir := derived-data
 src_dir := pipelines
 dep_dir := dataset-dependencies
+sup_dir := supporting-output
 r_pkg := r-package-recommendations
 public_repo := ../iidda
 
@@ -22,6 +23,8 @@ deploy_files := $(foreach id,$(dep_ids),$(dat_dir)/$(id)/$(id).deploy)
 $(dat_dir) :
 	@mkdir -p $@
 
+$(sup_dir) :
+	@mkdir -p $@
 
 # Include dependency files, remaking if necessary,
 # unless a `make fresh` was asked for.
