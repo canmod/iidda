@@ -1,0 +1,6 @@
+{
+  "prep_script": "canmod-location-lookup",
+  "source": "lookup-tables",
+  "path_prep_script": "https://github.com/canmod/iidda/blob/main/pipelines/canmod-location-lookup.R",
+  "extension": "R"
+}
