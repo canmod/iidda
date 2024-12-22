@@ -1,5 +1,7 @@
 # International Infectious Disease Data Archive (IIDDA)
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 <img src="assets/1939weeklyON.jpg" width="40%">
 
 - [International Infectious Disease Data Archive (IIDDA)](#international-infectious-disease-data-archive-iidda)
