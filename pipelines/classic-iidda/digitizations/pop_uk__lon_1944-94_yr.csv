@@ -1,0 +1,59 @@
+# Population of London; 1944-94,
+# From: Bryan T. Grenfell <bryan@zoo.cam.ac.uk>,
+# Date: Wed, 11 Nov 1998 17:27:38 +0000 (GMT),
+# This data file is available online from the International Infectious Disease Data Archive (IIDDA) at http://iidda.mcmaster.ca,
+# Please acknowledge IIDDA in any publication or presentation in which data downloaded from IIDDA are used.,
+# The first publication that made use of this data file was: D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) 'A simple model for complex dynamical transitions in epidemics' Science 287(5453): 667-670,
+# See the IIDDA website for a list of all papers that have used this data file.,
+year,population
+1944,6374980.00
+1945,6651040.00
+1946,7696580.00
+1947,7949780.00
+1948,8135380.00
+1949,8205310.00
+1950,8260440.00
+1951,8195630.00
+1952,8211960.00
+1953,8181200.00
+1954,8162470.00
+1955,8129280.00
+1956,8103140.00
+1957,8080110.00
+1958,8048020.00
+1959,8024760.00
+1960,8022550.00
+1961,7960520.00
+1962,7980850.00
+1963,7972840.00
+1964,7978900.00
+1965,7948270.00
+1966,7913600.00
+1967,7880760.00
+1968,7763820.00
+1969,7704500.00
+1970,7612300.00
+1971,7418020.00
+1972,7353810.00
+1973,7281080.00
+1974,7167600.00
+1975,7111500.00
+1976,7021400.00
+1977,6970100.00
+1978,6918000.00
+1979,6877100.00
+1980,6849100.00
+1981,6851400.00
+1982,6765100.00
+1983,6754500.00
+1984,6756000.00
+1985,6767500.00
+1986,6775200.00
+1987,6755300.00
+1988,6735400.00
+1989,6756400.00
+1990,6794400.00
+1991,6803100.00
+1992,6904600.00
+1993,6904600.00
+1994,6904600.00
