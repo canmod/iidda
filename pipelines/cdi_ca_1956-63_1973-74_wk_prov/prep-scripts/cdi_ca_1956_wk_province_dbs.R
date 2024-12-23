@@ -1,9 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
-
-
 # ----------------------------------------
 # Information for Locating Metadata
 tidy_dataset = "cdi_ca_1956_wk_prov_dbs"
