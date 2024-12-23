@@ -17,19 +17,7 @@
   - [Data Harmonization](#data-harmonization)
   - [Reproducing IIDDA Datasets](#reproducing-iidda-datasets)
     - [Running Locally](#running-locally)
-    - [Requirements](#requirements)
-    - [Overview](#overview)
-    - [Dependency Management](#dependency-management)
-  - [Project Structure](#project-structure)
-    - [Data Sources and Pipelines](#data-sources-and-pipelines)
-      - [Source Data](#source-data)
-      - [Source Code](#source-code)
-    - [Derived Data and Tidy Datasets](#derived-data-and-tidy-datasets)
-    - [Identifiers](#identifiers)
-    - [Metadata](#metadata)
-    - [Lookup Tables](#lookup-tables)
-  - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
-  - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
+    - [Running in a Docker Container](#running-in-a-docker-container)
   - [Maintainer](#maintainer)
   - [Funding](#funding)
 
@@ -113,6 +101,34 @@ If you have all/most of the [requirements](#requirements) you could try taking t
 1. (one-time) Clone this repository
 2. (one-time) `make install`
 3. `make`
+
+For instructions on making a specific dataset see the [Dependency Management](#dependency-management) section, but here is a simple example.
+```
+make derived-data/cdi_ca_1956_wk_prov_dbs/cdi_ca_1956_wk_prov_dbs.csv
+```
+
+### Running in a Docker Container
+
+The [requirements](#requirements) are satisfied by a [docker](https://www.docker.com/) image that can be obtained with the following command.
+```
+docker pull stevencarlislewalker/iidda
+```
+
+With this image, one can skip steps 1 and 2 in the section on [Running Locally](#running-locally) and replace step 3 with the following command.
+```
+docker run --rm \
+    -v "$(pwd):/usr/home/iidda" \
+    stevencarlislewalker/iidda \
+    make
+```
+
+Making specific datasets in the container can be done by modifying the `make` command to make a specific target. For example,
+docker run --rm \
+    -v "$(pwd):/usr/home/iidda" \
+    stevencarlislewalker/iidda \
+    make derived-data/cdi_ca_1956_wk_prov_dbs/cdi_ca_1956_wk_prov_dbs.csv
+```
+
 
 ### Requirements
 
