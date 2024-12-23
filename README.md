@@ -123,6 +123,7 @@ docker run --rm \
 ```
 
 Making specific datasets in the container can be done by modifying the `make` command to make a specific target. For example,
+```
 docker run --rm \
     -v "$(pwd):/usr/home/iidda" \
     stevencarlislewalker/iidda \
