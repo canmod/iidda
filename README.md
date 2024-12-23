@@ -130,6 +130,7 @@ docker run --rm \
     make derived-data/cdi_ca_1956_wk_prov_dbs/cdi_ca_1956_wk_prov_dbs.csv
 ```
 
+Datasets made in the container will be available in the `derived-data` directory, just as they would using `make` locally.
 
 ### Requirements
 
