@@ -16,6 +16,7 @@
   - [Data Dictionary](#data-dictionary)
   - [Data Harmonization](#data-harmonization)
   - [Reproducing IIDDA Datasets](#reproducing-iidda-datasets)
+    - [Running Locally](#running-locally)
     - [Requirements](#requirements)
     - [Overview](#overview)
     - [Dependency Management](#dependency-management)
@@ -43,6 +44,8 @@ The following table contains links that will download a zip archive containing o
 ### CANMOD Digitization Project
 
 The [CANMOD](https://canmod.net) network funded the [systematic curation and digitization](https://canmod.net/digitization) of historical Canadian infectious disease data. Released data from this project appear in the table below.
+
+❗Please acknowledge any use of these data by citing [this preprint](https://www.medrxiv.org/content/10.1101/2024.12.20.24319425v1).
 
 | Description                                            | Links                                                                                                                                                                                                                                        | Size   | Compressed | Breakdown          | Shortest Frequency                   | Time Range | Command to [reproduce](#reproducing-iidda-datasets)                     |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------- |
@@ -101,7 +104,11 @@ The files in [lookup-tables](lookup-tables) are used in the harmonization of his
 
 ## Reproducing IIDDA Datasets
 
-❗This is an advanced topic. If you would just like to access the data please see the [featured datasets](#featured-datasets), [links to classic IIDDA data](#classic-iidda), and the [IIDDA API](#iidda-api). If you have all/most of the [requirements](#requirements) you should try taking the following three steps to make all of the derived datasets in the archive.
+❗This is an advanced topic. If you would just like to access the data please see the [featured datasets](#featured-datasets), [links to classic IIDDA data](#classic-iidda), and the [IIDDA API](#iidda-api). 
+
+### Running Locally
+
+If you have all/most of the [requirements](#requirements) you could try taking the following three steps to make all of the derived datasets in the archive.
 
 1. (one-time) Clone this repository
 2. (one-time) `make install`
