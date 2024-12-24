@@ -29,6 +29,7 @@
     - [Identifiers](#identifiers)
     - [Metadata](#metadata)
     - [Lookup Tables](#lookup-tables)
+  - [Contributions](#contributions)
   - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
   - [Contributing Fixes to Data and Pipelines](#contributing-fixes-to-data-and-pipelines)
   - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
@@ -119,7 +120,7 @@ There are three alternatives each with different pros and cons.
    **Cons:** Slightly more complex setup, requiring Docker installation.
 3. [**Interactive (e.g., RStudio)**](#running-interactively)  
    *Runs interactively in an IDE like RStudio on the host OS, without requiring `make` or `docker`.*  
-   **Pros:** Easy for users unfamiliar with `make` or `docker`, ideal for debugging when modifying pipelines.  
+   **Pros:** Easy for users unfamiliar with `make` or `docker`, ideal for debugging when [contributing data/code/fixes](#contributions).  
    **Cons:** Requires manual understanding of [dataset dependencies](#dependency-management), less automated.
 
 ### Running Natively
@@ -332,9 +333,11 @@ Ultimately we want to remove the need for synonyms, which arose organically whil
 The datasets in the [lookup-tables](lookup-tables) folder are useful for [data harmonization](#data-harmonization). Each lookup table is produced in a partially manual and partially automated manner. Each lookup table is associated with a [derived dataset](#derived-data-and-tidy-datasets) that summarizes all of the unique historical names in the datasets declared in the [`.d` dependency file](#dependency-management) for that dataset. The script that produces this derived dataset also produces a lookup table, which has additional columns that define the harmonized names. If new historical names are discovered an error message is given prompting the pipeline author to update the lookup table with harmonized names for the new historical names. Once this lookup table contains harmonized names for all historical names, it can be used to harmonize the names of any dataset through a [dataset join](https://dplyr.tidyverse.org/reference/mutate-joins.html). This manual/automated hybrid is an example of a [human-in-the-loop](https://en.wikipedia.org/wiki/Human-in-the-loop) system.
 
 
-## Contributing Source Data and Pipelines
+## Contributions
 
 Thank you :pray:
+
+## Contributing Source Data and Pipelines
 
 Just create a sub-folder of [pipelines](pipelines), and place source data in its `digitizations` or `scans` sub-folders.
 
@@ -348,13 +351,9 @@ This is probably not enough information, but if you are interested in contributi
 
 ## Contributing Fixes to Data and Pipelines
 
-Thank you :pray:
-
 Make a changes to something in the [pipelines](pipelines) folder and open a [pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/). If you are just fixing data entry errors, that's all there is to do. If you are fixing code please read [Reproducing IIDDA Datasets](#reproducing-iidda-datasets).
 
 ## Contributing to IIDDA Project Development
-
-Thank you :pray:
 
 Please contact the [maintainer](#maintainer) if you would like to contribute more than data and pipelines for processing them.
 
