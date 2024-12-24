@@ -30,6 +30,7 @@
     - [Metadata](#metadata)
     - [Lookup Tables](#lookup-tables)
   - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
+  - [Contributing Fixes to Data and Pipelines](#contributing-fixes-to-data-and-pipelines)
   - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
   - [Maintainer](#maintainer)
   - [Funding](#funding)
@@ -118,7 +119,7 @@ There are three alternatives each with different pros and cons.
    **Cons:** Slightly more complex setup, requiring Docker installation.
 3. [**Interactive (e.g., RStudio)**](#running-interactively)  
    *Runs interactively in an IDE like RStudio on the host OS, without requiring `make` or `docker`.*  
-   **Pros:** Easy for users unfamiliar with `make` or `docker`, ideal for debugging.  
+   **Pros:** Easy for users unfamiliar with `make` or `docker`, ideal for debugging when modifying pipelines.  
    **Cons:** Requires manual understanding of [dataset dependencies](#dependency-management), less automated.
 
 ### Running Natively
@@ -345,7 +346,15 @@ That's it ... unless you want a gold star, in which case please do contribute [p
 
 This is probably not enough information, but if you are interested in contributing please contact the [maintainer](#maintainer) who would be happy to help and perhaps expand the docs on how to contribute.
 
+## Contributing Fixes to Data and Pipelines
+
+Thank you :pray:
+
+Make a changes to something in the [pipelines](pipelines) folder and open a [pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/). If you are just fixing data entry errors, that's all there is to do. If you are fixing code please read [Reproducing IIDDA Datasets](#reproducing-iidda-datasets).
+
 ## Contributing to IIDDA Project Development
+
+Thank you :pray:
 
 Please contact the [maintainer](#maintainer) if you would like to contribute more than data and pipelines for processing them.
 
