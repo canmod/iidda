@@ -16,8 +16,21 @@
   - [Data Dictionary](#data-dictionary)
   - [Data Harmonization](#data-harmonization)
   - [Reproducing IIDDA Datasets](#reproducing-iidda-datasets)
-    - [Running Locally](#running-locally)
+    - [Running Natively](#running-natively)
     - [Running in a Docker Container](#running-in-a-docker-container)
+    - [Running Interactively](#running-interactively)
+    - [Dependency Management](#dependency-management)
+    - [Requirements](#requirements)
+  - [Project Structure](#project-structure)
+    - [Data Sources and Pipelines](#data-sources-and-pipelines)
+      - [Source Data](#source-data)
+      - [Source Code](#source-code)
+    - [Derived Data and Tidy Datasets](#derived-data-and-tidy-datasets)
+    - [Identifiers](#identifiers)
+    - [Metadata](#metadata)
+    - [Lookup Tables](#lookup-tables)
+  - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
+  - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
   - [Maintainer](#maintainer)
   - [Funding](#funding)
 
@@ -92,9 +105,23 @@ The files in [lookup-tables](lookup-tables) are used in the harmonization of his
 
 ## Reproducing IIDDA Datasets
 
-❗This is an advanced topic. If you would just like to access the data please see the [featured datasets](#featured-datasets), [links to classic IIDDA data](#classic-iidda), and the [IIDDA API](#iidda-api). 
+❗This is an advanced topic. If you would just like to access the data please see the [featured datasets](#featured-datasets), [links to classic IIDDA data](#classic-iidda), and the [IIDDA API](#iidda-api).
 
-### Running Locally
+There are three alternatives each with different pros and cons.
+1. [**Makefile (Host OS)**](#running-natively)
+   *Runs natively on the host OS with `make` handling [dependencies](#dependency-management).*  
+   **Pros:** Simple to set up, no container overhead, leverages native tools.  
+   **Cons:** Requires `make` and other tools [installed](#requirements) on the host system.
+2. [**Makefile (Docker)**](#running-in-a-docker-container)
+   *Runs inside a Docker container with `make` managing dependencies.*  
+   **Pros:** Ensures consistency across environments, isolates dependencies.  
+   **Cons:** Slightly more complex setup, requiring Docker installation.
+3. [**Interactive (e.g., RStudio)**](#running-interactively)  
+   *Runs interactively in an IDE like RStudio on the host OS, without requiring `make` or `docker`.*  
+   **Pros:** Easy for users unfamiliar with `make` or `docker`, ideal for debugging.  
+   **Cons:** Requires manual understanding of [dataset dependencies](#dependency-management), less automated.
+
+### Running Natively
 
 If you have all/most of the [requirements](#requirements) you could try taking the following three steps to make all of the derived datasets in the archive.
 
@@ -114,7 +141,7 @@ The [requirements](#requirements) are satisfied by a [docker](https://www.docker
 docker pull stevencarlislewalker/iidda
 ```
 
-With this image, one can skip steps 1 and 2 in the section on [Running Locally](#running-locally) and replace step 3 with the following command.
+With this image, one can skip steps 1 and 2 in the section on [Running Locally](#running-natively) and replace step 3 with the following command.
 ```
 docker run --rm \
     -v "$(pwd):/usr/home/iidda" \
@@ -132,23 +159,9 @@ docker run --rm \
 
 Datasets made in the container will be available in the `derived-data` directory, just as they would using `make` locally.
 
-### Requirements
+### Running Interactively
 
-* Necessary
-    * [R > 4.0](https://www.r-project.org/).
-    * Have [Rscript](https://rdrr.io/cran/mark/man/rscript.html) on the path.
-    * The [iidda](https://github.com/canmod/iidda-tools/tree/main/R/iidda), [iidda.analysis](https://github.com/canmod/iidda-tools/tree/main/R/iidda.analysis), and [iidda.api](https://github.com/canmod/iidda-tools/tree/main/R/iidda.api) R packages included in [iidda-tools](https://github.com/canmod/iidda-tools). Please follow these [instructions](https://github.com/canmod/iidda-tools?tab=readme-ov-file#for-users) to install all three packages.
-    * [Make](https://www.gnu.org/software/make/).
-* Recommended
-    * Unix-like OS (includes macos).
-    * Different R packages are used to create different derived datasets. The [r-package-recommendations-check.R](R/r-package-recommendations-check.R) script will install missing packages and check if any package versions are different from what the [maintainer](#maintainer) has used.
-        * If you have `make` you should be able to run `make install` to get this package check (among other potentially useful things).
-        * If you have `Rscript` you should be able to run `Rscript R/r-package-recommendations-check.R`.
-* See [here](#contributing-to-iidda-project-development) for additional requirements that project maintainers must also satisfy.
-
-### Overview
-
-The simplest way to reproduce an IIDDA dataset is to go into the [pipelines](pipelines) directory, and select a [source](#data-sources-and-pipelines) -- there is one source per sub-folder. Each source directory has sub-folders that may include any of the following.
+The simplest way to reproduce an IIDDA dataset is to go into the [pipelines](pipelines) directory, and use a tool like [Rstudio](https://posit.co/products/open-source/rstudio/) to work with a [source](#data-sources-and-pipelines) -- there is one source per sub-folder. Each source directory has sub-folders that may include any of the following.
 
 * [`scans`](#source-data) -- Contains files of scans of original source documents.
 * [`digitizations`](#source-data) -- Contains files in a format (typically `.xlsx` or `.csv`) that can be read into R or Python as tabular data as opposed to as images. Files in `digitizations` often have the same information as the files in `scans`, but in a format that is easier to read.
@@ -175,6 +188,20 @@ Dependencies are declared using the `.d` files in [dataset-dependencies](dataset
 
 
 ❗The `derived-data` directory is not pushed to the repository, because it is generated by pipelines. This is why only one of the path formulas above is associated with an active link. Most of the data declared in the [dataset-dependencies](dataset-dependencies) folder is pushed to the [API](#iidda-api) and can be accessed through there if you would not like to go through the trouble of [reproducing the datasets](#reproducing-iidda-datasets) yourself.
+
+### Requirements
+
+* Necessary
+    * [R > 4.0](https://www.r-project.org/).
+    * Have [Rscript](https://rdrr.io/cran/mark/man/rscript.html) on the path.
+    * The [iidda](https://github.com/canmod/iidda-tools/tree/main/R/iidda), [iidda.analysis](https://github.com/canmod/iidda-tools/tree/main/R/iidda.analysis), and [iidda.api](https://github.com/canmod/iidda-tools/tree/main/R/iidda.api) R packages included in [iidda-tools](https://github.com/canmod/iidda-tools). Please follow these [instructions](https://github.com/canmod/iidda-tools?tab=readme-ov-file#for-users) to install all three packages.
+    * [Make](https://www.gnu.org/software/make/).
+* Recommended
+    * Unix-like OS (includes macos).
+    * Different R packages are used to create different derived datasets. The [r-package-recommendations-check.R](R/r-package-recommendations-check.R) script will install missing packages and check if any package versions are different from what the [maintainer](#maintainer) has used.
+        * If you have `make` you should be able to run `make install` to get this package check (among other potentially useful things).
+        * If you have `Rscript` you should be able to run `Rscript R/r-package-recommendations-check.R`.
+* See [here](#contributing-to-iidda-project-development) for additional requirements that project maintainers must also satisfy.
 
 ## Project Structure
 
