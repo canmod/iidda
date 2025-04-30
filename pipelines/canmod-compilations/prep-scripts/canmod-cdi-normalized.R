@@ -159,6 +159,7 @@ normalize_cdi = function(data_list, disease_lookup, harmonized_pop, output_datas
     )
     |> mutate(record_origin = "derived-implied-zeros")
     |> mutate(time_scale = "wk")
+    |> mutate(days_this_period = 7)
   )
 
   ## put things together and flatten the disease hierarchy ----------
