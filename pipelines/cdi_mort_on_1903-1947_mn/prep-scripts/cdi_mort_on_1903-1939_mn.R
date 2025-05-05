@@ -1,15 +1,7 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
-
-
 # ----------------------------------------
 # Information for Locating Metadata
 mort_dataset = "mort_on_1903-1939_mn"
 cdi_dataset = "cdi_on_1903-1939_mn"
-digitization = "cdi_mort_on_1903-1939_mn"
-metadata_path = "pipelines/cdi_mort_on_1903-1939_mn/tracking"
 # ----------------------------------------
 
 options(conflicts.policy = list(warn.conflicts = FALSE))
@@ -144,7 +136,7 @@ combine_sheets = function(cleaned_sheets){
 
 # Mortality data
 
-metadata = get_tracking_metadata(mort_dataset, digitization, metadata_path, original_format = FALSE) # iidda
+metadata = get_dataset_metadata(mort_dataset)
 
 data = read_digitized_data(metadata) # iidda
 
@@ -168,7 +160,7 @@ files_mort = write_tidy_data(tidy_mort, metadata_mort) # iidda
 
 # CDI data
 
-metadata = get_tracking_metadata(cdi_dataset, digitization, metadata_path, original_format = FALSE) # iidda
+metadata = get_dataset_metadata(cdi_dataset) # iidda
 
 data = read_digitized_data(metadata) # iidda
 
