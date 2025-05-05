@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # This file will have a different period matching file than other files since four weekly periods start in 1951, whereas four weekly periods usually start in 1952 for other files.

@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # **NOTE: this is a script for only the first two sheets. The last sheet is

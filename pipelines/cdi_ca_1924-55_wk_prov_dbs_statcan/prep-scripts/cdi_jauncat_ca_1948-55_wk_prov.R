@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # This disease has a different year starting date for 1955.

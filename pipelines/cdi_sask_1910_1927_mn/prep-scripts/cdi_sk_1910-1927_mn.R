@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # There is also mortality data for 1910 that is not being made into a 

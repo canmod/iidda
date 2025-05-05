@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # Scans are missing the week ending 1954-01-02, causing these yearly periods

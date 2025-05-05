@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # Missing weeks from 1942 (with no data) which were not recorded in week ending column in excel sheet.

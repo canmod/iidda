@@ -1,7 +1,3 @@
-## ======================================================
-## This script has been automatically modified,
-## so please do not manually modify it.
-## ======================================================
 
 
 # TODO: this script needs to check for merged cells and change the disease/nesting_disease
