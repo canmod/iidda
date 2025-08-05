@@ -30,9 +30,9 @@
     - [Metadata](#metadata)
     - [Lookup Tables](#lookup-tables)
   - [Contributions](#contributions)
-  - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
-  - [Contributing Fixes to Data and Pipelines](#contributing-fixes-to-data-and-pipelines)
-  - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
+    - [Contributing Source Data and Pipelines](#contributing-source-data-and-pipelines)
+    - [Contributing Fixes to Data and Pipelines](#contributing-fixes-to-data-and-pipelines)
+    - [Contributing to IIDDA Project Development](#contributing-to-iidda-project-development)
   - [Maintainer](#maintainer)
   - [Funding](#funding)
 
@@ -337,7 +337,7 @@ The datasets in the [lookup-tables](lookup-tables) folder are useful for [data h
 
 Thank you :pray:
 
-## Contributing Source Data and Pipelines
+### Contributing Source Data and Pipelines
 
 Just create a sub-folder of [pipelines](pipelines), and place source data in its `digitizations` or `scans` sub-folders.
 
@@ -349,11 +349,11 @@ That's it ... unless you want a gold star, in which case please do contribute [p
 
 This is probably not enough information, but if you are interested in contributing please contact the [maintainer](#maintainer) who would be happy to help and perhaps expand the docs on how to contribute.
 
-## Contributing Fixes to Data and Pipelines
+### Contributing Fixes to Data and Pipelines
 
 Make a changes to something in the [pipelines](pipelines) folder and open a [pull request](https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/). If you are just fixing data entry errors, that's all there is to do. If you are fixing code please read [Reproducing IIDDA Datasets](#reproducing-iidda-datasets).
 
-## Contributing to IIDDA Project Development
+### Contributing to IIDDA Project Development
 
 Please contact the [maintainer](#maintainer) if you would like to contribute more than data and pipelines for processing them.
 
@@ -368,7 +368,13 @@ This additional setup allows one to deploy datasets to the [IIDDA API](#iidda-ap
 make derived-data/{DATASET_ID}/{DATASET_ID}.deploy
 ```
 
-One may also delete dataset versions from the API using the `DeleteVersions` class in the `iidda-utilities` python package.
+One may also delete dataset versions from the API using the `DeleteVersions` class in the `iidda-utilities` python package. There is a [make rule](Makefile) that cleans up all old versions, which is necessary from time to time to maintain performance.
+
+```
+make delete-all-but-latest-versions
+```
+
+In the future we should archive these old versions somewhere else for reproducibility.
 
 ## Maintainer
 
