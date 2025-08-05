@@ -48,7 +48,13 @@ The following table contains links that will download a zip archive containing o
 
 The [CANMOD](https://canmod.net) network funded the [systematic curation and digitization](https://canmod.net/digitization) of historical Canadian infectious disease data. Released data from this project appear in the table below.
 
-❗Please acknowledge any use of these data by [citing](CITATION.cff) this [preprint](https://www.medrxiv.org/content/10.1101/2024.12.20.24319425v1).
+> [!IMPORTANT]
+> Please acknowledge any use of these data by [citing](CITATION.cff) this [preprint](https://www.medrxiv.org/content/10.1101/2024.12.20.24319425v1).
+
+> [!WARNING]
+> We’ve been noticing occasional temporary server issues that may cause the links below to fail.  
+> Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
+
 
 | Description                                            | Links                                                                                                                                                                                                                                        | Size   | Compressed | Breakdown          | Shortest Frequency                   | Time Range | Command to [reproduce](#reproducing-iidda-datasets)                     |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------- |
