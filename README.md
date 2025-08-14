@@ -81,6 +81,10 @@ An example of investigating the provenance of a strange smallpox record in these
 
 ## IIDDA API
 
+> [!WARNING]
+> We’ve been noticing occasional temporary server issues that may cause the IIDDA API to fail.  
+> Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
+
 The above tables contain links to featured data, but all data in the archive can be accessed using [this API](https://math.mcmaster.ca/iidda/api/docs).
 
 The list of all [dataset IDs](#identifiers) in the API can be found [here](https://math.mcmaster.ca/iidda/api/metadata?string_comparison=Equals&response_type=dataset_ids). To download any of these datasets, along with their metadata, one may use the following URL formula.
