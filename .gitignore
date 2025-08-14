@@ -1,3 +1,6 @@
+# Private data
+
+
 # History files
 .Rhistory
 .Rapp.history
@@ -7,6 +10,11 @@
 
 # User-specific files
 .Ruserdata
+
+# Local stuff
+
+docs/local-*
+LOCAL-*
 
 # Example code in package build process
 *-Ex.R
@@ -64,3 +72,7 @@ __pycache__
 derived-data
 supporting-output
 push-outcomes
+
+
+# Old stuff
+OLD-FOLDER-data/*
