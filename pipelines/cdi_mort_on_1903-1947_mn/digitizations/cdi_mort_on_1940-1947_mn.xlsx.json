@@ -1,11 +1,10 @@
 {
   "digitization": "cdi_mort_on_1940-1947_mn",
-  "source": "cdi_mort_on_1940-1947_mn",
+  "source": "cdi_mort_on_1903-1947_mn",
   "data_enterer": "Samara Manzin",
   "digitized": "yes",
   "period_start_date": "1940-01-01",
   "period_end_date": "1947-12-31",
   "notes": "",
-  "path_digitized_data": "https://github.com/canmod/iidda/blob/cdi_mort_on_1940-1947_mn.0b6543b6e0/pipelines/cdi_mort_on_1940-1947_mn/digitizations/cdi_mort_on_1940-1947_mn.xlsx",
   "extension": "xlsx"
 }

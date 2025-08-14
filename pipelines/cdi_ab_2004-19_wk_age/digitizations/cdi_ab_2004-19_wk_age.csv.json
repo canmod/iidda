@@ -5,7 +5,7 @@
   "digitized": "yes",
   "period_start_date": "2004-01-01",
   "period_end_date": "2019-12-31",
-  "notes": "",
+  "notes": "Data request made by Gabrielle MacKinnon on 2021-05-10. Request fulfilled by Alberta Health on 2021-08-24.",
   "path_digitized_data": "https://github.com/canmod/iidda/blob/main/pipelines/cdi_ab_2004-19_wk_age/digitizations/cdi_ab_2004-19_wk_age.csv",
   "extension": "csv"
 }

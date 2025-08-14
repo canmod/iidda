@@ -1,6 +1,6 @@
-pipelines/cdi_mort_on_1903-1939_mn/prep-scripts/cdi_mort_on_1903-1939_mn.R
-pipelines/cdi_mort_on_1903-1939_mn/digitizations/cdi_mort_on_1903-1939_mn.xlsx
-pipelines/cdi_mort_on_1903-1939_mn/scans/cdi_on_1903-1939_mn.pdf
+pipelines/cdi_mort_on_1903-1947_mn/prep-scripts/cdi_mort_on_1903-1939_mn.R
+pipelines/cdi_mort_on_1903-1947_mn/digitizations/cdi_mort_on_1903-1939_mn.xlsx
+pipelines/cdi_mort_on_1903-1947_mn/scans/cdi_on_1903-1939_mn.pdf
 metadata/columns/historical_disease.json
 metadata/columns/location.json
 metadata/columns/cases_this_period.json

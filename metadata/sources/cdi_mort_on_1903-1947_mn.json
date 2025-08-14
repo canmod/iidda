@@ -1,15 +1,15 @@
 {
-  "source": "cdi_mort_on_1903-1939_mn",
-  "organization": "Provincial Board of Health",
+  "source": "cdi_mort_on_1903-1947_mn",
+  "organization": "Ontario Ministry of Health",
   "type": "CDI and Mortality",
   "location": "Ontario",
-  "years": "1903-1939",
+  "years": "1903-1947",
   "frequency": "monthly",
-  "breakdown": "cause",
-  "formats": "Hardcopy",
+  "breakdown": "disease",
+  "formats": "Hard copy",
   "urls": "",
   "date_of_url_access": "",
   "digitization_priority": "",
-  "notes": "Annual reports of the provincial board of health.",
+  "notes": "The data were published in the following annual report series of predecessors of the Ontario Ministry of Health: The Sanitary Journal of the Provincial Board of Health of Ontario (1903-1905); Annual Report of the Provincial Board of Health (1906-1924); Annual Report of the Department of Health (1925-1947).",
   "source_tag": "main"
 }

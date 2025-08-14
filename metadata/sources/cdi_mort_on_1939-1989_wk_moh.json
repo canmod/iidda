@@ -1,15 +1,15 @@
 {
   "source": "cdi_mort_on_1939-1989_wk_moh",
   "organization": "Ontario Ministry of Health",
-  "type": "CDI/ Mortality",
+  "type": "CDI and Mortality",
   "location": "Ontario",
   "years": "1939-1989",
   "frequency": "weekly",
-  "breakdown": "cause",
-  "formats": "Hardcopy (with handwriting)",
+  "breakdown": "disease",
+  "formats": "Hard copy (with handwriting)",
   "urls": "",
   "date_of_url_access": "",
   "digitization_priority": "",
-  "notes": "",
+  "notes": "Data sheets received directly from the Ontario Ministry of Health.",
   "source_tag": "main"
 }

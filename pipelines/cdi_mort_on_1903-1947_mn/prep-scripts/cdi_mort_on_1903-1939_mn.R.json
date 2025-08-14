@@ -1,6 +1,5 @@
 {
   "prep_script": "cdi_mort_on_1903-1939_mn",
-  "source": "cdi_mort_on_1903-1939_mn",
-  "path_prep_script": "https://github.com/canmod/iidda/blob/cdi_mort_on_1903-1939_mn.b27ace6263/pipelines/cdi_mort_on_1903-1939_mn/prep-scripts/cdi_mort_on_1903-1939_mn.R",
+  "source": "cdi_mort_on_1903-1947_mn",
   "extension": "R"
 }

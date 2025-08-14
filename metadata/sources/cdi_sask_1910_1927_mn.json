@@ -1,16 +1,14 @@
 {
   "source": "cdi_sask_1910_1927_mn",
-  "organization": "Saskatchewan Bureau of Public Health",
+  "organization": "Saskatchewan Department of Public Health",
   "type": "CDI",
   "location": "Saskatchewan",
   "years": "1910,1921-1927",
   "frequency": "monthly",
   "breakdown": "",
-  "formats": "Hardcopy",
+  "formats": "Hard copy",
   "urls": "",
   "date_of_url_access": "",
   "digitization_priority": "",
-  "notes": "",
-  "Unnamed..11": "NA",
-  "source_tag": "NA"
+  "notes": ""
 }
