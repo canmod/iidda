@@ -55,6 +55,8 @@ The [CANMOD](https://canmod.net) network funded the [systematic curation and dig
 > We’ve been noticing occasional temporary server issues that may cause the links below to fail.  
 > Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
 
+> [!IMPORTANT]
+> Good news.  Looks like our collaborators have issued a fix for this server issue. We are monitoring the situation.
 
 | Description                                            | Links                                                                                                                                                                                                                                        | Size   | Compressed | Breakdown          | Shortest Frequency                   | Time Range | Command to [reproduce](#reproducing-iidda-datasets)                     |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------- |
@@ -84,6 +86,10 @@ An example of investigating the provenance of a strange smallpox record in these
 > [!WARNING]
 > We’ve been noticing occasional temporary server issues that may cause the IIDDA API to fail.  
 > Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
+
+> [!IMPORTANT]
+> Good news.  Looks like our collaborators have issued a fix for this server issue. We are monitoring the situation.
+
 
 The above tables contain links to featured data, but all data in the archive can be accessed using [this API](https://math.mcmaster.ca/iidda/api/docs).
 
