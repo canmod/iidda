@@ -51,13 +51,6 @@ The [CANMOD](https://canmod.net) network funded the [systematic curation and dig
 > [!IMPORTANT]
 > Please acknowledge any use of these data by [citing](CITATION.cff) this [preprint](https://www.medrxiv.org/content/10.1101/2024.12.20.24319425v1).
 
-> [!WARNING]
-> We’ve been noticing occasional temporary server issues that may cause the links below to fail.  
-> Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
-
-> [!IMPORTANT]
-> Good news.  Looks like our collaborators have issued a fix for this server issue. We are monitoring the situation.
-
 | Description                                            | Links                                                                                                                                                                                                                                        | Size   | Compressed | Breakdown          | Shortest Frequency                   | Time Range | Command to [reproduce](#reproducing-iidda-datasets)                     |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------ | ------------------------------------ | ---------- | ----------------------------------------------------------------------- |
 | Canadian Disease Incidence Data (CANDID), Unharmonized | [Data](https://math.mcmaster.ca/iidda/api/download?resource=csv&resource=metadata&dataset_ids=canmod-cdi-unharmonized), [Metadata](https://math.mcmaster.ca/iidda/api/metadata?string_comparison=Equals&dataset_ids=canmod-cdi-unharmonized) | 335MB  | 11.2MB     | prov/disease       | wk,mo,qr,yr (depending on breakdown) | 1903-2020  | `make derived-data/canmod-cdi-unharmonized/canmod-cdi-unharmonized.csv` |
@@ -82,14 +75,6 @@ The current results on cross-tabulations for checking data quality in this proje
 An example of investigating the provenance of a strange smallpox record in these data is [here](https://canmod.github.io/iidda-tools/iidda.api/articles/Provenance).
 
 ## IIDDA API
-
-> [!WARNING]
-> We’ve been noticing occasional temporary server issues that may cause the IIDDA API to fail.  
-> Please [open an issue](https://github.com/canmod/iidda/issues) to let us know, and try again a bit later. We're working on it and thanks for your patience!
-
-> [!IMPORTANT]
-> Good news.  Looks like our collaborators have issued a fix for this server issue. We are monitoring the situation.
-
 
 The above tables contain links to featured data, but all data in the archive can be accessed using [this API](https://math.mcmaster.ca/iidda/api/docs).
 
