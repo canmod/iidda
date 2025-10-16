@@ -1,10 +1,13 @@
 # International Infectious Disease Data Archive (IIDDA)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![DOI][zenodo-badge]][zenodo-doi]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[zenodo-doi]: https://doi.org/10.5281/zenodo.14187941
+[zenodo-badge]: https://zenodo.org/badge/DOI/10.5281/zenodo.14187941.svg
 
 <img src="assets/1939weeklyON.jpg" width="40%">
 
