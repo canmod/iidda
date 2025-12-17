@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the following preprint."
+message: "If you use this repository, please cite the following paper."
 title: "International Infectious Disease Data Archive (IIDDA)"
 authors:
   - family-names: "Earn"
@@ -25,7 +25,7 @@ repository-code: "https://github.com/canmod/iidda"
 license: "GPL-3.0"
 preferred-citation:
   type: article
-  title: "Over a Century of Infectious Disease Surveillance in Canada: Introducing the Canadian Disease Incidence Dataset (CANDID)"
+  title: "A century of weekly notifiable disease incidence data by province in Canada"
   authors:
     - family-names: "Earn"
       given-names: "David J. D."
@@ -45,8 +45,7 @@ preferred-citation:
       given-names: "Jonathan"
     - family-names: "Walker"
       given-names: "Steven C."
-  year: 2024
-  url: "https://www.medrxiv.org/content/10.1101/2024.12.20.24319425v1"
-  version: "v1"
-  doi: "10.1101/2024.12.20.24319425"
-  publisher: "medRxiv"
+  year: 2025
+  url: "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0005550"
+  doi: "10.1371/journal.pgph.0005550"
+  journal: "PLOS Global Public Health"
