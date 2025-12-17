@@ -8,7 +8,6 @@
 ## datasets for other datasets that should be pushed
 dep_ids_to_ignore += canmod-location-lookup
 dep_ids_to_ignore += canmod-disease-lookup
-dep_ids_to_ignore += phac-to-canmod-disease-lookup
 
 
 ## skipping lbom -- sometimes useful given how long it can take
@@ -22,10 +21,3 @@ dat_ids_to_ignore += mort_uk_1661-1845
 dat_ids_to_ignore += mort_uk_1842-1950
 dat_ids_to_ignore += plag_uk_1661-1688_wk_par
 dat_ids_to_ignore += london-mort-harmonized
-#dat_ids_to_ignore += phac-to-canmod-disease-lookup
-#dat_ids_to_ignore += canmod-location-lookup
-#dat_ids_to_ignore += canmod-disease-lookup
-#dat_ids_to_ignore += canmod-cdi-unharmonized
-#dat_ids_to_ignore += canmod-cdi-normalized
-#dat_ids_to_ignore += canmod-disease-cross-check
-#dat_ids_to_ignore += canmod-time-scale-cross-check
