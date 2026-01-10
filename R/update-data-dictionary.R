@@ -1,9 +1,14 @@
 library(jsonlite)
-("metadata/columns/*.json"
+
+dictionary_list = ("metadata/columns/*.json"
   |> Sys.glob()
   |> lapply(read_json)
-  |> write_json(
-      "global-metadata/data-dictionary.json"
-    , auto_unbox = TRUE, pretty = TRUE
-  )
+)
+
+# vapply(dictionary_list, getElement, character(1L), "name") |> cat(sep = "\n")
+
+write_json(
+    dictionary_list
+  , "global-metadata/data-dictionary.json"
+  , auto_unbox = TRUE, pretty = TRUE
 )

@@ -93,9 +93,9 @@ clean :
 	## macos: remove all .DS_Store files anywhere
 	@find . -type f -name .DS_Store -exec rm -f {} \;
 
+## carefull: remove all derived data
 .PHONY : fresh
 fresh : clean
-	## carefull: remove all derived data
 	@rm -rf $(dat_dir)
 
 
@@ -111,11 +111,6 @@ global-metadata/data-dictionary.json : R/update-data-dictionary.R metadata/colum
 
 global-metadata/$(r_pkg).R : R/update-$(r_pkg).R pipelines/*/prep-scripts/*.R
 	@Rscript $<
-
-.PHONY : update-lookup-tables
-update-lookup-tables:
-	@python deployment-scripts/update_lookup_tables.py
-	@echo "Do not forget to push new commits associated with lookup tables to iidda"
 
 .PHONY : delete-all-but-latest-versions
 delete-all-but-latest-versions:
